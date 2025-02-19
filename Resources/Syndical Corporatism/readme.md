@@ -1,6 +1,6 @@
 Syndical Corporatism the “Third Way” alternative to both Capitalism and Socialism 
 
-![image](https://github.com/user-attachments/assets/0cf94d5a-da0b-4c7e-b70d-0b59fdd7549f)
+![image](https://github.com/FreshSoftware4/AllorEverything/blob/73c608039dcddb73a43a1f33799a3df25e13d872/Resources/Syndical%20Corporatism/img/Syndical%20Corporatism.jpg)
 
 Syndical Corporatism is a political, economic, and social ideology that synthesizes National Syndicalism, State Corporatism, and Social Corporatism into a system where workers, industries, and the state collaborate to achieve national strength, social justice, and economic efficiency. It rejects both unregulated capitalism and centralized socialism, advocating for functional representation, corporate responsibility, and syndical organization under a state-coordinated framework.
 
@@ -94,7 +94,7 @@ Syndical Corporatism reconciles labor and capital, discipline and freedom, tradi
 
 “A nation of workers and thinkers alike.”
 
-![image](https://github.com/user-attachments/assets/25c0475d-509c-433b-8c61-309d167b46d8)
+![image](https://github.com/FreshSoftware4/AllorEverything/blob/73c608039dcddb73a43a1f33799a3df25e13d872/Resources/Syndical%20Corporatism/img/SynCorp%20Fist.jpg)
 
 Syndical Corporatist Policies
 
@@ -268,7 +268,7 @@ Companies are required to invest in environmental projects, such as clean energy
 
 Green energy transition programs, ensuring the economy shifts towards sustainable energy sources.
 
-![image](https://github.com/user-attachments/assets/b9930780-9cef-457e-a530-25049386b271)
+![image](https://github.com/FreshSoftware4/AllorEverything/blob/73c608039dcddb73a43a1f33799a3df25e13d872/Resources/Syndical%20Corporatism/img/SynCorp%20Gear.jpg)
 
 Conclusion: A Syndical Corporatist Society
 
