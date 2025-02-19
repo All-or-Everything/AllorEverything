@@ -317,7 +317,7 @@ Assesses the psychological state of workers using cognitive scanning and behavio
     
 - **Function**
     
-    Utilizes mutually beneficial contracts between patients and medical institutions to intensively acquire and utilize information from patients. Provides information, which travels through the [[AoE Societal System]] and [[AoE Societal System]], into the [[AoE Societal System]], and ultimately to the [[AoE Societal System]] where it can be accounted for via the [[AoE Societal System]], enabling the economic system to account for health-related externalities.
+    Utilizes mutually beneficial contracts between patients and medical institutions to intensively acquire and utilize information from patients. Provides information, which travels through the DPS and DDS, into the SRC, and ultimately to the SPS where it can be accounted for via the IEP, enabling the economic system to account for health-related externalities.
     
 - **Purpose**
     
