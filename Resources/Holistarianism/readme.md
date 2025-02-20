@@ -1,4 +1,4 @@
-**The Holistarian**
+## **The Holistarian**
 
 **Proclamation**
 
