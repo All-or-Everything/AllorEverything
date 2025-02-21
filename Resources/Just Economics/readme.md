@@ -26,7 +26,7 @@ How Do We Do It?
 
 These are our guidebooks to building Just Markets. The Big Myth details how the term Free Market was intentionally popularized by American Businesses through any avenue they could use; it provides a detailed plan for us to copy them. The Road To Freedom provides a great foundations for the reasons Why we need Just Markets to have real freedom.
 
-![img]() ![img]()
+![img](https://github.com/FreshSoftware4/AllorEverything/blob/87c50a67710584565828cf57a057389749d167c0/Resources/Just%20Economics/img/image.png) ![img](https://github.com/FreshSoftware4/AllorEverything/blob/87c50a67710584565828cf57a057389749d167c0/Resources/Just%20Economics/img/image2.png)   
 
 
 
