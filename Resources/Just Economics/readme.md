@@ -1,3 +1,73 @@
+[Just Markets](https://www.justmarkets.institute/home)
+============
+
+Our movement for a morally right and fair  market system for a Sustainable, Equitable, and Efficient economy!
+
+### **Just Markets Institute**
+
+501(c)3 Educational Nonprofit
+
+We provide free cutting-edge economics education to help you fix market failures and solve collective action problems. 
+
+### Sustainable
+
+How to we ensure our markets don't destroy our environments?
+
+### Equitable
+
+How do we build just markets where everyone has opportunity to succeed?
+
+### Efficient
+
+How do we prevent / fix market failures and increase fair competition?
+
+How Do We Do It?
+----------------
+
+These are our guidebooks to building Just Markets. The Big Myth details how the term Free Market was intentionally popularized by American Businesses through any avenue they could use; it provides a detailed plan for us to copy them. The Road To Freedom provides a great foundations for the reasons Why we need Just Markets to have real freedom.
+
+![img]() ![img]()
+
+
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+[Our Vision](https://www.justmarkets.institute/about-us/our-vision)
+==========
+
+Do you SEE a Sustainable, Equitable, and Efficient economy in our future?
+
+Our Vision
+----------
+
+Our vision is to replace the outdated/unproductive terms of free market capitalism, socialism, and communism with a new term to describe a sustainable, equitable, and efficient market economy. By updating our language, we can provide an economic justification to stop climate change, reduce inequality, and give people more freedom to spend their time the way they choose. 
+
+our mission
+-----------
+
+Our mission is to provide mass media economics education to promote just markets. We will facilitate partnerships between researchers, educators, and nonprofits to create a pipeline of knowledge to help people build a more sustainable, equitable, and efficient economy!
+
+OUR VALUES
+----------
+
+We believe in morality, thinking critically, and disrupting our established beliefs. It is critical to take on this difficult challenge. We believe in the Golden Rule, treat others like you would want to be treated, and to create public policy behind the _Veil of Ignorance_. Everyone matters equally in the eyes of our public institutions.
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+
 [Time economics](https://www.justmarkets.institute/economics/time-economics)
 ==============
 
