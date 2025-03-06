@@ -1,0 +1,11 @@
+{
+  "plugin-reloader:refresh": [
+    {
+      "modifiers": [
+        "Mod",
+        "Meta"
+      ],
+      "key": "="
+    }
+  ]
+}

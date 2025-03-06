@@ -1,0 +1,10 @@
+{
+  "cssTheme": "Border",
+  "showViewHeader": true,
+  "accentColor": "#4b28d7",
+  "showRibbon": true,
+  "theme": "obsidian",
+  "textFontFamily": "Cascadia Code,Inter",
+  "interfaceFontFamily": "Cascadia Code,Inter",
+  "monospaceFontFamily": "Cascadia Mono,Inter"
+}

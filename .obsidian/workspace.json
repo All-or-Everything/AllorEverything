@@ -1,0 +1,355 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "card-browser-view",
+              "state": {
+                "path": "/"
+              },
+              "icon": "align-vertical-justify-start",
+              "title": "Browse"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d91b58e700c98cf4",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa5fdb4af96b2e16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e342e6432ea6815f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "157f32e8cae553e0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:/",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "dd71e14a2ae0ef93",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "2e0aa0b779a23220",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {},
+              "icon": "sheets-in-box",
+              "title": "File Tree"
+            }
+          },
+          {
+            "id": "5bda4b795a7d30ce",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 305.5
+  },
+  "right": {
+    "id": "a45c5438fdaa844d",
+    "type": "split",
+    "children": [
+      {
+        "id": "eec01b1c570d59a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5885b486602f6398",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes and Snippets.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Notes and Snippets"
+            }
+          },
+          {
+            "id": "57067d6c97c1e63e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "aa20b36f3cd23a2b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9b3954f1d25a7938",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Best Themes.md",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Best Themes"
+            }
+          },
+          {
+            "id": "31c5abc14fa18f65",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "04e33bccdbf85177",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {},
+              "icon": "lucide-info",
+              "title": "File properties"
+            }
+          },
+          {
+            "id": "e8316d8d03676102",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
+            }
+          },
+          {
+            "id": "09ce36d31fd7a79c",
+            "type": "leaf",
+            "state": {
+              "type": "Strange New Worlds",
+              "state": {},
+              "icon": "file-digit",
+              "title": "Strange New Worlds"
+            }
+          },
+          {
+            "id": "1c2d2696524f413b",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
+            }
+          }
+        ],
+        "currentTab": 8
+      },
+      {
+        "id": "995351915ef3fbc5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01d3c83054bb5cbd",
+            "type": "leaf",
+            "state": {
+              "type": "map-of-content",
+              "state": {},
+              "icon": "stacked-levels",
+              "title": "Map of Content"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 427.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "header-enhancer:Header Enhancer": false,
+      "homepage:Open homepage": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obisidian-note-linker:Note Linker": false,
+      "better-plugins-manager:Plugin Manager": false,
+      "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false,
+      "janitor:Janitor: scan vault": false,
+      "lineage:Toggle Lineage view": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "dashboard-navigator:Open dashboard navigator": false,
+      "tab-selector:Open tab selector": false,
+      "templater-obsidian:Templater": false,
+      "system3-relay:Relay": false,
+      "translate:Open translation view": false,
+      "obsidian-projects:Open projects": false,
+      "project-browser:Open project browser": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false,
+      "obsidian-import-json:JSON/CSV Importer": false,
+      "nexus-ai-chat-importer:Nexus AI Chat Importer - Import new file": false,
+      "smart-connections-visualizer:Open smart connections visualizer": false,
+      "vault-explorer:Open vault explorer": false,
+      "better-recall:Open decks": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "markdown-importer:Open format converter": false,
+      "random-note:Open random note": false,
+      "publish:Publish changes...": false,
+      "zk-prefixer:Create new unique note": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-importer:Open Importer": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "brain-dump-mode:Activate Brain Dump Mode": false,
+      "create-task:Create Task": false,
+      "helpmate:HelpMate": false,
+      "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "super-duper-audio-recorder:Start/Stop Recording": false,
+      "github-sync:Sync with Remote": false,
+      "obsidian-kanban:Create new board": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "map-of-content:Update Map of Content": false,
+      "card-board:CardBoard": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
+    }
+  },
+  "active": "1c2d2696524f413b",
+  "lastOpenFiles": [
+    "TODO.md",
+    "Tags/Tags.md",
+    "Tags",
+    "HardCord.md",
+    "Untitled 3.canvas",
+    "HARDCORD.png",
+    "Untitled 1.canvas",
+    "Untitled 2.canvas",
+    "2025-02-23.md",
+    "Untitled.canvas",
+    "Notion/Notion.md",
+    "Border Theme Styles/Border Theme Styles.md",
+    "Untitled.md",
+    "Notion/AoE Societal System.md",
+    "Untitled 1.md",
+    "Central Note.md",
+    "c319f107c6878ae7568f9270a9e9ea40_MD5.png",
+    "Welcome.md",
+    "Best Themes.md",
+    "plugin-debugger-log.txt",
+    "console-log.DESKTOP-TPI2I3K.md",
+    "Notes and Snippets.md",
+    "Notion/Team Standup @November 6, 2024.md",
+    "Notion/New Standup.md",
+    "Notion/Getting started with meeting notes.md",
+    "Notion/New Weekly.md",
+    "Notion/Team Weekly @November 5, 2024.md",
+    "Notion/Example Brainstorm.md",
+    "Notion/New Brainstorm.md",
+    "Notion/New Product Spec (PRD).md",
+    "Notion/Getting started with docs.md",
+    "Notion/Example PRD.md",
+    "Notion/Example Tech Spec.md",
+    "Notion/New Technical Spec.md",
+    "Intramutualism_tex.jpg",
+    "Notion",
+    "obsidian-border-main/presets/Archived/Wave.json",
+    "obsidian-border-main/presets/Archived/Sunset-base64.json",
+    "obsidian-border-main/presets/Archived/On the table.json",
+    "obsidian-border-main/presets/Archived/Neumorphism-dark.json",
+    "obsidian-border-main/presets/Rosé-Pine-Dawn.json",
+    "obsidian-border-main/presets/Lightdown-orange.json",
+    "obsidian-border-main/presets/flexoki-light.json",
+    "obsidian-border-main/obsidian-border-main/img/version-1.png",
+    "obsidian-border-main/obsidian-border-main/img/Wave.gif",
+    "obsidian-border-main/obsidian-border-main/img/version-2.png",
+    "obsidian-border-main/obsidian-border-main/img/Usage.png",
+    "obsidian-border-main/obsidian-border-main/img/Translucent.png",
+    "obsidian-border-main/obsidian-border-main/img/Sunset.png",
+    "obsidian-border-main/obsidian-border-main/img/sunset-bg.png"
+  ]
+}

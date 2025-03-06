@@ -1,0 +1,11 @@
+{
+  "useMarkdownLinks": true,
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "uriCallbacks": true,
+  "defaultViewMode": "preview",
+  "livePreview": false,
+  "trashOption": "local",
+  "strictLineBreaks": true,
+  "propertiesInDocument": "source"
+}
