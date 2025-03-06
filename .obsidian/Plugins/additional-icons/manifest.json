@@ -1,0 +1,11 @@
+{
+	"id": "additional-icons",
+	"name": "Additional Icons",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Adds additional iconsets to Obsidian",
+	"author": "Matthew Turk",
+	"authorUrl": "https://matthewturk.github.io/",
+	"fundingUrl": "https://give.cff.org/",
+	"isDesktopOnly": false
+}
