@@ -1,0 +1,30 @@
+{
+  "enabledpluginsgroup": [
+    {
+      "id": "1738458660568",
+      "name": "Backup1",
+      "icontype": "lucide",
+      "icon": "puzzle",
+      "enabledplugins": [
+        "settings-search",
+        "plugin-reloader",
+        "obsidian-importer",
+        "better-plugins-manager",
+        "vertical-tabs",
+        "theme-picker",
+        "obsidian-divide-and-conquer",
+        "obsidian-theme-design-utilities",
+        "bin-theme-controller",
+        "obsidian-style-settings",
+        "obsidian-plugin-groups",
+        "share-my-plugin-list",
+        "plugins-annotations",
+        "plugin-manager",
+        "settings-management",
+        "obsidian-better-command-palette"
+      ]
+    }
+  ],
+  "enabledcsssnippets": [],
+  "pluginsgridtype": "grid"
+}

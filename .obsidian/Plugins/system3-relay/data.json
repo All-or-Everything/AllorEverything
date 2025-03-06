@@ -1,0 +1,10 @@
+{
+  "sharedFolders": [],
+  "debugging": false,
+  "enableUpdateYDocFromDiskBuffer": false,
+  "enableDownloadOnAddToVault": false,
+  "enableUploadOnShare": false,
+  "enableDocumentStatus": false,
+  "enableDebugFileTag": false,
+  "enableNewLinkFormat": false
+}
