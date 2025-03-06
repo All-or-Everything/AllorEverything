@@ -1,0 +1,10 @@
+{
+  "searchDebounce": 1000,
+  "refreshDebounce": 2000,
+  "searchBlock": true,
+  "pageSize": 100,
+  "indexes": {
+    "Obsidian File": true,
+    "Anki Note": false
+  }
+}
