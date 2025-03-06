@@ -1,0 +1,403 @@
+{
+  "workspaces": {
+    "Default": {
+      "main": {
+        "id": "879caaf09f5caad6",
+        "type": "split",
+        "children": [
+          {
+            "id": "91a4725d7b6634d4",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "85b0555cc0ac2413",
+                "type": "leaf",
+                "state": {
+                  "type": "home-tab-view",
+                  "state": {},
+                  "icon": "search",
+                  "title": "Home tab"
+                }
+              },
+              {
+                "id": "44b9d445b41ea13a",
+                "type": "leaf",
+                "state": {
+                  "type": "card-browser-view",
+                  "state": {
+                    "path": "/"
+                  },
+                  "icon": "align-vertical-justify-start",
+                  "title": "Browse"
+                }
+              },
+              {
+                "id": "d0df93179cae36bd",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "TODO.md",
+                    "mode": "preview",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "TODO"
+                }
+              },
+              {
+                "id": "b40cbdb25466956f",
+                "type": "leaf",
+                "state": {
+                  "type": "kanban",
+                  "state": {
+                    "file": "Untitled Kanban.md",
+                    "kanbanViewState": {
+                      "kanban-plugin": "board",
+                      "list-collapse": [
+                        false,
+                        false,
+                        false
+                      ]
+                    }
+                  },
+                  "icon": "lucide-trello",
+                  "title": "Untitled Kanban"
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "d91b58e700c98cf4",
+        "type": "split",
+        "children": [
+          {
+            "id": "fa5fdb4af96b2e16",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e342e6432ea6815f",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "157f32e8cae553e0",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "[\"tags\"]",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "dd71e14a2ae0ef93",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              },
+              {
+                "id": "b9efb2e78529d93b",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "Plugin no longer active"
+                }
+              },
+              {
+                "id": "91a06d9671ec0d04",
+                "type": "leaf",
+                "state": {
+                  "type": "vertical-tabs",
+                  "state": {},
+                  "icon": "gallery-vertical",
+                  "title": "Vertical tabs"
+                }
+              },
+              {
+                "id": "4d1cc91bd20813dd",
+                "type": "leaf",
+                "state": {
+                  "type": "mk-path-view",
+                  "state": {},
+                  "icon": "layout-grid",
+                  "title": "Navigator"
+                }
+              }
+            ],
+            "currentTab": 5
+          }
+        ],
+        "direction": "horizontal",
+        "width": 373.5
+      },
+      "right": {
+        "id": "a45c5438fdaa844d",
+        "type": "split",
+        "children": [
+          {
+            "id": "eec01b1c570d59a7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5885b486602f6398",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Notes and Snippets.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for Notes and Snippets"
+                }
+              },
+              {
+                "id": "57067d6c97c1e63e",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Notes and Snippets.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": false
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from Notes and Snippets"
+                }
+              },
+              {
+                "id": "aa20b36f3cd23a2b",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "9b3954f1d25a7938",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Best Themes.md",
+                    "followCursor": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of Best Themes"
+                }
+              },
+              {
+                "id": "31c5abc14fa18f65",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
+                }
+              },
+              {
+                "id": "9333c30004e3e79a",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {},
+                  "icon": "calendar-with-checkmark",
+                  "title": "Calendar"
+                }
+              },
+              {
+                "id": "04e33bccdbf85177",
+                "type": "leaf",
+                "state": {
+                  "type": "file-properties",
+                  "state": {},
+                  "icon": "lucide-info",
+                  "title": "File properties"
+                }
+              },
+              {
+                "id": "fa9660fe8b2f4d00",
+                "type": "leaf",
+                "state": {
+                  "type": "planner-timeline",
+                  "state": {},
+                  "icon": "calendar-with-checkmark",
+                  "title": "Timeline"
+                }
+              },
+              {
+                "id": "ffd29e107e4883c3",
+                "type": "leaf",
+                "state": {
+                  "type": "note-proximity-view",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "Note proximity"
+                }
+              },
+              {
+                "id": "48f62b47375073e9",
+                "type": "leaf",
+                "state": {
+                  "type": "relation-view",
+                  "state": {},
+                  "icon": "link",
+                  "title": "Relation View"
+                }
+              },
+              {
+                "id": "6b25dde824e9882a",
+                "type": "leaf",
+                "state": {
+                  "type": "planner-timeline",
+                  "state": {},
+                  "icon": "calendar-with-checkmark",
+                  "title": "Timeline"
+                }
+              }
+            ],
+            "currentTab": 5
+          },
+          {
+            "id": "755ae9beee0d53a5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9096ebd8a9a6d1c1",
+                "type": "leaf",
+                "state": {
+                  "type": "map-of-content",
+                  "state": {},
+                  "icon": "stacked-levels",
+                  "title": "Map of Content"
+                }
+              }
+            ]
+          },
+          {
+            "id": "79de7fc5b2dc5a32",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7986b2d791d22ebe",
+                "type": "leaf",
+                "state": {
+                  "type": "map-of-content",
+                  "state": {},
+                  "icon": "stacked-levels",
+                  "title": "Map of Content"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 330
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "plugin-debugger:Open Plugin Debug Log": false,
+          "obsidian-import-json:JSON/CSV Importer": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "audio-recorder:Start/stop recording": false,
+          "markdown-importer:Open format converter": false,
+          "random-note:Open random note": false,
+          "publish:Publish changes...": false,
+          "zk-prefixer:Create new unique note": false,
+          "workspaces:Manage workspace layouts": false,
+          "obsidian-importer:Open Importer": false,
+          "better-plugins-manager:插件管理器": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "better-recall:Open decks": false,
+          "brain-dump-mode:Activate Brain Dump Mode": false,
+          "obsidian-daily-named-folder:Open today's daily note folder": false,
+          "create-task:Create Task": false,
+          "obsidian-git:Open Git source control": false,
+          "helpmate:HelpMate": false,
+          "improved-random-note:Open improved random note": false,
+          "laser-beam:Laser beam": false,
+          "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false,
+          "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+          "sheet-plus:Create excel file": false,
+          "studier:Studier": false,
+          "super-duper-audio-recorder:Start/Stop Recording": false,
+          "github-sync:Sync with Remote": false,
+          "custom-sort:Toggle custom sorting": false,
+          "obsidian-kanban:Create new board": false,
+          "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false,
+          "janitor:Janitor: scan vault": false,
+          "ai-tagger:Generate tags!": false,
+          "lineage:Toggle Lineage view": false,
+          "peerdraft:Show my Peerdraft Shares": false,
+          "darlal-switcher-plus:Open in Headings Mode": false,
+          "darlal-switcher-plus:Open Symbols for the active editor": false,
+          "dashboard-navigator:Open dashboard navigator": false,
+          "tab-selector:Open tab selector": false,
+          "templater-obsidian:Templater": false,
+          "system3-relay:Relay": false,
+          "translate:Open translation view": false,
+          "obsidian-projects:Open projects": false,
+          "project-browser:Open project browser": false,
+          "obsidian-day-planner:Open Timeline": false,
+          "obsidian-day-planner:Open Multi-Day View": false,
+          "link-tree:Link Tree": false,
+          "card-board:CardBoard": false,
+          "map-of-content:Update Map of Content": false
+        }
+      },
+      "active": "b40cbdb25466956f",
+      "mtime": "2025-02-19T00:55:14-08:00",
+      "workspaces-plus:settings-v1": {}
+    }
+  },
+  "active": "Default"
+}

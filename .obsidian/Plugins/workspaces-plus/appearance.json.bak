@@ -1,0 +1,10 @@
+{
+  "cssTheme": "Adwaita",
+  "showViewHeader": true,
+  "accentColor": "#64bc52",
+  "showRibbon": true,
+  "theme": "obsidian",
+  "textFontFamily": "Cascadia Code",
+  "interfaceFontFamily": "Cascadia Code",
+  "monospaceFontFamily": "Cascadia Mono"
+}
