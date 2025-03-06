@@ -1,0 +1,28 @@
+{
+  "noInfinity": true,
+  "noZero": true,
+  "allFileExtensions": true,
+  "showImgThumbnails": true,
+  "addUnresolved": true,
+  "coTags": true,
+  "defaultSubtypeType": "Clustering Coefficient",
+  "debugMode": false,
+  "superDebugMode": false,
+  "exclusionRegex": "",
+  "exclusionTags": [
+    ""
+  ],
+  "algsToShow": [
+    "Co-Citations",
+    "HITS",
+    "Adamic Adar",
+    "Jaccard",
+    "Overlap",
+    "Label Propagation",
+    "Louvain",
+    "Clustering Coefficient",
+    "BoW",
+    "Otsuka-Chiai",
+    "Sentiment"
+  ]
+}
