@@ -1,0 +1,28 @@
+{
+  "enableColorStatusBarIcon": false,
+  "darkModeStringStatus": "🌕",
+  "lightModeStringStatus": "🔆",
+  "pathThemesArr": [
+    {
+      "internalContent": "ExampleFolder/InsideFolder/",
+      "theme": "None",
+      "color": true
+    }
+  ],
+  "pathFolderDummy": "",
+  "pathThemeDummy": "None",
+  "pathColorDummy": true,
+  "tagThemesArr": [
+    {
+      "internalContent": "Example",
+      "theme": "None",
+      "color": true
+    }
+  ],
+  "tagStrDummy": "",
+  "tagThemeDummy": "",
+  "tagColorDummy": true,
+  "defaultTheme": " ",
+  "defaultColor": true,
+  "defaultEnabled": false
+}

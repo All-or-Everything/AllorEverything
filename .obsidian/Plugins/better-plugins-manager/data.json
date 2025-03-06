@@ -1,0 +1,1468 @@
+{
+  "LANGUAGE": "en",
+  "CENTER": false,
+  "ITEM_STYLE": "alwaysExpand",
+  "GROUP_STYLE": "a",
+  "TAG_STYLE": "b",
+  "DELAY": false,
+  "FADE_OUT_DISABLED_PLUGINS": true,
+  "COMMAND_ITEM": false,
+  "COMMAND_GROUP": false,
+  "GROUPS": [
+    {
+      "id": "default",
+      "name": "默认组",
+      "color": "#A079FF"
+    }
+  ],
+  "TAGS": [
+    {
+      "id": "default",
+      "name": "默认标签",
+      "color": "#A079FF"
+    }
+  ],
+  "DELAYS": [],
+  "Plugins": [
+    {
+      "id": "2hop-links-plus",
+      "name": "2Hop Links Plus",
+      "desc": "Related links up to 2 hops away are displayed in a card format, allowing for easy browsing through connections between notes. Each card contains a preview of the corresponding note.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "additional-icons",
+      "name": "Additional Icons",
+      "desc": "Adds additional iconsets to Obsidian",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "alias-management",
+      "name": "Alias Management",
+      "desc": "Identify duplicate notes based on similar aliases and filenames.",
+      "group": "",
+      "tags": [],
+      "enabled": false,
+      "delay": ""
+    },
+    {
+      "id": "any-block",
+      "name": "AnyBlock",
+      "desc": "You can flexibility to create a 'Block' by some means. It also provides some useful features, like `list to table`. ",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "auto-card-link",
+      "name": "Auto Card Link",
+      "desc": "Automatically fetches metadata from a url and makes it as a card-styled link",
+      "group": "",
+      "tags": [],
+      "enabled": false,
+      "delay": ""
+    },
+    {
+      "id": "auto-tasks",
+      "name": "Auto Tasks",
+      "desc": "Combine periodic notes with tags and tasks to automatically manage your daily, weekly and project TODO lists. Requires the Periodic Notes and Tasks plugins.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "better-comment-toggle",
+      "name": "Better Comment Toggle",
+      "desc": "Improved comment toggling.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "better-export-pdf",
+      "name": "Better Export PDF",
+      "desc": "Export your notes to PDF, support export preview, add bookmarks outline and header/footer.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "better-fn",
+      "name": "Better footnote",
+      "desc": "Footnote popover for Obsidian",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "better-inline-fields",
+      "name": "Better Inline Fields",
+      "desc": "Obsidian plugin to enhance Dataview style inline fields",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "better-markdown-links",
+      "name": "Better Markdown Links",
+      "desc": "Adds support for angle bracket links and manages relative links properly",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "better-order-list",
+      "name": "Better Order List",
+      "desc": "Support new line order list like 1、 or (1)., etc.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "better-reading-mode",
+      "name": "Better Reading Mode",
+      "desc": "A plugin to enable better reading mode in Live preview mode of Obsidian, which works similar to bionic reading mode.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "better-recall",
+      "name": "Better Recall",
+      "desc": "Add anki-like spaced repetition and recall to your vault.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "better-search-views",
+      "name": "Better Search Views",
+      "desc": "Outliner-like breadcrumb trees for search, backlinks and embedded queries ",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "better-word-count",
+      "name": "Better Word Count",
+      "desc": "Counts the words of selected text in the editor.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "bin-theme-controller",
+      "name": "Theme Controller",
+      "desc": "Set when and how the themes will be displayed.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "block-link-plus",
+      "name": "Block Link Plus",
+      "desc": "Enhances right-click menu and global command with direct links to blocks and titles, adds support for multi-line blockquotes, and offers extensive customization options for block IDs.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "brain-dump-mode",
+      "name": "Brain Dump Mode",
+      "desc": "Done is better than perfect. Complete your first-messy-draft before you make it perfect. Your delete key will be DISABLED and all you can do is JUST BURN YOUR KEYBOARDS🔥",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "calendar",
+      "name": "Calendar",
+      "desc": "Calendar view of your daily notes",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "card-board",
+      "name": "CardBoard",
+      "desc": "Display markdown tasks on kanban style boards.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "colored-tags-wrangler",
+      "name": "Colored Tags Wrangler",
+      "desc": "Assign colors to tags. Has integrations with other plugins, like Kanban.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "colored-text",
+      "name": "Colored Text",
+      "desc": "Color the selected texts.",
+      "group": "",
+      "tags": [],
+      "enabled": false,
+      "delay": ""
+    },
+    {
+      "id": "copy-note",
+      "name": "Enhance Copy Note",
+      "desc": "Augments native Obsidian note copying.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "copy-url-in-preview",
+      "name": "Image Context Menus",
+      "desc": "Copy to clipboard, Open in default app, Show in system explorer, Reveal file in navigation, Open in new tab context menus for images. Also has an pen PDF externally context menu.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "create-task",
+      "name": "Create Task",
+      "desc": "Create tasks faster from anywhere.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "custom-sidebar-icons",
+      "name": "Custom Icons",
+      "desc": "Enhance your workspace with customizable icons for documents and folders.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "customizable-menu",
+      "name": "Customizable Menu",
+      "desc": "Allows you to add any command to Obsidian's right-click menu.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "cycle-through-panes",
+      "name": "Tab Switcher",
+      "desc": "Switch your tabs with Ctrl + Tab in recently used order like in a browser.",
+      "group": "",
+      "tags": [],
+      "enabled": false,
+      "delay": ""
+    },
+    {
+      "id": "darlal-switcher-plus",
+      "name": "Quick Switcher++",
+      "desc": "Enhanced Quick Switcher, search open panels, and symbols.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "dashboard-navigator",
+      "name": "Dashboard navigator",
+      "desc": "Vault dashboard and navigator. Show recent files by type, files per day, week, month, search files by name, date, tags and more.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "easy-typing-obsidian",
+      "name": "Easy Typing",
+      "desc": "This plugin aims to enhance and optimize the editing experience in Obsidian",
+      "group": "",
+      "tags": [],
+      "enabled": false,
+      "delay": ""
+    },
+    {
+      "id": "editing-toolbar",
+      "name": "Editing Toolbar",
+      "desc": "The Obsidian Editing Toolbar is modified from cmenu, which provides more powerful customization settings and has many built-in editing commands to be a MS Word-like toolbar editing experience.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "enhanced-annotations",
+      "name": "Enhanced Annotations",
+      "desc": "Add a sidebar view for comments and highlights.",
+      "group": "",
+      "tags": [],
+      "enabled": false,
+      "delay": ""
+    },
+    {
+      "id": "enhanced-image",
+      "name": "Enhanced Image",
+      "desc": "Enhance the experience of image seamlessly. For example, operations for image in context menu, command palette.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "enhanced-symbols-prettifier",
+      "name": "Enhanced Symbols Prettifier",
+      "desc": "Replace/substitute the symbols with actual symbols you commonly type. It also works for emojis shortcuts, abbreviations, greek letters, math symbols or other snippets/aliases you define",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "entity-linker",
+      "name": "Entity Linker",
+      "desc": "Link research terms to standard entities",
+      "group": "",
+      "tags": [],
+      "enabled": false,
+      "delay": ""
+    },
+    {
+      "id": "extended-task-lists",
+      "name": "Extended Task Lists",
+      "desc": "Extended reader view support for task lists, including in-progress and won't do task items.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "file-explorer-note-count",
+      "name": "File Explorer Note Count",
+      "desc": "The plugin helps you to see the number of notes under each folder within the file explorer.",
+      "group": "",
+      "tags": [],
+      "enabled": false,
+      "delay": ""
+    },
+    {
+      "id": "file-explorer-plus",
+      "name": "File Explorer++",
+      "desc": "Hide and pin files and folders in the file explorer using custom filters, such as wildcards and regex, based on their names, paths, and tags. Additionally, achieve the same with a single click in the file menu.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "file-property-enhancer",
+      "name": "File Property Enhancer",
+      "desc": "Improve user experience when using file properties like adding icons or custom display view.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "file-tree-alternative",
+      "name": "File Tree Alternative",
+      "desc": "This plugin allows you to have an alternative file tree view.",
+      "group": "",
+      "tags": [],
+      "enabled": false,
+      "delay": ""
+    },
+    {
+      "id": "folders2graph",
+      "name": "Folders to Graph",
+      "desc": "Display your vault folder structure into your graphs.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "github-sync",
+      "name": "GitHub Sync",
+      "desc": "Sync vault to personal GitHub.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "graph-analysis",
+      "name": "Graph Analysis",
+      "desc": "Analyse your Obsidian graph.",
+      "group": "",
+      "tags": [],
+      "enabled": false,
+      "delay": ""
+    },
+    {
+      "id": "header-enhancer",
+      "name": "Header Enhancer",
+      "desc": "Level up your headers, customize your notes. Header Enhancer makes your notes header better and more useful.",
+      "group": "",
+      "tags": [],
+      "enabled": false,
+      "delay": ""
+    },
+    {
+      "id": "helpmate",
+      "name": "HelpMate",
+      "desc": "Integrating help systems into the Obsidian UI.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "highlightr-plugin",
+      "name": "Highlightr",
+      "desc": "A minimal and aesthetically pleasing highlighting menu that makes color-coded highlighting much easier with a configurable assortment of highlight colors 🎨.",
+      "group": "",
+      "tags": [],
+      "enabled": false,
+      "delay": ""
+    },
+    {
+      "id": "hk-code-block",
+      "name": "HK Code Block",
+      "desc": "Obsidian plugin developed by Heekang Park; Make code block looking good on reading view",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "home-tab",
+      "name": "Home tab",
+      "desc": "A browser-like search tab for your local files.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "homepage",
+      "name": "Homepage",
+      "desc": "Open a specified note, canvas, or workspace on startup, or set it for quick access later.",
+      "group": "",
+      "tags": [],
+      "enabled": false,
+      "delay": ""
+    },
+    {
+      "id": "hotkeysplus-obsidian",
+      "name": "Hotkeys++",
+      "desc": "Additional hotkeys to do common things in Obsidian",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "image-converter",
+      "name": "Image Converter",
+      "desc": "Convert, compress, resize, annotate, markup, draw, crop, rotate, flip, align images directly in Obsidian. Drag-resize, rename with variables, batch process. WEBP, JPG, PNG, HEIC, TIF.",
+      "group": "",
+      "tags": [],
+      "enabled": false,
+      "delay": ""
+    },
+    {
+      "id": "janitor",
+      "name": "Janitor",
+      "desc": "Performs cleanup tasks on the Obsidian vault",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "lineage",
+      "name": "Lineage",
+      "desc": "Edit Markdown in a keyboard-centric Miller columns interface. Inspired by Gingko Writer.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "link-exploder",
+      "name": "Link Exploder",
+      "desc": "Link Exploder is a Obsidian plugin that creates a canvas from a note, embedding it's incoming (i.e. backlinks) and outgoing links onto the canvas (as well as the their linked notes).",
+      "group": "",
+      "tags": [],
+      "enabled": false,
+      "delay": ""
+    },
+    {
+      "id": "link-tree",
+      "name": "Link Tree",
+      "desc": "View file links and backlinks as a recursively expandable, filterable list with editable text, combining the structure of outliners like Dynalist & WorkFlowy with the flexibility of Obsidian.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "linkify",
+      "name": "Linkify",
+      "desc": "Converts matching text into links.",
+      "group": "",
+      "tags": [],
+      "enabled": false,
+      "delay": ""
+    },
+    {
+      "id": "litegallery",
+      "name": "Lite Gallery",
+      "desc": "Easily create carousel galleries to better organize/view images in your notes.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "make-md",
+      "name": "make.md",
+      "desc": "make.md gives you everything you need to organize and personalize your notes.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "map-of-content",
+      "name": "Map of Content",
+      "desc": "Automatically generate a Map of Content for your vault",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "mathlive",
+      "name": "MathLive",
+      "desc": "Faster and more intuitive MathJax editing using MathLive.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "mermaid-tools",
+      "name": "Mermaid Tools",
+      "desc": "Improved Mermaid.js experience for Obsidian: visual toolbar with common elements & more",
+      "group": "",
+      "tags": [],
+      "enabled": false,
+      "delay": ""
+    },
+    {
+      "id": "minitabs",
+      "name": "Minitabs",
+      "desc": "Customize a set of nested tabs through code blocks.",
+      "group": "",
+      "tags": [],
+      "enabled": false,
+      "delay": ""
+    },
+    {
+      "id": "multi-column-markdown",
+      "name": "Multi-Column Markdown",
+      "desc": "This plugin adds functionality to create markdown documents with multiple columns of content viewable within Obsidian's preview mode",
+      "group": "",
+      "tags": [],
+      "enabled": false,
+      "delay": ""
+    },
+    {
+      "id": "new-tab-plus",
+      "name": "New Tab +",
+      "desc": "Allow to open markdown files, graph and canvas in new tab as the default behavior.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "nexus-ai-chat-importer",
+      "name": "Nexus AI Chat Importer",
+      "desc": "Import conversations from ChatGPT export files.",
+      "group": "",
+      "tags": [],
+      "enabled": false,
+      "delay": ""
+    },
+    {
+      "id": "ninja-cursor",
+      "name": "Ninja Cursor",
+      "desc": "The plugin which enhance cursor visibility.",
+      "group": "",
+      "tags": [],
+      "enabled": false,
+      "delay": ""
+    },
+    {
+      "id": "nlp",
+      "name": "NLP",
+      "desc": "",
+      "group": "",
+      "tags": [],
+      "enabled": false,
+      "delay": ""
+    },
+    {
+      "id": "note-chain",
+      "name": "Note Chain",
+      "desc": "Thoughts as river, notes as chain. Add prev and next notes to a notes, and order files by the chain in File Explorer.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "note-promixity",
+      "name": "Lookalike",
+      "desc": "Find similar notes based on the frequency of terms within the vault.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "note-refactor-obsidian",
+      "name": "Note Refactor",
+      "desc": "Extract note content into new notes and split notes",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "note-toolbar",
+      "name": "Note Toolbar",
+      "desc": "Add customizable toolbars to your notes.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "novel-word-count",
+      "name": "Novel word count",
+      "desc": "Displays a word count (and more!) for each file, folder and vault in the File Explorer pane.",
+      "group": "",
+      "tags": [],
+      "enabled": false,
+      "delay": ""
+    },
+    {
+      "id": "obisidian-note-linker",
+      "name": "Note Linker",
+      "desc": "Automatically find and link notes in Obsidian",
+      "group": "",
+      "tags": [],
+      "enabled": false,
+      "delay": ""
+    },
+    {
+      "id": "obsidian-better-command-palette",
+      "name": "Better Command Palette",
+      "desc": "A command palette that does all of the things you want it to do.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "obsidian-core-search-assistant-plugin",
+      "name": "Core Search Assistant",
+      "desc": "Enhance built-in search: keyboard interface, card preview, bigger preview",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "obsidian-day-planner",
+      "name": "Day Planner",
+      "desc": "A day planner with clean UI and readable syntax",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "obsidian-dictionary-plugin",
+      "name": "Dictionary",
+      "desc": "This is a simple dictionary for the Obsidian Note-Taking Tool.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "obsidian-divide-and-conquer",
+      "name": "Divide & Conquer",
+      "desc": "Provides commands for bulk enabling/disabling of plugins. Useful for debugging when you have many plugins.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "obsidian-dynamic-highlights",
+      "name": "Dynamic Highlights",
+      "desc": "Dynamically highlight text based on cursor selection or search query with full regex, mobile, and live preview support",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "obsidian-emoji-toolbar",
+      "name": "Emoji Toolbar",
+      "desc": "Quickly search for and insert emojis into your notes.",
+      "group": "",
+      "tags": [],
+      "enabled": false,
+      "delay": ""
+    },
+    {
+      "id": "obsidian-enhancing-export",
+      "name": "Enhancing Export",
+      "desc": "This is a enhancing export plugin for Obsidian. It allows to export to formats like Html, DOCX, ePub and PDF or Markdown(Hugo) etc.",
+      "group": "",
+      "tags": [],
+      "enabled": false,
+      "delay": ""
+    },
+    {
+      "id": "obsidian-enhancing-mindmap",
+      "name": "Enhancing Mindmap",
+      "desc": "This is a enhancing mindmap plugin for Obsidian. You can edit mindmap on markdown.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "obsidian-file-link",
+      "name": "Better File Link",
+      "desc": "A plugin to add better external file links to notes.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "obsidian-focus-mode",
+      "name": "Focus Mode",
+      "desc": "Add Focus Mode to Obsidian.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "obsidian-folder-index",
+      "name": "Folder Index",
+      "desc": "This Plugin will automatically generate a TOC for the current Folder.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "obsidian-fullscreen-plugin",
+      "name": "Fullscreen mode plugin",
+      "desc": "This plugin allows viewing a single document in fullscreen focus mode",
+      "group": "",
+      "tags": [],
+      "enabled": false,
+      "delay": ""
+    },
+    {
+      "id": "obsidian-hider",
+      "name": "Hider",
+      "desc": "Hide UI elements such as tooltips, status, titlebar and more",
+      "group": "",
+      "tags": [],
+      "enabled": false,
+      "delay": ""
+    },
+    {
+      "id": "obsidian-hover-editor",
+      "name": "Hover Editor",
+      "desc": "Transform the Page Preview hover popover into a fully working editor instance",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "obsidian-html-plugin",
+      "name": "HTML Reader",
+      "desc": "This is a HTML file reader plugin for Obsidian. Can open document with \".html\" and \".htm\" file extensions.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "obsidian-icon-folder",
+      "name": "Iconize",
+      "desc": "Add icons to anything you desire in Obsidian, including files, folders, and text.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "obsidian-icons-plugin",
+      "name": "Icons",
+      "desc": "Add icons to your Obsidian notes.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "obsidian-import-json",
+      "name": "JSON/CSV Importer",
+      "desc": "This plugin imports a JSON/CSV file (or text block) and creates notes from a Handlebars template file",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "obsidian-importer",
+      "name": "Importer",
+      "desc": "Import data from Notion, Evernote, Apple Notes, Microsoft OneNote, Google Keep, Bear, Roam, and HTML files.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "obsidian-kanban",
+      "name": "Kanban",
+      "desc": "Create markdown-backed Kanban boards in Obsidian.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "obsidian-linter",
+      "name": "Linter",
+      "desc": "Formats and styles your notes. It can be used to format YAML tags, aliases, arrays, and metadata; footnotes; headings; spacing; math blocks; regular markdown contents like list, italics, and bold styles; and more with the use of custom rule options as well.",
+      "group": "",
+      "tags": [],
+      "enabled": false,
+      "delay": ""
+    },
+    {
+      "id": "obsidian-local-file-interface-plugin",
+      "name": "Local File Interface",
+      "desc": "Provides commands for moving files in and out of the vault",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "obsidian-local-images-plus",
+      "name": "Local Images Plus",
+      "desc": "Local Images Plus plugin searches for all external media links in your notes, downloads and saves them locally and adjusts the links in your notes to point to the saved files.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "obsidian-markdown-formatting-assistant-plugin",
+      "name": "Markdown Formatting Assistant",
+      "desc": "This Plugin provides a simple Editor for Markdown, HTML and Colors and in addition a command interface. The command interface facilitate a faster workflow.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "obsidian-meta-bind-plugin",
+      "name": "Meta Bind",
+      "desc": "Make your notes interactive with inline input fields, metadata displays, and buttons.",
+      "group": "",
+      "tags": [],
+      "enabled": false,
+      "delay": ""
+    },
+    {
+      "id": "obsidian-mind-map",
+      "name": "Mind Map",
+      "desc": "A plugin to preview notes as Markmap mind maps",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "obsidian-mindmap-nextgen",
+      "name": "Mindmap NextGen",
+      "desc": "View your Markdown as a mindmap",
+      "group": "",
+      "tags": [],
+      "enabled": false,
+      "delay": ""
+    },
+    {
+      "id": "obsidian-minimal-settings",
+      "name": "Minimal Theme Settings",
+      "desc": "Change the colors, fonts and features of Minimal Theme.",
+      "group": "",
+      "tags": [],
+      "enabled": false,
+      "delay": ""
+    },
+    {
+      "id": "obsidian-plugin-groups",
+      "name": "Plugin Groups",
+      "desc": "Manage your Plugins through groups: Enable and disable multiple plugins through a single command, or delay the startup of plugins to speed up your Obsidian start up time.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "obsidian-plugin-update-tracker",
+      "name": "Plugin Update Tracker",
+      "desc": "Know when installed plugins have updates and evaluate the risk of upgrading",
+      "group": "",
+      "tags": [],
+      "enabled": false,
+      "delay": ""
+    },
+    {
+      "id": "obsidian-power-search",
+      "name": "Power Search",
+      "desc": "Searches Obsidian and Anki Notes based on current line",
+      "group": "",
+      "tags": [],
+      "enabled": false,
+      "delay": ""
+    },
+    {
+      "id": "obsidian-projects",
+      "name": "Projects",
+      "desc": "Plain text project planning.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "obsidian-regex-replace",
+      "name": "Regex Find/Replace",
+      "desc": "Find and replace text using regular expressions.",
+      "group": "",
+      "tags": [],
+      "enabled": false,
+      "delay": ""
+    },
+    {
+      "id": "obsidian-related-notes-finder",
+      "name": "Related Notes Finder",
+      "desc": "An Obsidian plugin that adds extra features for finding related notes.",
+      "group": "",
+      "tags": [],
+      "enabled": false,
+      "delay": ""
+    },
+    {
+      "id": "obsidian-relation-pane",
+      "name": "Relation Pane",
+      "desc": "This plugin displays a panel that summarize relations between notes.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "obsidian-smart-links",
+      "name": "Smart Links",
+      "desc": "This is a plugin for Obsidian that allows users to define custom link formats",
+      "group": "",
+      "tags": [],
+      "enabled": false,
+      "delay": ""
+    },
+    {
+      "id": "obsidian-style-settings",
+      "name": "Style Settings",
+      "desc": "Offers controls for adjusting theme, plugin, and snippet CSS variables.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "obsidian-tagfolder",
+      "name": "TagFolder",
+      "desc": "Show tags as folder",
+      "group": "",
+      "tags": [],
+      "enabled": false,
+      "delay": ""
+    },
+    {
+      "id": "obsidian-tasks-plugin",
+      "name": "Tasks",
+      "desc": "Track tasks across your vault. Supports due dates, recurring tasks, done dates, sub-set of checklist items, and filtering.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "obsidian-tweaks",
+      "name": "ObsidianTweaks",
+      "desc": "Adds some convenient tweaks including improved toggling and ergonomic commands",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "obsidian-version-history-diff",
+      "name": "Version History Diff",
+      "desc": "Diff the version history of the core Sync and File Recovery plugins and Git. Adds a command to open the core Sync version history as well.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "obsidian-wordy",
+      "name": "Wordy",
+      "desc": "Thesaurus, rhymes, alliterations, dictionary and more using the Datamuse API",
+      "group": "",
+      "tags": [],
+      "enabled": false,
+      "delay": ""
+    },
+    {
+      "id": "obsidian42-brat",
+      "name": "BRAT",
+      "desc": "Easily install a beta version of a plugin for testing.",
+      "group": "",
+      "tags": [],
+      "enabled": false,
+      "delay": ""
+    },
+    {
+      "id": "obsidian42-strange-new-worlds",
+      "name": "Strange New Worlds",
+      "desc": "Help see how your vault is interconnected with visual indicators.",
+      "group": "",
+      "tags": [],
+      "enabled": false,
+      "delay": ""
+    },
+    {
+      "id": "pdf-plus",
+      "name": "PDF++",
+      "desc": "The most Obsidian-native PDF annotation tool ever.",
+      "group": "",
+      "tags": [],
+      "enabled": false,
+      "delay": ""
+    },
+    {
+      "id": "peerdraft",
+      "name": "Peerdraft",
+      "desc": "Real-time, instant collaboration on Obsidian documents or folders. Whether for quick note-taking or building a team knowledge base, Peerdaft syncs with your collaborators' Obsidian vaults and also offers a Web Editor.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "pin-enhancer",
+      "name": "Pin Enhancer",
+      "desc": "Enhances the pin function to prevent closing the pinned tab.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "plugin-manager",
+      "name": "Plugin Manager",
+      "desc": "Extends plugin management of Obsidian.MD",
+      "group": "",
+      "tags": [],
+      "enabled": false,
+      "delay": ""
+    },
+    {
+      "id": "plugin-reloader",
+      "name": "Plugin Reloader",
+      "desc": "Manually reload plugins.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "plugins-annotations",
+      "name": "Plugins Annotations",
+      "desc": "Allows adding personal comments to each installed plugin.",
+      "group": "",
+      "tags": [],
+      "enabled": false,
+      "delay": ""
+    },
+    {
+      "id": "project-browser",
+      "name": "Project Browser",
+      "desc": "Replaces your new tab window with a browseable list of the files and folders in your vault.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "quickadd",
+      "name": "QuickAdd",
+      "desc": "Quickly add new pages or content to your vault.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "reading-view-enhancer",
+      "name": "Reading View Enhancer",
+      "desc": "Enhances reading view. Use arrow keys to navigate between blocks or toggle collapse.",
+      "group": "",
+      "tags": [],
+      "enabled": false,
+      "delay": ""
+    },
+    {
+      "id": "recent-files-obsidian",
+      "name": "Recent Files",
+      "desc": "List files by most recently opened",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "searchpp",
+      "name": "Search++",
+      "desc": "Allow inserting text context search results on the active note, the plugin is based on the plugin mrj-text-expand-witb-text of MrJackphil.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "settings-management",
+      "name": "Settings Management",
+      "desc": "Manage settings options, including show enabled/disabled plugins and css, grid layout, save current plugins/css enable config for quick enable/disable, etc.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "settings-search",
+      "name": "Settings Search",
+      "desc": "Globally search settings in Obsidian.md",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "share-my-plugin-list",
+      "name": "Share my plugin list",
+      "desc": "Share the enabled plugins in list/table format.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "share-note",
+      "name": "Share Note",
+      "desc": "Instantly share a note, with the full theme and content exactly like you see in Reading View. Data is shared encrypted by default, and only you and the person you send it to have the key.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "smart-connections",
+      "name": "Smart Connections",
+      "desc": "Find links to similar notes using artificial intelligence from OpenAI.",
+      "group": "",
+      "tags": [],
+      "enabled": false,
+      "delay": ""
+    },
+    {
+      "id": "smart-connections-visualizer",
+      "name": "Smart Connections Visualizer",
+      "desc": "View your Smart Connections in a visualized format.",
+      "group": "",
+      "tags": [],
+      "enabled": false,
+      "delay": ""
+    },
+    {
+      "id": "super-duper-audio-recorder",
+      "name": "Super Duper Audio Recorder",
+      "desc": "Records audio directly, with input device and folder configuration, similar to the core one, but better",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "system3-relay",
+      "name": "Relay",
+      "desc": "Collaborate in real time with live cursors. Create relays, add folders, and manage user access.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "tab-selector",
+      "name": "Tab Selector",
+      "desc": "Quickly switch tabs in various ways.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "table-editor-obsidian",
+      "name": "Advanced Tables",
+      "desc": "Improved table navigation, formatting, manipulation, and formulas",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "tag-wrangler",
+      "name": "Tag Wrangler",
+      "desc": "Rename, merge, toggle, and search tags from the tag pane",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "task-list",
+      "name": "Task list",
+      "desc": "Enable better task management via lists.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "templater-obsidian",
+      "name": "Templater",
+      "desc": "Create and use templates",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "theme-picker",
+      "name": "Theme Picker",
+      "desc": "Quickly preview installed themes",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "translate",
+      "name": "Translate",
+      "desc": "Translate text and notes with Google Translate, DeepL, Azure, and more.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "typing-assistant",
+      "name": "Typing Assistant",
+      "desc": "Support multiple shortcut menus to improve input efficiency",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "typing-transformer-obsidian",
+      "name": "Typing Transformer",
+      "desc": "Improved, configurable auto formatting as typing",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "unitade",
+      "name": "UNITADE.md",
+      "desc": "Effortlessly treat any file extension as note, organize diverse file formats in your vault and take advancements in control of extension system even with custom modals.",
+      "group": "",
+      "tags": [],
+      "enabled": false,
+      "delay": ""
+    },
+    {
+      "id": "vare",
+      "name": "VARE",
+      "desc": "Now you can easily manage your plugins and themes. Simply select the version you want or install unlisted versions from GitHub. You can also install beta version and switch back if necessary.",
+      "group": "",
+      "tags": [],
+      "enabled": false,
+      "delay": ""
+    },
+    {
+      "id": "vault-explorer",
+      "name": "Vault Explorer",
+      "desc": "Explore your vault in visual format",
+      "group": "",
+      "tags": [],
+      "enabled": false,
+      "delay": ""
+    },
+    {
+      "id": "vault-full-statistics",
+      "name": "Vault Full Statistics",
+      "desc": "Status bar item with vault full statistics such as number of notes, files, attachments, links, tags and quality of vault.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "vault-transfer",
+      "name": "Vault Transfer",
+      "desc": "Copies a note, and pastes it into another vault.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "vertical-tabs",
+      "name": "Vertical Tabs",
+      "desc": "Offer an alternative view that displays open tabs vertically, allowing users to group and organize tabs for a better navigation experience.",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "voice",
+      "name": "Voice",
+      "desc": "Let your notes talk and speak to you and enhance your Obsidian experience to effortlessly listen to your notes being read aloud and enjoy the power of sound, audio, and speech.",
+      "group": "",
+      "tags": [],
+      "enabled": false,
+      "delay": ""
+    },
+    {
+      "id": "workspaces-plus",
+      "name": "Workspaces Plus",
+      "desc": "Quickly switch and manage workspaces",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "mousewheel-image-zoom",
+      "name": "Mousewheel Image zoom",
+      "desc": "This plugin enables you to increase/decrease the size of an image by scrolling",
+      "group": "",
+      "tags": [],
+      "enabled": false,
+      "delay": ""
+    },
+    {
+      "id": "obsidian-image-toolkit",
+      "name": "Image Toolkit",
+      "desc": "This plugin provides some image viewing toolkit.",
+      "group": "",
+      "tags": [],
+      "enabled": false,
+      "delay": ""
+    },
+    {
+      "id": "emoji-autocomplete",
+      "name": "Emoji Autocomplete",
+      "desc": "Smart suggestions when typing emoji shortcodes & more! :star:",
+      "group": "",
+      "tags": [],
+      "enabled": true,
+      "delay": ""
+    },
+    {
+      "id": "emoji-titler",
+      "name": "Emoji Titler",
+      "desc": "This plugin is emoji titler to easily insert an emoji in the title using a keyboard shortcut.",
+      "group": "",
+      "tags": [],
+      "enabled": false,
+      "delay": ""
+    }
+  ]
+}
