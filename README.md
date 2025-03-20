@@ -10,7 +10,7 @@ Our goal is to collaboratively develop the All or Everything Societal System, as
 
 
 
-As this project is centered around mutual benefit, here are some free browser extensions for github that I use and recommend, which you may not have otherwise considered getting:
+As this project is centered around mutual benefit, here are some useful browser extensions for github that I use and recommend, which you may not have otherwise considered getting:
 <br>
 https://github.com/zvizvi/GitHub-Web-IDE
 <br>
