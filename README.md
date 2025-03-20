@@ -12,9 +12,15 @@ Our goal is to collaboratively develop the All or Everything Societal System, as
 
 As this project is centered around mutual benefit, here are some free browser extensions for github that I use and recommend, which you may not have otherwise considered getting:
 https://github.com/zvizvi/GitHub-Web-IDE
+<br>
 https://github.com/vivekkumar2696/github-similar-repos
+<br>
 https://github.com/refined-github/refined-github
+<br>
 https://github.com/Justineo/github-hovercard
+<br>
 https://github.com/softvar/enhanced-github
+<br>
 https://github.com/material-extensions/material-icons-browser-extension
+<br>
 https://chromewebstore.google.com/detail/github-linker/onibhfpjiiendmejmgccflkcjhifgbgn
