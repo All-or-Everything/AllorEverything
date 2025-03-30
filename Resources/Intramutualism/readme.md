@@ -124,7 +124,7 @@ Things like these can't currently be pursued with plain capitalism because capit
 
 This means that if a company is more efficiently contributing to society than some other company, that company is incentivised to hire those that are working in less efficient jobs. Because workers would be paid a majority percentage of the value their work, more efficient work means a higher paying job. In both cases, incentives select for greater efficiency/effectiveness along with increasing wages. Also, bringing a worker from a higher efficiency job to a lower efficiency job would likely carry a penalty, and it would also pay a lower wage, so lowering wages would be selected against. Importantly, it would actively bring people from low-productivity jobs into higher-productivity jobs. This is like the free hand of the market, except instead of only balancing supply and demand (to some extent) , it would also select for increasing efficiency, wages, and societal benefit.
 
-### [This section to be continued...]
+#### [This section to be continued...]
 
 
 
