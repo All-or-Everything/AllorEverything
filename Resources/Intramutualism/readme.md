@@ -123,3 +123,77 @@ Things like these can't currently be pursued with plain capitalism because capit
 > The founder would also get a bonus per person that is contributing to society more efficiently than they would be doing otherwise without the company.
 
 This means that if a company is more efficiently contributing to society than some other company, that company is incentivised to hire those that are working in less efficient jobs. Because workers would be paid a majority percentage of the value their work, more efficient work means a higher paying job. In both cases, incentives select for greater efficiency/effectiveness along with increasing wages. Also, bringing a worker from a higher efficiency job to a lower efficiency job would likely carry a penalty, and it would also pay a lower wage, so lowering wages would be selected against. Importantly, it would actively bring people from low-productivity jobs into higher-productivity jobs. This is like the free hand of the market, except instead of only balancing supply and demand (to some extent) , it would also select for increasing efficiency, wages, and societal benefit.
+
+## [This section to be continued...]
+
+
+
+
+# Mission
+
+## Organizing an Outcome
+
+Many a person I have spoken with in my own life, and many I find that see freedom where there is none, only pointing out the benevolent traits of the malevolent system, relying on their own confirmation bias to guide them forward on the endless path of conformity and servitude.
+
+Why do such people only see good in the system that takes from them their futures, their humanity, and their freedom? Are they not aware of their rights, of their best interests, and of their morals?
+
+Those that are aware of the societal state of affairs frequently take action in the form of protest, and I understand why people would go this route if the situation is desperate, or if they are uneducated, but why has such a route become the dominant approach in an educated society with plenty of time to be able to get coordinated and make further plans?
+
+One does not fight the government to make positive change, one becomes the government. Their own government. That is what organizing is about. Organizing is not about causing chaos within the current order, organizing is about bringing about a fairer order.
+
+It is not about destroying the prevailing order. It is about forming a new order that eclipses it. It is not about fighting power structures; it is about creating your own which surpass them.
+
+The state has a monopoly on violence. Unless an organization has the means at hand to overwhelm the state’s monopoly on violence, and thus acquire the title of monopoly on violence for themselves, something which would take an immense quantity of resources to the point where it is essentially an unfeasible goal, there is not really a way to succeed on this route.
+
+It will most certainly not work, in this case, for one to protest or to take militant action to achieve progress or go beyond the status quo, except through the political effect that a mass display of discontent has on the population, which itself is quite limited.
+
+To go beyond the current system, one must create a system that is capable of doing what it does, and one which also has structural and organizational advantages over it. One can then use the weaknesses, accumulated within the current system over centuries, to consume it, taking in its constituents and resources alike.
+
+Then from the old system’s remains can arise a much stronger, fairer system. That is how a peaceful revolution can take place. By acting, as a system, with diligence, honesty, responsibility, altruism, wisdom, fairness, social intelligence, proportionality, and respect for the lives of all, such a system can gain more power.
+
+By gaining more credibility, authority, popularity, power, and relevance in the minds and hearts of the people, the new system can eclipse the authority of the old, which slowly dissolves as it becomes irrelevant and is replaced by a better order. An order which has earned the respect of the people after the old order lost their trust.
+
+
+## Providing Power
+
+To make mankind achieve the greatest level of power possible, we must move past the zero-sum approach, instead maximizing the potential of every single person in the world.
+
+That would probably mean taking an approach to power that is quite the opposite of current approaches.
+
+It would mean giving people more rights, opportunities, and things of significant human value like health care, drinking water, food, and social connections, all without being asked.
+
+It means giving resources to people whose existence you were previously unaware of, and, on the flip side, getting resources from people whose existence you were previously unaware of, through mutually beneficial or at times altruistic transactions and investments.
+
+In this, our goal isn't just to increase the power of individuals, but of humanity as a whole.
+
+
+
+## Reinstating Relationship Reliability
+
+We will always be dependent on others for our ongoing survival, but it is when malevolence, incompetence, and overall unreliability becomes a part of this relationship that problems occur.
+
+It is not our dependence on people or systems that is the problem. It is our dependence on people or systems that are untrustworthy or unreliable.
+
+If such systems do not exist which are reliable then it is our moral obligation to create new ones which are. This is for the benefit of all, because through the building of a new system, one frees people to live independently from the existing, unreliable systems. Everyone is better off with the presence of such an opportunity.
+
+We know already that monopolies are bad for everyone who relies on them, but what happens when the entire economic and political system of an entire country maintains a power dynamic between itself and its citizens which is analogous to a monopoly?
+
+Just as the owners of a monopoly will leverage their positions to benefit themselves, so too do those in the governmental and institutional positions which make up the dominant economic and political system.
+
+This makes the system unreliable, untrustworthy, and ineffective at performing the roles it is supposed to perform, slowly guiding it on a more malevolent path. As such, it would be of the public interest that a new system be formed to provide an alternative to such an unreliable and untrustworthy system.
+
+We do not, in our own life, allow someone we do not trust to play an important role in our lives. We would not willingly entrust our livelihood in the hands of someone who only has an interest in benefiting themselves. Why, then, should we entrust our collective livelihoods in a system that has proven time and time again to be unreliable and untrustworthy?
+
+We shouldn’t. We should instead find or create a system that is reliable and trustworthy. Just as it is detrimental, as an individual, to have to depend on someone that cannot be trusted, so also is it detrimental to depend, as a collective, on a system which cannot be trusted.
+
+We are all a part of the system we live within, even if we have little say in how it is run. What some may not consider, though, is that our organization determines the very nature of the system we live within.
+
+We could, for example, contradict, subvert, and ultimately leverage the logic that the current system runs on, of our own will, and in doing so change it, and be much better off for taking such actions. It was through doing so, after all, which enabled the very first strikes, boycotts, and worker’s movements.
+
+In our case, though, we need not even pursue such confrontational approaches when we can simply create our own systems, formed around our own social contracts to facilitate our own goals, where we set the terms and conditions. By doing so, we could bring about an alternative system - one which is actually capable of facilitating mutually beneficial relationships amongst ourselves and those around us, to the ultimate growth and further success of the movement we together amount to.
+
+Relationship problems often occur among people when trust is not maintained, which result in tensions and disagreements. Those same problems can also occur between people and systems under similar circumstances.
+
+People should have the option to cut ties in an abusive relationship with a system, and form new, healthier relationships with a different system.
+
+They should not be forced to endure ongoing abuse for their entire working lives without being given another relationship option. There must be a second option, and we must enable it ourselves. Such is our moral imperative.
