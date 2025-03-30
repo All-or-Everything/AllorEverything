@@ -197,3 +197,58 @@ Relationship problems often occur among people when trust is not maintained, whi
 People should have the option to cut ties in an abusive relationship with a system, and form new, healthier relationships with a different system.
 
 They should not be forced to endure ongoing abuse for their entire working lives without being given another relationship option. There must be a second option, and we must enable it ourselves. Such is our moral imperative.
+
+# Context
+
+## From Inspiration to Initiative
+
+I leveraged many of the insights I gained from an ambitious game mod project of mine, Stranded II Enhanced, when forming the ideas and frameworks which inspired this server. In Stranded II, I organized the folder for 3d model/texture/icon files for easier management early on, as my first task, splitting a large and cluttered pile of resources into an organized structure of associated file groups according to the same naming scheme present in the system files, so I could locate 3D models, textures, and icons according to their corresponding category.
+
+I then proceeded to integrate parts of a different mod, Stranded 2.5, into the game files. Stranded 2.5 had far better 3d models than the original for many objects and entities in the game, but was in German, and lacked specific functionalities present in the original game for no evident reason. As such, I replaced many of the existing 3d models in my mod with 3d models from this mod, the end result being better graphics without compromise.
+
+I then took my mod and integrated it into the platforms of other mods, which had different source code revisions of the actual game file itself, which took a while but was ultimately successful. I created the lite and the + version of my mod, the lite version having no additional stuff added to it, just improved graphics and general enhancement. The + version of it, however, I didn't hold back on.
+
+I went through existing mods one by one, incorporating anything with enough quality to meet my standards into my mod, and leaving the scraps and defects behind. I did this until the point at which there were no mods left to take stuff from, having gone through a few dozen of them, and during this process I also improved many of the 3d models and scripts for various things in the game, and turned various poorly functioning, conceptual systems into well-functioning features of the game, completing the old dreams of abandoned projects.
+
+And then, I learned how to compile the source code, and things intensified. I took the source code for s2boost, a version that ran faster and fixed a problem with the game textures turning black, and the source code for stranded II multiplayer, which added multiplayer functionality. I merged them with WinMerge, one section at a time, and miraculously, despite literally being a code Frankenstein of the two, it ran without a single error on the first run.
+
+If you haven't figured out the reason behind the name I use, it shouldn't be hard to now.
+
+By this time, I had developed a proficiency for integrating systems, even conflicting and seemingly incompatible ones. I had developed an appreciation for just what can be created when one has ambition, a large pool of free resources, and a bit of free time on their hands. Importantly, I expanded my imagination, conjuring creative concepts and subsequently implementing them. I began to think, I began to perceive, I began to feel reward, through the lens of systems.
+
+I became interested in physics at some point, jumping from model to model, from framework to framework, learning and forming associations, observing patterns, experiencing intense moments of epiphany, and, at some point in time, formalizing my internalized framework of physics. Then I showed it to some people and received a weak response. I began questioning the value in my idea, realizing that, even if entirely accurate, my model would still improve little on the refined methods already in use.
+
+And then I asked myself a question.
+
+Knowing my own intellectual capacity, what area should I seek to develop, in order to make the most of my abilities in achieving a positive impact?
+
+I settled on economics.
+
+I created the early layout of a system, which I showed on an online forum, and to some acquaintances of mine. One of them told me I should write a book.
+It sounded like a good way to get more of my ideas down, without having to cut everything out. 
+So I did. I wrote over 120 pages of works, and created a discord server to collaborate on them and improve them with others, with the realization that I could more effectively actualize my aspirations online, with far less resources, more connectivity, and easier expansion, to fully formulate the ideological foundation of the movement, and bring awareness to it in the process. 
+
+It took to the point where I had already built a discord server around it and accumulated over 200 members before realizing that a book was not really the goal I had in mind, due to various reasons. I had already planned on making it free to distribute anyway, and I came to realize that it was insanely inefficient for others to get value out of the works in book format, so I took the book and split it into segments, and created a new server, purpose-built to contain them and the works of others. I took all of the individual segments from the book, refined them, and posted them separately so they could be more easily accessed, organized, searched, and maintained.
+
+It was not long before I realized this also was not enough. We needed a platform that would properly allow versioning, structuring, and merging of ideological frameworks, and this is where github came to mind.
+
+So that is what we used.
+
+
+## Surmounting Systemic Cynicism
+
+Allow me to introduce you to some revelations of mine, which provided me with insight and inspiration that was instrumental to the formation of the All or Everything movement...
+
+As humans, we're most interested in ourselves.
+
+I decided long ago that I was going to dedicate my time and effort towards achieving societal goals. Rather than working my days away at a job, I poured my time and effort into a movement. People saw my approach as backwards. I should be spending my time chasing a career, working 9-5, or going to college, before pursuing such passions, right?
+
+Wrong. This is the correct approach. It only appears backwards coming from the perspective of the majority of a society reliant on a backwards approach. These things, they are what everyone else is doing. Pursuing individual interests, disconnected from the system within which they are pursued, as overall conditions continuously worsen.
+
+Very few people are dedicating their time and effort towards creating and implementing effective solutions to global and systemic issues plaguing humanity and diminishing our prospects worldwide, both individually and collectively.
+
+As humans, we see things on an individual level, guided by individual interests, finding little interest in pursuing things outside of the individual level. Humanity exists on the global level, as an interconnected collection of individuals, the majority of whom hold little interest or perspective outside themselves and their own day-to-day lives.
+
+So, I can spend my time working within this system, or I can spend my time forming frameworks and gathering people together into an effective and interconnected movement, where we can bring about an entirely new system which runs more efficiently and solves the problems of the current system.
+
+We do not go about solving our problems using the same thinking that created our problems.
