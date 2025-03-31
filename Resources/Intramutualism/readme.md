@@ -1518,9 +1518,9 @@ Any weak links in the economy would generally be strengthened by the fact that t
 
 ## Analytical Awareness
 
-It is important for any political entity to be aware of how things around them work. As such, it would be a good idea to record the strategies, structures, modes of operation, and behaviors of as many government agencies, corporations, NGOs, politicians, celebrities, and other significant entities as possible, prioritizing with the most significant.
+It is important for any political organization to be aware of how things around them work. As such, it would be a good idea to record the strategies, structures, modes of operation, and behaviors of as many government agencies, corporations, NGOs, politicians, celebrities, and other significant entities as possible, prioritizing with the most significant.
 
-Many opportunities exist, but an entity must be aware of them to make any use of them. Many dangers exist, so an entity must be aware of them to avoid them.
+Many opportunities exist, but an organization must be aware of them to make any use of them. Many dangers exist, so an organization must be aware of them to avoid them.
 
 The goal is to know who is a potential ally, who is a threat, which weaknesses or short sights can be exploited in the framework, and how to interact with the general surroundings to best succeed overall.
 
@@ -1582,38 +1582,38 @@ It took some time, but surprisingly, I was able to brute-force a solution in my 
 
 The influence of drugs may or may not have played a role in this process. For any further information on this subject, I plead the fifth.
 
-The realization was that with standardized modules built to carry individual passengers, and a multi-modal network of interconnected transit lines, all of which run vehicles that carry these standardized modules, it would be possible to seamlessly transport people, using various modes of transit, to whichever end destination these lines touch.
+The realization was that with standardized cabs built to carry individual passengers, and a multi-modal network of interconnected transit lines, all of which run vehicles that carry these standardized cabs, it would be possible to seamlessly transport people, using various modes of transit, to whichever end destination these lines touch.
 
-This would, of course, require a routing and tracking system, a method of efficient loading and unloading of modules, and a way to store these modules. So, how we would do that?
+This would, of course, require a routing and tracking system, a method of efficient loading and unloading of cabs, and a way to store these cabs. So, how we would do that?
 
-First, a routing and tracking system must be implemented to perform many critical functions. It must coordinate all the modules in the system and ensure that no single train, bus, tram, plane, or any other vehicle is sent more modules than it has the capacity for.
+First, a routing and tracking system must be implemented to perform many critical functions. It must coordinate all the cabs in the system and ensure that no single train, bus, tram, plane, or any other vehicle is sent more cabs than it has the capacity for.
 
-Each module would have a unique identifier for the system to check, ensuring it is the right one, and in the right place, so modules don’t get misidentified and sent to the wrong place.
+Each cab would have a unique identifier for the system to check, ensuring it is the right one, and in the right place, so cabs don’t get misidentified and sent to the wrong place.
 
-Passengers would choose their destination beforehand, and it would ensure that the module actually arrives at the place chosen by the passenger.
+Passengers would choose their destination beforehand, and it would ensure that the cab actually arrives at the place chosen by the passenger.
 
-It would also account for times of peak usage by recording usage patterns, so it can use that data to better route modules and inform people when they should postpone non-essential travel.
+It would also account for times of peak usage by recording usage patterns, so it can use that data to better route cabs and inform people when they should postpone non-essential travel.
 
-In doing so, it would prevent the transportation networks from being saturated by excessive numbers of modules being transported at times of peak usage.
+In doing so, it would prevent the transportation networks from being saturated by excessive numbers of cabs being transported at times of peak usage.
 
-The modules would be designed to be able to connect to, and detach from, a type of mount designed to be used in all compatible vehicles. There would also need to be machines and/or infrastructure capable of quickly, smoothly, and reliably unloading, transferring, and loading modules at transfer stations positioned between different modes of transport, such as trains, buses, trams, and planes among other things.
+The cabs would be designed to be able to connect to, and detach from, a type of mount designed to be used in all compatible vehicles. There would also need to be machines and/or infrastructure capable of quickly, smoothly, and reliably unloading, transferring, and loading cabs at transfer stations positioned between different modes of transport, such as trains, buses, trams, and planes among other things.
 
-These modules would be transferred smoothly and efficiently between various modes of transport, all of which would be specially designed to carry a given amount of them, to get to a final destination chosen by the passenger when they initiated the trip.
+These cabs would be transferred smoothly and efficiently between various modes of transport, all of which would be specially designed to carry a given amount of them, to get to a final destination chosen by the passenger when they initiated the trip.
 
-Additionally, there should be systems, infrastructure, and machines which are able to temporarily store and retrieve modules when needed.
+Additionally, there should be systems, infrastructure, and machines which are able to temporarily store and retrieve cabs when needed.
 
-This could be set up similar to how the automatic car storage systems in Japan are set up, but since the modules are, obviously, modular, and thus standardized, there would be significantly less complexity.
+This could be set up similar to how the automatic car storage systems in Japan are set up, but since the cabs are, obviously, modular, and thus standardized, there would be significantly less complexity.
 
-Because of that, as well as the module’s smaller size, carrying capacity of these module storage systems would be significantly more, as the modules would not only be smaller than cars, but they would also be easy to densely pack close together.
+Because of that, as well as the cab’s smaller size, carrying capacity of these cab storage systems would be significantly more, as the cabs would not only be smaller than cars, but they would also be easy to densely pack close together.
 
-Also, the machine would theoretically not even have to keep track of the modules, given that each module has a unique identifier which can be scanned, and a GPS locator which could potentially direct the machine to a given module.
+Also, the machine would theoretically not even have to keep track of the cabs, given that each cab has a unique identifier which can be scanned, and a GPS locator which could potentially direct the machine to a given cab.
 
-The modules themselves would have similar properties to a car. They would be owned by the individuals that use them.
+The cabs themselves would have similar properties to a car. They would be owned by the individuals that use them.
 
 Various types could be sold and purchased, to account for different uses and user preferences, so long as they meet regulations and work within the standards set.
 
-They could also be personalized, so long as such personalization does not include modifications to the exterior, frame, or structure of the module without a license and proper equipment to do so.
-Such antics could cause malfunctions and errors, resulting in damage to the module, the networks, and possibly the driver as well.
+They could also be personalized, so long as such personalization does not include modifications to the exterior, frame, or structure of the cab without a license and proper equipment to do so.
+Such antics could cause malfunctions and errors, resulting in damage to the cab, the networks, and possibly the driver as well.
 
 Modifications or customizations which have no practical effect, on the other hand, would be permitted and would not require extra certification.
 
@@ -1621,9 +1621,9 @@ Such a system would hold the most commonly mentioned advantages held by cars. Pe
 
 Door-to-door convenience would be a result of allowing for different modes of transport to fill various roles, some of which are capable of connecting to single homes and other buildings while remaining practical, and would likely be used for that purpose (while also being much more cost-effective than roads or driveways).
 
-Flexible travel would be enabled by the flexibility of the network, of course. Storage capacity can be increased by activating a storage module, or possibly a few of them, to travel with the passenger module that one is using.
+Flexible travel would be enabled by the flexibility of the network, of course. Storage capacity can be increased by activating a storage cab, or possibly a few of them, to travel with the passenger cab that one is using.
 
-Privacy and comfort would be maintained, as passenger modules would be built, within the standards and regulations, in many different configurations of interior and overall design, optionally including windows, entertainment systems, and anything else which suits the owner’s preferences for both privacy and comfort.
+Privacy and comfort would be maintained, as passenger cabs would be built, within the standards and regulations, in many different configurations of interior and overall design, optionally including windows, entertainment systems, and anything else which suits the owner’s preferences for both privacy and comfort.
 
 Of course, it would be available in any remote areas that any transportation mode within the network is capable of expanding to, while also accounting for cost.
 
