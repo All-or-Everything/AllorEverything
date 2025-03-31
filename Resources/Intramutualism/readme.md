@@ -458,3 +458,59 @@ For the most important and fundamental types of change to come about most effect
 The very first thing a movement must do is to formulate its ideological, operational, and strategic approach, laying out a solid information foundation that, once established, can be used as the basis for the many following decisions that must be made.
 
 A foundation of formalized systems, rigorously formulated and infused with valuable insights, without which we will find ourselves subject only to opinion as the basis of all action, must be procured, established, and brought into action, enabling an order which far surpasses the existing state of affairs and enables the advancement of humanity far beyond that which could ever be achieved in the existing system.
+
+# Paradigm
+
+## Accepting All Approaches
+
+When it comes to economics, and to economic thought, it is important not to exclude different approaches to the economy, lest valuable ideas and perspectives be discarded. Not all the best ideas will lie within one school of thought or another, but rather they tend to be dispersed among them.
+
+Even bad or failed ideas will generally be built upon some aspect of truth, and with some underlying wisdom. These can serve as inspiration for much better and more advanced ideas.
+
+Also, since the economic, social, and political landscape within which an idea is conceived can vary greatly, it provides a wide array of different perspectives, goals, and concepts regarding the economy. These are valuable when considering the many challenges facing any given economic system.
+
+New ideas emerge when old ideas converge. Why can’t we have people like Socialists and Anarcho-Capitalists working together on a project? Sure, they’ll disagree on things. This is to be expected. 
+
+Standards of good faith can be formed, and people can reconcile their differences peacefully and without excessive casualties. This can serve to bring people out of the confinement of their own ideological views and into the world of direct application, where feasibility, practicality, and accuracy are placed above ideology.
+
+One must consider all systems and ideas presented, and take their own creative liberties as needed when forming a system which is to be adequate in serving its purpose according to the requirements posed by the natural world.
+
+This includes Capitalism, Socialism, Communism, Feudalism, Mercantilism, Anarchism, Mutualism, Corporatism, Keynesianism/Post-Keynesianism, Technocracy, Agrarianism, Distributism, Resource-Based Economics, De-growth Economics, and more.
+
+When ideas or perspectives are left out, and not allowed to be taken into consideration as part of the process of creating ideas or making plans, any value within those ideas get thrown by the wayside. Doing such is a waste of ideas, and any value they hold will then never make it into the end result, rendering the end result less valuable.
+
+And, even if no direct value can be found within an economic system, it still has the potential to offer more insights or ideas regarding how to construct a good framework. If it can’t do that, it can at least serve as an example of what not to do.
+
+One must consider all systems and ideas presented. Many ideas bring new insight to the table despite their flaws, and often we have misconceptions about them to begin with.
+
+Movements can either compete with each other for members, or they can join together and share and compare notes. They can either remain stuck in their current position, making little progress against their well-coordinated and battle-proven adversaries who remain comfortably at the top, or they can set aside their differences and accept help from each other.
+
+Among ideals and ends, there is currently no silver bullet to cure all of our problems, but if we put our ideas together, compare them, accept their flaws, and integrate together the best available solutions within each of them into a cohesive economic system, we will be able to come much closer to, or possibly reach, this illusive silver bullet we seek.
+
+During this process, several important things will happen. First, all concepts will have to be compared and deeply considered by people coming from multiple perspectives and taking multiple angles of approach. If a concept, upon review, is found too flawed to be of use, this must be sufficiently demonstrated to, and recognized by, all involved. It can then be picked apart, to salvage any valuable insights, methods, or frameworks found within, before being discarded.
+
+In this way, the least accurate or most harmful ideas within many different ideological frameworks can be filtered out. Using what remains, a more effective and higher quality framework can be formed by incorporating what remains. During this process it is likely that entirely new ideas would emerge as well, perhaps ones which function even better than all of those which have been considered in previous frameworks.
+With a more unified movement, with a more practical and capable ideological framework, with more extensive strategy, planning, and coordination, the chances of actually achieving things increases dramatically.
+
+## Awareness of Awareness
+
+Without taking the time to understand the understanding of others, one lacks the ability to start out from their perspective when paving the path towards truth.
+
+A path which is built too great a distance away from the travelers it seeks to accommodate will be scarcely used, and thus so too will the truth.
+
+Thus, it is better to start at the same point as the travelers, and, from that point, lead to the truth, rather than to begin an exchange starting from one's own perception, confusing and alienating one's audience with unfamiliarity.
+
+## Compounding Approaches
+
+To leverage our ability to the maximum, it is recommended to utilize, and to synthesize, a plethora of mutually reinforcing tactics.
+
+What this may add in complexity, it will also add in effectiveness. The general goal here is to reach a critical mass of compounding and mutually reinforcing approaches at which point success is virtually guaranteed.
+
+This implies a heavy emphasis on a multidisciplinary approach, and a focus on effective systems integration.
+
+## Full Contribution Acknowledgment
+
+For each contribution, the original poster will be given full recognition for their contribution.
+
+It is recommended to also mention those which have inspired one's own works.
+
