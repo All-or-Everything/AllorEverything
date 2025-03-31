@@ -252,3 +252,209 @@ As humans, we see things on an individual level, guided by individual interests,
 So, I can spend my time working within this system, or I can spend my time forming frameworks and gathering people together into an effective and interconnected movement, where we can bring about an entirely new system which runs more efficiently and solves the problems of the current system.
 
 We do not go about solving our problems using the same thinking that created our problems.
+
+
+# Ideals
+
+## Alignment of Interests
+
+The goal of All or Everything is to align the interests of all actors with the betterment of conditions for the public. It is thus a prerequisite that our own interests are aligned with the betterment of conditions for the public from the very onset.
+
+## Consequential Responsibility and Ideological Indifference
+
+Ideas are to be primarily judged according to their outcomes, with a open-minded, analytical, and centrist style of approach based on the grounded consideration of all the significant factors at hand.
+
+It is recommended that all individuals remain impartial and do their best to avoid harboring ideological affections beyond the extent that is justified by grounded analysis.
+
+Our focus is to be directed towards the specific approaches, mentalities, and frameworks, among other things, found within various ideological movements.
+
+The actual form that something takes is far more critical than the label it is provided, and we plan to investigate the usefulness of specific approaches and frameworks from many different systems and ideological movements on a case-by-case basis.
+
+After this, we may integrate them into our own system if they show potential to be useful, selectively appropriating (while giving credit) the most valuable ideas we find, so as to complement our concepts and frameworks while leaving behind everything found to be unsuitable.
+
+## Consistent Commitment
+
+Our movement should be consistent in its goals, views, and ideals, changing only for the purpose of further improving upon them.
+
+It should maintain honesty and integrity and live up to the image it presents of itself.
+
+There should be no changes to these goals, views, or ideals for the sake of pandering or appealing to more people. It will not be the movement desperately trying to gain members like door-to-door Jehovah’s Witness missionaries.
+
+Instead, people should want to join because of the merit of the movement itself. A movement that stays true to its values will earn respect from those that matter the most.
+
+A movement should appeal especially to those with solid morals and values, as those are the type who present the most value.
+
+This is most critical early on, when the culture is still being shaped, so that good values are promoted and perpetuated from the onset, providing an example for members that come after.
+
+This will serve to make the movement itself healthier and more cohesive by enabling and supporting behavior that improves collaboration and constructive conduct among members, while also strengthening the moral integrity of the movement itself, preventing corruption within it.
+
+Such is to be preferred in a movement that seeks to achieve the goals it sets out to accomplish.
+
+## Considering Crime
+
+A movement should also not engage in crimes, lest they be seen as criminals, though crimes of moral benefit to others or absolute necessity may, potentially, be overlooked, depending on the context. Crime should obviously never become a standard mode of operation in any case so long as just and ethical action remains legal.
+
+
+## Ethical Economics
+
+It is important to be aware of what specifically a given person can trust an economy to do, and how that affects their behavior and mindset, subsequently guiding their approaches, decisions, and actions within it.
+
+For starters, there are some things that one should, for all practical purposes, not be able to trust within a given economy. One should not be able to trust in unethical business practices to achieve gains in an ideal economy.
+
+Fraud, scamming, financial crime, and crime in general should not be viable pursuits to be trusted or relied on for financial gain, as they sabotage and undermine the system within which they take place.
+
+Instead, one should be able to trust in or rely on a business practice to bring them gains if and only if it is ethical and adds value to the economy, with gains ideally being proportional to the net value one brings forth, ensuring that all economic activity is mutually reinforcing to the health of both the economy and those that exist within it.
+
+Such is the logical next step in the evolution of human economic organization, as no sufficiently advanced system should willingly bring about its own parasites to feed upon it.
+
+## Neutral by Name, Neutral by Nature
+
+Our movement should make due consideration that it avoids identifying itself using specific economic ideologies.
+
+Instead, it should identify itself by its relative absence of adherence to specific economic ideologies.
+
+This will provide a greater amount of creative freedom, and a shift away from complacency. Instead of arguing about whether ideas fit within a given label or perspective, we can instead focus on their effectiveness first and foremost.
+
+Sometimes the answers lie outside of our own perspective. That is why intellectual diversity is valuable, so long as discussions are approached with genuine interest in understanding each other's perspectives.
+
+## Standards Shaping Success
+
+Collaboration, trust, shared standards, mutual benefit, wisdom, adaptability, and a culture of problem solving and innovation are the qualities of a movement that is fit to succeed in their aims.
+
+Such a movement will be able to work within the existing system with ease, shaping its surroundings as it sees fit.
+
+It can act, to a great extent, as a single collective, evolving entity, achieving the betterment of public conditions by leveraging all advantages it has available.
+
+## Cultivating Community
+
+It takes a village to raise a child.
+
+This means that one’s parents are not fully adequate to shape the trajectory of one’s future alone, that others should be present to assist in this endeavor, and that children should thus be given a network of social opportunities and support figures at a young age.
+
+Each child requires significant investment, and should be given priority by the government and schooling system, in both investment and consideration, for the best outcome.
+
+This is in stark contrast to the current systems, which puts very little funding or consideration into children, while also coercing and manipulating kids into taking a future path they would not themselves take of their own volition.
+
+## Rethinking Retribution
+
+Our current legal system is guided by the trajectory of history, and the trajectory of history is rarely guided by rational logic, but instead by circumstance, opinion, and the examples set in previous eras.
+
+Let’s take a step outside of that process, approaching the subject with pragmatic and rational creativity.
+
+We can start by asking the following question: what happens if we take the phrase “love the sinner, hate the sin” and apply it to crime as well?
+
+When considering crime, the question is then not how much one should punish murderers, rapists, thieves, and scammers, but how one can reduce the rates of murder, rape, theft, and fraud.
+
+It should also be considered how solace can be brought to the victims of such crimes, should they occur, along with those impacted by the crimes indirectly.
+
+If punishment happens to reduce the rates of such crimes, such a method can be pursued to the extent that the reduction in crime justifies the application or increase of punishment, but should under no circumstance be increased upon reaching diminishing returns in those regards.
+
+In any case, punishment should not be the primary mode of achieving the goal of crime reduction, as its very mechanism of action relies on human suffering and fear to achieve those objectives. Fortunately, other methods are plentiful.
+
+## Representing Reality
+
+A movement should not simply announce its goals by delivering obscure populist messaging to the masses.
+
+Instead, it should build its goals, strategically laying out the groundwork to build a better future.
+
+Only when it has finished should it announce the goals, plan, and likely outcomes, and it should do so concisely to the public.
+
+In that way, the public will be aware not just of the goals, but also the ways in which they plan to achieve them, as well as the likely outcomes achieving them would have.
+
+This way, people will know that this movement not only stands for what it says, but also has viable plans to achieve its stated goals, which will have good outcomes.
+
+In other words, the phrase “fake it till you make it” should not be used as the guiding slogan.
+
+The movement should first make their plans, then display their plans for the public to judge on their merits.
+
+A movement should not act like the contemporary corporation or organization with playful messaging. Instead it should convey competence, confidence, inspiration, courage, and coherence.
+
+It is a movement that exists in the present, not in the fantasy world of cringy public relations propaganda.
+
+It should be comforting to those within, appealing to those outside, and intimidating to those who are unsure, such that they would rather be with it than against it, due to the competence it conveys itself with.
+
+It should be something people want to side with, by natural inclination.
+
+Likewise, it should make itself immune to unjustified opposition, and difficult to target or scapegoat due to the very nature of how it interacts with the public, and the nature of how it allocates information.
+
+In doing so, a movement can inform, grow, retain, compel, and defend, a strategy upon which success may be built.
+
+## Proof in Presentation
+
+Above all, the movement should build soft power to achieve its aims.
+
+It should be able to honestly portray itself, and be supported for what it is, and what it stands for.
+
+It should be truly dedicated to helping those around it, and be supported for that reason, and it should, within its abilities, prove its worth by improving the lives of those affected by it.
+
+In doing so, it will improve its image and, more importantly, people’s lives.
+
+## Tactics of Transformation
+
+Now, how does a movement bring about change, exactly?
+
+Well, first we must look at the manner in which we operate to achieve such ends to begin with.
+
+We should operate at the speeds in which we perform at our best, neither rushing nor lingering.
+
+We should also seek effective, sophisticated, non-divisive, and non-disruptive methods of achieving our ends, forming a well-organized social structure as a movement.
+
+This movement should have, and maintain, mutual trust in one another, and adopt a code of ethics promoting fairness, honesty, responsibility, and mutual respect among members.
+
+This movement should act, collectively, in a manner that is wise, and benevolent to those within and outside of it.
+
+This has benefits in many ways. First, it is helpful by ensuring that publicly detrimental means are not used by the movement, and thus that it does not develop a dangerous mindset in which all means are justified by the ends.
+
+It also serves to bolster a movement’s public image, and helps to gain trust, which itself is critical to bring in members and gain public support and approval.
+
+Now, acting wisely means picking battles wisely. Ideally there would be no conflicts that we would have to engage in, for, as Sun Zhu would have you know, the most successful wars are those won without either side firing a single shot.
+
+While many successful battles in the public arena may require a shot or two, these should always be kept at minimum, thus reducing risk.
+
+As such, drama or overt disagreement against outside entities or individuals should be kept to a minimum, and when a statement must be made against someone or something, it should be crafted with skill and delivered through the proper medium to the right people according to the situation.
+
+## Considering Contribution
+
+One should be able to trust an economic system to reward them for contributing, and one should not be able to rely on the system to reward them for hindering it. If one is not rewarded for contributing, one will not contribute.
+
+Thus, every way in which one can contribute should also be paired with a mechanism that rewards one according to one’s contribution, in order to maximize the ease with which rewarding contributions can be made, and thus the overall amount of contributions made.
+
+The more contribution methods an economic system enables and rewards, the more likely it is that people will contribute to it, as it is more convenient. The more appropriately and consistently a system rewards these contributions, the higher the likelihood there is that people will continue contributing, as they will hold more trust for it.
+
+If people are awarded proportionally to their contribution, it will not take them long to discover the most effective methods of contribution, whatever those happen to be. In doing so, they set a precedent, and an example, for people who are following the money, who will do as they do.
+
+This results in much higher productivity, as methods to more productively contribute to the system are discovered and replicated among people.
+
+For the sake of all things economic, a system should develop as many avenues of trust, collaboration, and mutual cooperation and benefit as it is capable of, so as to maximize the convenience and reliability it presents for those it interacts with on a regular basis, and thus to maximize the amount people are willing to contribute to it, and, subsequently, the amount it is able to provide them in return.
+
+## Proposing Possibilities
+
+While it is true that the system itself may be beyond redemption, the same is not to be said for the largest beneficiaries of it.
+
+At the end of the day, we’re all in this together, and it is a fool’s errand to try to solve the world’s problems alone.
+
+Remember that the rich are not free of good intentions or altruism, as they are people like the rest of us, just with more money and influence. Remember also that they live within the limitations of their own perspective, though only if they aren’t introduced to that of others.
+
+Without telling someone what the problem is, they will never be able to be a part of the solution. It’s only fair, if we are to condemn them for their lack of action, that we at least let them know of the possibility beforehand.
+
+## Effectiveness in Engagement
+
+Change via public protest is relatively unproductive when fighting for positive change of this nature, and there are several reasons for that.
+
+Protests tend to be short-lived, lacking clear aims while being socially disruptive and thus divisive, and failing to have a direct effect on policy, instead relying solely on public pressure to sway the decisions of politicians.
+
+The controversy and risk surrounding public protests turns away potential supporters, and when it does work, there is little guaranteed that it will work beyond the short term, because it does not replace the politicians.
+
+It also, at the end of the day, still relies on the same politicians for it to work in the first place, which is not ideal.
+
+Different approaches can be far more practical, achieving more with less effort while also being less disruptive to society. It is these different approaches that we should explore.
+
+## A Founding Foundation
+
+Plans may differ, strategies may improve, and the complexities of reality may favor various specific approaches, but the general truth remains.
+
+For the most important and fundamental types of change to come about most effectively, strategic and well-planned actions must be taken. Things must be coordinated. Rules must be made. Foresight must be utilized. Goals must be established.
+
+The very first thing a movement must do is to formulate its ideological, operational, and strategic approach, laying out a solid information foundation that, once established, can be used as the basis for the many following decisions that must be made.
+
+A foundation of formalized systems, rigorously formulated and infused with valuable insights, without which we will find ourselves subject only to opinion as the basis of all action, must be procured, established, and brought into action, enabling an order which far surpasses the existing state of affairs and enables the advancement of humanity far beyond that which could ever be achieved in the existing system.
