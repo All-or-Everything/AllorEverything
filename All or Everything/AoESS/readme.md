@@ -2,7 +2,7 @@
 
 - **Description**
     
-    4D Democracy is a decentralized, self-balancing governance platform that empowers citizens to directly shape societal rules, structures, and processes. Drawing inspiration from software development methodologies like commit-and-peer-review (as seen in git and blockchain), it employs secure, transparent mechanisms to record and refine policy changes continuously. This approach transforms governance into a collaborative, community-driven evolution.
+    4D Democracy is a decentralized, self-balancing governance platform that empowers citizens to directly shape societal rules, structures, and processes. Drawing inspiration from software development methodologies like commit-and-peer-review (as seen in git, and similar in concept to blockchain), it employs secure, transparent mechanisms to record and refine policy changes continuously. This approach transforms governance into a collaborative, community-driven evolution.
     
 - **Function**
     - **Proposal Submission:**
