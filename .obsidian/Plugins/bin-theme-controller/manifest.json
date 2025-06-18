@@ -1,9 +1,0 @@
-{
-	"id": "bin-theme-controller",
-	"name": "Theme Controller",
-	"version": "1.0.4",
-	"minAppVersion": "0.15.0",
-	"description": "Set when and how the themes will be displayed.",
-	"author": "Binaris",
-	"isDesktopOnly": false
-}
