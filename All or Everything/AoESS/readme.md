@@ -1,3 +1,5 @@
+# All or Everything Societal System
+
 ### Digitally Decentralized Direct Deliberative Democracy (4D Democracy)
 
 - **Description**
