@@ -1,6 +1,6 @@
 # Table of contents
 
-* [AllorEverything](README.md)
+* [AllorEverything](AllorEverything/README.md)
 * [All or Everything](all-or-everything/README.md)
   * [AoE](<All or Everything/AoE.md>)
 * [Resources](resources/README.md)
