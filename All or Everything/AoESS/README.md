@@ -737,146 +737,29 @@ Promotes collaboration with Sector Support Systems of other sectors to create le
 
 ### Social Development Ecosystem (SDE)
 
-- **Function**
-    
-      
-    
-- **Purpose**
-    
-      
-    
-- **Justification**
-    
-      
-    
-- **Limitations**
-    
-      
-    
 
-Organized system of societal-scale social management, regulation, facilitation, development, and improvement. Groups families into regional multi-family social alliances, Social Integration Organizations (SIOs), based on their geographic proximity to each other. SIOs serve as the dual purpose of both a social alliance and a node for local system integrations.
+Organized system of societal-scale social management, regulation, facilitation, development, and improvement. Groups families into regional multi-family social alliances, Social Integration Communities (SICs), based on their geographic proximity to each other. SIOs serve as the dual purpose of both a social alliance and a node for local system integrations.
 
-### Social Alliance
-
-- **Function**
-    
-      
-    
-- **Purpose**
-    
-      
-    
-- **Justification**
-    
-      
-    
-- **Limitations**
-    
-      
-    
+### Community Support Network
 
 Parents in the organization are bound to holding each other accountable to basic criteria in the treatment of their children and share a level of custody with each other. Corrects improper parenting behavior, preventing child mistreatment by increasing the diversity in parental oversight.
 
 ### Local System Integrations
-
-- **Function**
-    
-      
-    
-- **Purpose**
-    
-      
-    
-- **Justification**
-    
-      
-    
-- **Limitations**
-    
-      
-    
+WIP
 
 ### Relationship Regulation System
 
-- **Function**
-    
-      
-    
-- **Purpose**
-    
-      
-    
-- **Justification**
-    
-      
-    
-- **Limitations**
-    
-      
-    
+Keeps peace within the community, to maintain and increase the presence of healthy social function and correct any deviations from it. Provides access to a network of social professionals, trained to perform mediation, de-escalation, dispute resolution, counseling, limited community policing functions, mentorship, social skills training, and also training and hiring for those aspiring to do likewise.
 
-Keeps peace within the community, to maintain and increase the presence of healthy social function and correct any deviations from it. Provides access to a network of social professionals, trained to perform mediation, de-escalation, dispute resolution, counseling, limited community policing functions, mentorship, social skills training, and also training and hiring for those that wish to become a social professional themselves.
-
-### Societal Servant System
-
-- **Function**
-    
-      
-    
-- **Purpose**
-    
-      
-    
-- **Justification**
-    
-      
-    
-- **Limitations**
-    
-      
-    
+### Societal Support System
 
 Coordinates services like childcare, cleaning, house and product repair, and more, to perform menial domestic tasks far more efficiently than the residents themselves. This serves to free up time for people so it can be used for recreational or economically valuable activities.
 
 ### Knowledge Transfer System
 
-- **Function**
-    
-      
-    
-- **Purpose**
-    
-      
-    
-- **Justification**
-    
-      
-    
-- **Limitations**
-    
-      
-    
-
 Based on direct human interaction. It consists of a network of meeting rooms and video conference booths, both of which feature recording devices for optional recording of conversations, so they can be referenced during training, education, or future academic discussions. This system includes a networking, logistics, and scheduling system to keep everything running smoothly. It functions to facilitate the sharing of expertise and knowledge among academics, professionals, and students, so valuable knowledge can be shared within and among fields and practices, provided to younger generations, and built upon from generation to generation.
 
 ### Domestic Development System
-
-- **Function**
-    
-      
-    
-- **Purpose**
-    
-      
-    
-- **Justification**
-    
-      
-    
-- **Limitations**
-    
-      
-    
 
 Connects domestic life to the economy. Works with industry to improve the design of homes, appliances, and household products in order to reduce domestic burdens for citizens and subsequently free up their time for socially important, personally fulfilling, and economically valuable activities.
 
