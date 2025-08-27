@@ -10,3 +10,4 @@ Our goal is to collaboratively develop the All or Everything Societal System, as
   - AoESS: All or Everything Societal System, the main blueprint and a demonstration of what we seek to aspire towards, as well as what solutions we can arrive on if we commit ourselves to solving problems bigger than ourselves.
   - AoEAF: All or Everything Alliance Framework, a strategically designed, adaptive, self-scaling, and secure system of social ascension standing on foundations of peaceful mediation, effective communication, as well as mutual benefit, and intended to incrementally evolve in phases into the above mentioned societal system.
   - AoEPS: All or Everything Personal Strategies, an instructive overview of the strategies we develop to solve problems, manage situations, and perform roles at the individual level, with ethical considerations integrated into operational considerations. 
+---
