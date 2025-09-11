@@ -8,25 +8,25 @@
 
 # INDEX
 
-[INDEX](#index)
+[INDEX](<#index>)
 
-[Section I. Environment](#section-i-environment)
+[Section I. Environment](<#section-i-environment>)
 
-[Section II. Education](#section-ii-education)
+[Section II. Education](<#section-ii-education>)
 
-[Section III. Transportation & Urban Design](#section-iii-transportation--urban-design)
+[Section III. Transportation & Urban Design](<#section-iii-transportation--urban-design>)
 
-[Section IV. Healthcare](#section-iv-healthcare)
+[Section IV. Healthcare](<#section-iv-healthcare>)
 
-[Section V. Economy](#section-v-economy)
+[Section V. Economy](<#section-v-economy>)
 
-[Section VI. Social](#section-vi-social)
+[Section VI. Social](<#section-vi-social>)
 
-[Section VII. Foreign Affairs](#section-vii-foreign-affairs)
+[Section VII. Foreign Affairs](<#section-vii-foreign-affairs>)
 
-[Section VIII. Government](#section-viii-government)
+[Section VIII. Government](<#section-viii-government>)
 
-[Footnotes](#footnotes)
+[Footnotes](<#footnotes>)
 
   
   
@@ -50,19 +50,19 @@ Total Bullet points: 271
 
 # Section I. Environment
 
-*   Phase out the use of non-biodegradable and single-use products, except where necessary.[\[1\]](#ftnt1)
+*   Phase out the use of non-biodegradable and single-use products, except where necessary.[\[1\]](<#ftnt1>)
 
 *   Ban the use of unnecessary plastics¹
 
 *   Homes must be built with solar (provided it is practical in that location) which is connected to the grid. The solar panels of the home may be used to power the home, or the energy it produces may be sold to the grid at market prices as a form of passive income to the homeowner.
 
-*   Homes must be built with geothermal heat pumps (either per-house or community ones), or air-source heat pumps & district heating where it is not feasible, such as in urban centers[\[2\]](#ftnt2)
+*   Homes must be built with geothermal heat pumps (either per-house or community ones), or air-source heat pumps & district heating where it is not feasible, such as in urban centers[\[2\]](<#ftnt2>)
 
-*   Higher the budget for nuclear fission energy significantly, create and direct a large-scale team to begin a race towards viable, cost-effective nuclear fusion.[\[3\]](#ftnt3)
+*   Higher the budget for nuclear fission energy significantly, create and direct a large-scale team to begin a race towards viable, cost-effective nuclear fusion.[\[3\]](<#ftnt3>)
 
 *   All large cargo ships must be nuclear-powered²
 
-*   Ban the imports of wild animal trophies[\[4\]](#ftnt4)  
+*   Ban the imports of wild animal trophies[\[4\]](<#ftnt4>)  
     
 *   Set targets for nuclear power as a percentage of total share in energy production, with the target being 50%.²
 
@@ -70,7 +70,7 @@ Total Bullet points: 271
 
 *   Materials used in energy production, such as wind - should be as entirely recyclable as possible, and use recycled materials in turn.²
 
-*   A total ban on the usage of coal, natural gas, oil, and other such similar products on their use for generation of energy.[\[5\]](#ftnt5)  
+*   A total ban on the usage of coal, natural gas, oil, and other such similar products on their use for generation of energy.[\[5\]](<#ftnt5>)  
     
 *   Tighten air pollution, water pollution, and noise pollution regulations⁵
 
@@ -82,7 +82,7 @@ Total Bullet points: 271
     
 *   All electronic appliances should meet a minimum set of standards for efficiency.
 
-*   Replace all lead-based pipes.[\[6\]](#ftnt6)
+*   Replace all lead-based pipes.[\[6\]](<#ftnt6>)
 
 *   Total ban of leaded fuels in cars, trucks, and planes – airplanes in specific should move to less polluting fuels
 
@@ -98,13 +98,13 @@ Total Bullet points: 271
 
 *   Ban the production & sale of clothing that consists of more than 10% plastics (polyester, nylon, etc).¹
 
-*   Phase out non-electric energy use both industrially & domestically, such as; Gas-Powered Heaters, Stoves, etc.[\[7\]](#ftnt7)
+*   Phase out non-electric energy use both industrially & domestically, such as; Gas-Powered Heaters, Stoves, etc.[\[7\]](<#ftnt7>)
 
 *   Use sustainable methods to control undergrowth, such as sheep or goats, rather than employing the use of herbicides.
 
 *   Ban drift-net fishing.¹
 
-*   Manufacturers must provide spare parts for the expected lifetime (here defined as how long the product is on the market, or how long the product can last, whichever is higher) of a product plus 5 years, or 10 years total - whichever is higher, with clearly explained documentation on how to carry out repairs without the use of specialized equipment.[\[8\]](#ftnt8)
+*   Manufacturers must provide spare parts for the expected lifetime (here defined as how long the product is on the market, or how long the product can last, whichever is higher) of a product plus 5 years, or 10 years total - whichever is higher, with clearly explained documentation on how to carry out repairs without the use of specialized equipment.[\[8\]](<#ftnt8>)
 
 *   Extreme Rural Areas, where people live miles apart or in otherwise anti-social conditions, are to be prohibited from being created or expanded.
 
@@ -640,7 +640,7 @@ Total Bullet points: 271
 
 * * *
 
-[\[1\]](#ftnt_ref1) Single-use plastics and non-biodegradable materials contribute significantly to pollution, landfill overflow, and harm to ecosystems as well as humans. Phasing them out promotes sustainability and reduces environmental damage.
+[\[1\]](<#ftnt_ref1>) Single-use plastics and non-biodegradable materials contribute significantly to pollution, landfill overflow, and harm to ecosystems as well as humans. Phasing them out promotes sustainability and reduces environmental damage.
 
 \[A\] "Plastic Pollution." Our World in Data. [https://ourworldindata.org/plastic-pollution](https://www.google.com/url?q=https://ourworldindata.org/plastic-pollution&sa=D&source=editors&ust=1740248792636738&usg=AOvVaw3QqK37bHlCpkp37SgAgB4F) 
 
@@ -652,9 +652,9 @@ Total Bullet points: 271
 
 \[E\] Barnes, David Keith Alan, and P. Milner. "Drifting plastic and its consequences for sessile organism dispersal in the Atlantic Ocean." Marine Biology 146 (2005): 815-825.
 
-[\[2\]](#ftnt_ref2) [https://www.youtube.com/watch?v=onmLrUh2cHU](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DonmLrUh2cHU&sa=D&source=editors&ust=1740248792638156&usg=AOvVaw3g93XqlqN9D9Zsk9Sn4ABj) 
+[\[2\]](<#ftnt_ref2>) [https://www.youtube.com/watch?v=onmLrUh2cHU](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DonmLrUh2cHU&sa=D&source=editors&ust=1740248792638156&usg=AOvVaw3g93XqlqN9D9Zsk9Sn4ABj) 
 
-[\[3\]](#ftnt_ref3) Nuclear power provides a low-carbon, high-output energy source. Expanding fission while aggressively pursuing fusion research offers a pathway to decarbonizing the energy sector. Nuclear-powered cargo ships reduce emissions from the shipping industry, a significant contributor to global greenhouse gases. Wind power is perhaps the cleanest of the “clean” energy sources, far outmatching solar power despite solar’s comparative popularity - which is itself more polluting and deadly than even Nuclear power, thus a future energy grid should rely primarily on Nuclear & Wind, Nuclear providing the bulk of stable generation to make up for Wind’s variability, with other sources taking secondary precedence over these 2 main sources.
+[\[3\]](<#ftnt_ref3>) Nuclear power provides a low-carbon, high-output energy source. Expanding fission while aggressively pursuing fusion research offers a pathway to decarbonizing the energy sector. Nuclear-powered cargo ships reduce emissions from the shipping industry, a significant contributor to global greenhouse gases. Wind power is perhaps the cleanest of the “clean” energy sources, far outmatching solar power despite solar’s comparative popularity - which is itself more polluting and deadly than even Nuclear power, thus a future energy grid should rely primarily on Nuclear & Wind, Nuclear providing the bulk of stable generation to make up for Wind’s variability, with other sources taking secondary precedence over these 2 main sources.
 
 \[A\] Wind vs. Solar vs. Nuclear [https://digitalcommons.bryant.edu/cgi/viewcontent.cgi?article=1025&context=honors\_science](https://www.google.com/url?q=https://digitalcommons.bryant.edu/cgi/viewcontent.cgi?article%3D1025%26context%3Dhonors_science&sa=D&source=editors&ust=1740248792638548&usg=AOvVaw3xqrsNXbUb6pU1PriLuD4_) 
 
@@ -662,20 +662,20 @@ Total Bullet points: 271
 
 \[C\] "Renewable Energy Target Setting." International Renewable Energy Agency, [www.irena.org/publications/2015/Jun/Renewable-energy-target-setting](https://www.google.com/url?q=http://www.irena.org/publications/2015/Jun/Renewable-energy-target-setting&sa=D&source=editors&ust=1740248792638956&usg=AOvVaw1oOPA9XPW6hfqXi30eD1zq).
 
-[\[4\]](#ftnt_ref4) Trophy hunting often targets endangered or vulnerable species, contributing to population declines and disrupting ecosystems. Banning imports discourages this practice and supports conservation efforts.
+[\[4\]](<#ftnt_ref4>) Trophy hunting often targets endangered or vulnerable species, contributing to population declines and disrupting ecosystems. Banning imports discourages this practice and supports conservation efforts.
 
-[\[5\]](#ftnt_ref5) Stronger regulations on air, water, and noise pollution protect public health and the environment, especially as we become more aware of the problems pollution of all kinds presents, and it is important to involve everyone in the preservation of our society.
+[\[5\]](<#ftnt_ref5>) Stronger regulations on air, water, and noise pollution protect public health and the environment, especially as we become more aware of the problems pollution of all kinds presents, and it is important to involve everyone in the preservation of our society.
 
 \[A\] “Babies have air pollution in their lungs and brains before they take their first breath. Nanoparticles cross the placenta into the foetus in the womb as early as the first trimester of pregnancy and get into its developing organs, including its liver, lungs, and brain.” [https://www.abdn.ac.uk/news/16424/](https://www.google.com/url?q=https://www.abdn.ac.uk/news/16424/&sa=D&source=editors&ust=1740248792639476&usg=AOvVaw3wN8qmhr0XzPQCAEpjcf48) 
 
 \[B\] Gupta, Alok, et al. "Noise pollution and impact on children health." The Indian Journal of Pediatrics 85.4 (2018): 300-306. [https://link.springer.com/article/10.1007/s12098-017-2579-7](https://www.google.com/url?q=https://link.springer.com/article/10.1007/s12098-017-2579-7&sa=D&source=editors&ust=1740248792639770&usg=AOvVaw1h3-7HxVt3NKsZm854N_hS).
 
-[\[6\]](#ftnt_ref6) Lead is a neurotoxin, and exposure to lead pipes and leaded fuels poses serious health risks, particularly to children. Banning leaded fuels and replacing lead pipes eliminates a major source of lead exposure.
+[\[6\]](<#ftnt_ref6>) Lead is a neurotoxin, and exposure to lead pipes and leaded fuels poses serious health risks, particularly to children. Banning leaded fuels and replacing lead pipes eliminates a major source of lead exposure.
 
 \[A\] [https://www.epa.gov/ground-water-and-drinking-water/basic-information-about-lead-drinking-water#health](https://www.google.com/url?q=https://www.epa.gov/ground-water-and-drinking-water/basic-information-about-lead-drinking-water%23health&sa=D&source=editors&ust=1740248792640099&usg=AOvVaw0MgXvo4Zx1s3YJ36XP6BbJ) 
 
 \[B\] Zahran, Sammy, et al. "The effect of leaded aviation gasoline on blood lead in children." Journal of the Association of Environmental and Resource Economists 4.2 (2017): 575-610. [https://www.journals.uchicago.edu/doi/abs/10.1086/691686](https://www.google.com/url?q=https://www.journals.uchicago.edu/doi/abs/10.1086/691686&sa=D&source=editors&ust=1740248792640311&usg=AOvVaw3SjoxN5FpheI0JKFIAxz5h) 
 
-[\[7\]](#ftnt_ref7) [https://www.iea.org/energy-system/electricity/electrification](https://www.google.com/url?q=https://www.iea.org/energy-system/electricity/electrification&sa=D&source=editors&ust=1740248792640546&usg=AOvVaw2dHqMcSXeQqCr7YnihSqwb) 
+[\[7\]](<#ftnt_ref7>) [https://www.iea.org/energy-system/electricity/electrification](https://www.google.com/url?q=https://www.iea.org/energy-system/electricity/electrification&sa=D&source=editors&ust=1740248792640546&usg=AOvVaw2dHqMcSXeQqCr7YnihSqwb) 
 
-[\[8\]](#ftnt_ref8) [https://www.repair.org/restricting-access](https://www.google.com/url?q=https://www.repair.org/restricting-access&sa=D&source=editors&ust=1740248792640753&usg=AOvVaw2MuSm4kF4dVcVIYMuE1a2y)
+[\[8\]](<#ftnt_ref8>) [https://www.repair.org/restricting-access](https://www.google.com/url?q=https://www.repair.org/restricting-access&sa=D&source=editors&ust=1740248792640753&usg=AOvVaw2MuSm4kF4dVcVIYMuE1a2y)
