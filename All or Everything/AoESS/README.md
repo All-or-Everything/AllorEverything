@@ -1,5 +1,9 @@
 # All or Everything Societal System
 
+
+---
+<details> <summary>Digitally Decentralized Direct Deliberative Democracy (4D Democracy)</summary>
+
 ### Digitally Decentralized Direct Deliberative Democracy (4D Democracy)
 
 - **Description**
@@ -68,6 +72,10 @@
         
         The efficacy of the model depends on the community's commitment to accurate, unbiased feedback. Any erosion in user integrity could compromise the system’s self-regulating mechanism.
         
+</details>
+
+---
+
 
 ### Alliance Level 4D Democracy (AL5D)
 
@@ -96,50 +104,43 @@
     
 - **Function**
     
-    WIP
+    Impliments policy (operational) and order (structural) additions, eliminations, and modifications according to the results approved by AL5D directly. Operates with complete and uninhibited transparency (aside from dress code) within a glass-paned, wired & surveilled building with complete government serveillance (serveillance of the government, by the people) integrated.
     
 - **Purpose**
     
-    WIP
-    
+    To enact the decisions reached by [AL5D](#alliance-level-4d-democracy-al5d) and thus enforce the will of the people in policy and design of the government.
+
 - **Justification**
     
-    WIP
+    Without this, [AL5D](#alliance-level-4d-democracy-al5d) would be functionally unenforced, and the people's position atop the system would be cucked.
     
 - **Limitations**
     
-    WIP
+    Must be transparent to ensure changes carried out accurately match what is prescribed by [AL5D](#alliance-level-4d-democracy-al5d), within tight margins. Further improvements to this institution are also open for modification by [AL5D](#alliance-level-4d-democracy-al5d), for circumstances in which the system's design features, or lack thereof, hinder effective implimentation. Dual nested sections are dedicated to carrying out these institutional changes, on the surrounding institution structure and then on each other, as prescribed by [AL5D](#alliance-level-4d-democracy-al5d).
     
 
 ### Societal Sector Alliance Network (SSAN)
 
 - **Description**
     
-    A system of checks between regional sectors of implementation.
-    
-    WIP (Subject to AL5D and AII, thus technically does not need to be completed beforehand and is subject to change)
-    
+    A system of checks between regional sectors of implementation. Subject to [AL5D](#alliance-level-4d-democracy-al5d) via [AII](#alliance-implementation-institution-aii), and the ultimate outcome of the collective will determining the nature of the relations between and amongst all sovereign sectors.
+        
 - **Function**
     
-    - Prevents its own dissolution through checks in place between sectors and acts as a mechanism locking all interests together and keeping them together.
-    
-    WIP
+    Prevents its own dissolution through checks in place between sectors and acts as a mechanism locking all interests together and keeping them together. Strengthens the collective power of the sectors without weakening their ability to adapt to local events and conditions. Serves as a strong integrated inter-sector contract structured for collective benefit, mutual reinforcement, collective protection, and sequential sector expansion.
     
 - **Purpose**
     
-    - Ensures that all sectors remain acting in the best interests of the whole, with no sector prioritizing itself above any other sector in its actions and behavior.
-    
-    WIP
-    
+    Ensures that all sectors remain acting in the best interests of the whole, with no sector prioritizing itself above any other sector in its actions and behavior. Provides a link to recently initiated, vulnerable projects to provide backup support and assistance, stabilizing and accelerating further implimentation of the AoESS.
+        
 - **Justification**
     
-    - Designed to be robust and versatile, ensuring that it can connect seamlessly with any new sectors wherever they emerge, providing assistance to strengthen their foothold during vulnerable stages of development into a fully established AoE Societal System.
-    
-    WIP
+    Designed to be robust and versatile, ensuring that it can connect seamlessly with any new sectors wherever they emerge, providing assistance to strengthen their foothold during vulnerable stages of development into a fully established sector. Makes all sectors better off by providing a direct route to mutual benefit, and of a form decided by the people directly through [AL5D](#alliance-level-4d-democracy-al5d).
     
 - **Limitations**
     
-    WIP
+    Not everything can happen under an umbrella contract. Sectors need to be able to decide some things for themselves. Also, as a collective contract, has no central authority, which is replaced by synchronization. Time will tell if this poses issues. Also, implies a structure, is to be collectively implimented, and yet cannot override the sector system. Without any central authority, there is no clear body in charge, and likewise there's no clear line between the overarchingly applied SSAN structure and the underlying SS structure. I find the lack of central authority to be preferable, and worth this contradiction/blurring of boundaries, given the issue is not grave and it doesn't seem like it will be difficult to resolve. However, that will have to be done.
+    - I would like to invite collaboration here. Feel free to try this challenge yourself. If you come up with a clean, effective way to resolve this, you win my genuine respect, and (if you're not already in it) an early invitation to the new AoE server, alongside inner circle participants and my most interesting compadres, before it opens publicly.
     
 
 ### Sector Level 4D Democracy (SL5D)
@@ -192,23 +193,23 @@
 
 - **Description**
     
-    Order which is in place. Can be, and frequently is, altered by SII according to 4D Democracy, but also begins at an initial design, with features and characteristics initially inspired by concepts from the AoE movement, to be modified further.
+    Order which is in place. Can be, and frequently is, altered by SII according to 4D Democracy, but also begins at an initial design, with features and characteristics initially inspired by concepts from the AoE movement, to be further modified as needed by citizens through the [SL5D](#sector-level-4d-democracy-sl5d).
     
 - **Function**
     
-    WIP
+    Does everything within the sector that the inhabiting citizens establish via their local [SL5D](#sector-level-4d-democracy-sl5d).
     
 - **Purpose**
     
-    WIP
+    Manifest humanity
     
 - **Justification**
     
-    WIP
+    We could skip this and just have citizens start out with a blank slate, but it's probably best to learn from communism's mistake here instead of repeating it, and give people some structure to stand on.
     
 - **Limitations**
     
-    WIP
+    It could become an Orwellian monster, stealing all the infants in sight with its clutching tentacles. You never know, it could just happen. Nobody can predict the future, least of all economists.
     
 
 ### Data Distribution System (DDS)
@@ -219,234 +220,100 @@
     
 - **Function**
     
-    WIP
+    Delivers all necessary communication between societal functions, keeping the whole sector up to date, informed, and responsive to incoming information. Likewise, stores all personal information, encrypted and organized by domain of relavency, providing only the strictly relavent information upon request, and only if authorization conditions are met for said relavent information, with further information beyond that always requiring explicitly provided and authenticated citizen consent.
     
 - **Purpose**
     
-    WIP
+    To keep the system running with accurate, up-to-date information, as well as dynamic inter-system communication, while also serving as a central repository for personal information of all citizens.
     
 - **Justification**
     
-    WIP
+    Without effective intercommunication and information management, the system would simply not function at all. This is one of the single most critical underlying functions for this system to function.
     
 - **Limitations**
     
-    WIP
+    Limited to speed-of-light communication until we finish figuring out entanglement, delaying the carrying out of the people's will by a few milliseconds.
     
 
 ### Data Processing System (DPS)
 
 - **Description**
+    Converts abstract, unformatted, uncalculated, or otherwise unusable or incompatible data inputs into clean, calculated, coherent, and system compatible data outputs, relying on models and frameworks, simulations, algorithms, and the most effective and practical of the various forms of artificial intelligence systems for data interpretation, representation, and overall preparation.
     
-    Acquires, aggregates, and organizes information within the economic system, relying on models and frameworks, simulations, algorithms, and AI systems for data interpretation, and data representation.
     
 - **Function**
     
-    WIP
+    Gathers all needed data, especially from the Information Intake Apperatus, performing the analytics heavy lifting to render that data into something directly readable and useable where it is needed. Applies a wide range of tools, creating and utilizing information pipelines to automate needed data interpretation, sending the results where they're needed.
+
+**Feature:** Parses input from Biosignature Monitoring Network using sophisticated ecosystem modeling, prediction, and interpolation via machine learning to predict population statistics of unobservable or hardly traceable species by proxy of environmental factors as well as the population statistics of more easily observable species which carry a correlary relationship with them.
     
 - **Purpose**
+    Computes the effects of the system on its surroundings, cleans data, and ensures the stream of information flows smoothly without jamming systems, causing errors, or resulting in faulty system responses.
     
-    WIP
     
 - **Justification**
     
-    WIP
+    Without this, the information quality gathered by the system would be poor, and much of it wouldn't be useable or reliable.
     
 - **Limitations**
     
-    WIP
+    There's only so many methods one can use to solve linear programming equations.
     
 
-### Feature:
 
-Uses Biosignature Monitoring Network together with sophisticated ecosystem modeling, prediction, and interpolation via machine learning to predict population statistics of unobservable species by using the population statistics of observable species alongside environmental conditions and various other factors.
 
 ### Information Intake Apparatus (IIA)
 
-### Industry Accountability System
+- **Function**
+    
+    Acquires, aggregates, and organizes information within or pertaining to the economic system from its nested component systems to be processed.
+    
+- **Purpose**
+    
+    To plug information gaps and provide the system with awareness of its surroundings so it can compute its own effects on them.
+    
+- **Justification**
+    
+    Provides a rich and holistic systemic-scale 'sense' that can properly and more effectively account for externalities and measure ecological and societal health.
+    
+- **Limitations**
+    
+    Is a machine built to collect information. As such, it could become orwellian, grow tentacles, and begin obliterating the infants once again. You never know. It's worth stashing the infants somewhere safe and wearing a velcro suit to keep the suckers off you, just in case. You never know until it's too late.
+
+<ins>Nested Components:</ins>
+#### Industry Accountability System
 
 Collects legally required company information through a highly streamlined process and convenient interface, from bureaucratic structure all the way down to each employee's recorded productivity, including the details of each and every process, product, component, incident, and anything else relevant to company operations.
 
-- **Function**
-    
-    WIP
-    
-- **Purpose**
-    
-    WIP
-    
-- **Justification**
-    
-    WIP
-    
-- **Limitations**
-    
-    WIP
-    
-
----
-
-### Psychological Assessment System
+#### Psychological Assessment System
 
 Assesses the psychological state of workers using cognitive scanning and behavioral assessments, measuring the psychological impact of work conditions on workers.
 
-- **Function**
-    
-    WIP
-    
-- **Purpose**
-    
-    WIP
-    
-- **Justification**
-    
-    WIP
-    
-- **Limitations**
-    
-    WIP
-    
+#### Huge Pharma
 
----
+All-encompassing health system. Utilizes mutually beneficial contracts between patients and medical institutions to intensively acquire and utilize information from patients to progress medical research and account for health-related externalities. Provides information, which travels through the DPS and DDS, into the SRC, and ultimately to the SPS where it can be accounted for via the IEP, enabling the economic system to account for health-related externalities so it can adapt incentives accordingly, enabling systemic accountability to people's health outcomes.
 
-### Huge Pharma
-
-  
-
-- **Description**
-    
-    All-encompassing health system.
-    
-- **Function**
-    
-    Utilizes mutually beneficial contracts between patients and medical institutions to intensively acquire and utilize information from patients. Provides information, which travels through the DPS and DDS, into the SRC, and ultimately to the SPS where it can be accounted for via the IEP, enabling the economic system to account for health-related externalities.
-    
-- **Purpose**
-    
-    To monitor public health impacts and progress medical research, providing mass scale health accounting.
-    
-- **Justification**
-    
-    Provides information that enables the economic system to account for health-related externalities, allowing it to disincentivize.
-    
-- **Limitations**
-    
-      
-    
-
----
-
-### Biosignature Monitoring Network
+#### Biosignature Monitoring Network
 
 Network of sensors, such as cameras, microphones, and satellites, all fitted with AI systems to recognize biosignatures of species that they detect. Counts and labels biosignatures, estimating species population sizes, activities, and migrations, while reporting the introduction of invasive species and flagging biosignatures of unidentified species for further investigation.
 
-- **Function**
-    
-    WIP
-    
-- **Purpose**
-    
-    WIP
-    
-- **Justification**
-    
-    WIP
-    
-- **Limitations**
-    
-    WIP
-    
-
----
-
-### Feedback Forms
+#### Feedback Forms
 
 Survey, questionnaire, and suggestion forms which are provided to customers, allowing them to report their experience, provide product ideas, give industry recommendations, and rate goods and services according to various metrics.
 
-- **Function**
-    
-    WIP
-    
-- **Purpose**
-    
-    WIP
-    
-- **Justification**
-    
-    WIP
-    
-- **Limitations**
-    
-    WIP
-    
+#### Societal Media Platform
 
----
+Social media platforms tailored to acquire useful customer reports, ideas, and ratings. The customer-produced content would also be subject to ratings by others, as well as algorithms designed to promote quality content. This is used to pressure suppliers into creating better products, as both a solid source of customer-centric innovation, and a institutionally enforced lever for citizens to ensure that supply doesn't only meet demand in quantity, but also quality, design, and preference as well.
 
-### Social Media Platform
-
-Social media platform tailored to acquire useful customer reports, ideas, and ratings. The customer-produced content would also be subject to ratings by others, as well as algorithms designed to promote quality content.
-
-- **Function**
-    
-    WIP
-    
-- **Purpose**
-    
-    WIP
-    
-- **Justification**
-    
-    WIP
-    
-- **Limitations**
-    
-    WIP
-    
-
----
-
-### Idea Submission Interface
+#### Idea Submission Interface
 
 Where employees are instructed to log their ideas before sharing them among others in a company. Verifies the originator of any given idea, counters false claims of ownership, and makes it easier to attribute ideas accurately and compensate those responsible according to their impact.
-
-- **Function**
-    
-    WIP
-    
-- **Purpose**
-    
-    WIP
-    
-- **Justification**
-    
-    WIP
-    
-- **Limitations**
-    
-    WIP
     
 
----
 
 ### Standardization Regulatory Complex (SRC)
 
-Industry-wide network which encompasses the Industry Organization System, Information Management System, Startup Hosting System, and all Specialized Sector Management Systems, and hence their features.
-
-- **Function**
-    
-    WIP
-    
-- **Purpose**
-    
-    WIP
-    
-- **Justification**
-    
-    WIP
-    
-- **Limitations**
-    
-    WIP
+Industry-wide network which encompasses the Industry Organization System, Startup Hosting System, and all Specialized Sector Management Systems, and hence their features. Serves as a complete economy management engine, with everything from optimized labor allocation to structured societal benefit-based incentives.
     
 
 ### Corporate Requirements
@@ -569,39 +436,19 @@ SHS is designed to accelerate economic innovation by lowering the barriers to en
     - For each sector, creates and oversees a Specialized Sector Management System.
 - **Purpose**
     
-    WIP
+    To streamline the process of regulation by approaching it on a per-industry basis and specializing for the qualities and constraints of each industry.
     
 - **Justification**
     
-    WIP
+    It makes sense to do it this way, since the conditions, incentives, and constraints in a given industry are generally quite consistent, and tend to require similar regulatory and incentive solutions.
     
 - **Limitations**
     
-    WIP
+    If it is shown to be more efficient and practical to calculate for all the industry in a single institution due to economies of scale then applying this approach won't make sense.
     
 
 ### Specialized Sector Management Systems (SSMSs)
 
-- **Description**
-    
-    WIP
-    
-- **Function**
-    
-    WIP
-    
-- **Purpose**
-    
-    WIP
-    
-- **Justification**
-    
-    WIP
-    
-- **Limitations**
-    
-    WIP
-    
 
 ### Sector Support System (SSS)
 
@@ -628,22 +475,7 @@ SHS is designed to accelerate economic innovation by lowering the barriers to en
 
 ### Sector Regulatory System (SRS)
 
-- **Function**
-    
-    Enforces Sector Regulatory Framework, a specialized framework developed by Central Creativity, for each sector individually.
-    
-- **Purpose**
-    
-      
-    
-- **Justification**
-    
-      
-    
-- **Limitations**
-    
-      
-    
+Enforces Sector Regulatory Framework, a specialized framework developed by Central Creativity, for each sector individually.
 
 ### Sector Regulatory Framework
 
@@ -652,28 +484,9 @@ SHS is designed to accelerate economic innovation by lowering the barriers to en
 
 ### Sector Payment System (SPS)
 
-- **Function**
-    
-      
-    
-- **Purpose**
-    
-      
-    
-- **Justification**
-    
-      
-    
-- **Limitations**
-    
-      
-    
+Sets profit margins according to the calculated net individual benefit derived from a good or service. Provides subsidies according to the calculated net societal benefit of a good, service, or utility. Such that, on top of the reduction of price that is provided collectively via subsidies on specific goods, according to the benefit derived collectively, the individual pays extra, which goes directly into funding the supplier of a given product, according to the benefit they derive individually.
 
-Profit margins determined according to the calculated net individual benefit derived from a good or service. Subsidies provided according to the calculated net societal benefit of a good, service, or utility.
-
-Thus, on top of the reduction of price that is provided collectively via subsidies on specific goods, according to the benefit derived collectively, the individual pays extra according to the benefit they derive individually.
-
-Likewise, for industry in less societally beneficial arrangements, taxes are levied on businesses according to their calculated societal harm, and on products, by the customer, according to the estimated harm of these products on the customer and those around them.
+Likewise, for industry causing tangible and measurable harm, taxes are levied on businesses responsible according to their calculated societal harm, and on products, paid by the customer, according to the estimated harm of these products on the customer and those around them.
 
 ### Industry Evaluation Process (IEP)
 
