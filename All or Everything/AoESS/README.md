@@ -79,235 +79,325 @@
 
 ### Alliance Level 4D Democracy (AL5D)
 
-- **Function**
+<details><summary>Function</summary>
+
+4D Democracy is applied across the Social Sector Alliance Network, allowing network participants to propose, review, and modify alliance-specific rules, policies, and structures. The system enables collaborative governance within the alliance, with community-driven review and feedback mechanisms that refine and validate each proposal.</details>
+
+<details><summary>Purpose</summary>
+
+This implementation democratizes policy development within the alliance, empowering members to collaboratively shape and evolve network-wide governance in alignment with shared objectives. The system promotes adaptability and responsiveness to members’ collective needs and insights.</details>
     
-    4D Democracy is applied across the Social Sector Alliance Network, allowing network participants to propose, review, and modify alliance-specific rules, policies, and structures. The system enables collaborative governance within the alliance, with community-driven review and feedback mechanisms that refine and validate each proposal.
-    
-- **Purpose**
-    
-    This implementation democratizes policy development within the alliance, empowering members to collaboratively shape and evolve network-wide governance in alignment with shared objectives. The system promotes adaptability and responsiveness to members’ collective needs and insights.
-    
-- **Justification**
-    
-    Integrating 4D Democracy within the alliance enhances transparency, inclusivity, and cohesion, allowing members to directly impact policies that govern their collaborative work. This alignment strengthens cooperative initiatives and enables the alliance to remain relevant to evolving social sector goals, improving its overall effectiveness and unity.
-    
-- **Limitations**
-    
-    Sectors within the alliance have different operational models, resources, and governance structures. This can make it difficult to implement policies consistently across all sectors, as what works for one sector may not be applicable or feasible for another. Also, more established or resource-rich sectors may have greater visibility, expertise, or user participation, skewing decisions in their favor and marginalizing smaller or newer sectors.
-    
+<details><summary>Justification</summary>
+
+Integrating 4D Democracy within the alliance enhances transparency, inclusivity, and cohesion, allowing members to directly impact policies that govern their collaborative work. This alignment strengthens cooperative initiatives and enables the alliance to remain relevant to evolving social sector goals, improving its overall effectiveness and unity.</details>
+
+<details><summary>Limitations</summary>
+
+Sectors within the alliance have different operational models, resources, and governance structures. This can make it difficult to implement policies consistently across all sectors, as what works for one sector may not be applicable or feasible for another. Also, more established or resource-rich sectors may have greater visibility, expertise, or user participation, skewing decisions in their favor and marginalizing smaller or newer sectors.</details>
+
 
 ### Alliance Implementation Institution (AII)
 
-- **Description**
-    
-    Organization designed to put in place societal alliance network changes and additions in accordance with those proposed and verified within the Deliberative Decentralized Digital Direct Democracy.
-    
-- **Function**
-    
-    Impliments policy (operational) and order (structural) additions, eliminations, and modifications according to the results approved by AL5D directly. Operates with complete and uninhibited transparency (aside from dress code) within a glass-paned, wired & surveilled building with complete government serveillance (serveillance of the government, by the people) integrated.
-    
-- **Purpose**
-    
-    To enact the decisions reached by [AL5D](#alliance-level-4d-democracy-al5d) and thus enforce the will of the people in policy and design of the government.
+<details><summary>Description</summary>
 
-- **Justification**
+Organization designed to put in place societal alliance network changes and additions in accordance with those proposed and verified within the Deliberative Decentralized Digital Direct Democracy.</details>
+<details><summary>Function</summary>
+
+Impliments policy (operational) and order (structural) additions, eliminations, and modifications according to the results approved by AL5D directly. Operates with complete and uninhibited transparency (aside from dress code) within a glass-paned, wired & surveilled building with complete government serveillance (serveillance of the government, by the people) integrated.</details>
+
+<details><summary>Purpose</summary>
+
+To enact the decisions reached by [AL5D](#alliance-level-4d-democracy-al5d) and thus enforce the will of the people in policy and design of the government.</details>
+
+<details><summary>Justification</summary>
     
-    Without this, [AL5D](#alliance-level-4d-democracy-al5d) would be functionally unenforced, and the people's position atop the system would be cucked.
-    
-- **Limitations**
-    
-    Must be transparent to ensure changes carried out accurately match what is prescribed by [AL5D](#alliance-level-4d-democracy-al5d), within tight margins. Further improvements to this institution are also open for modification by [AL5D](#alliance-level-4d-democracy-al5d), for circumstances in which the system's design features, or lack thereof, hinder effective implimentation. Dual nested sections are dedicated to carrying out these institutional changes, on the surrounding institution structure and then on each other, as prescribed by [AL5D](#alliance-level-4d-democracy-al5d).
-    
+Without this, [AL5D](#alliance-level-4d-democracy-al5d) would be functionally unenforced, and the people's position atop the system would be cucked.</details>
+
+<details><summary>Limitations</summary>
+
+Must be transparent to ensure changes carried out accurately match what is prescribed by [AL5D](#alliance-level-4d-democracy-al5d), within tight margins. Further improvements to this institution are also open for modification by [AL5D](#alliance-level-4d-democracy-al5d), for circumstances in which the system's design features, or lack thereof, hinder effective implimentation. Dual nested sections are dedicated to carrying out these institutional changes, on the surrounding institution structure and then on each other, as prescribed by [AL5D](#alliance-level-4d-democracy-al5d).</details>
+
+
+
+
 
 ### Societal Sector Alliance Network (SSAN)
 
-- **Description**
-    
-    A system of checks between regional sectors of implementation. Subject to [AL5D](#alliance-level-4d-democracy-al5d) via [AII](#alliance-implementation-institution-aii), and the ultimate outcome of the collective will determining the nature of the relations between and amongst all sovereign sectors.
-        
-- **Function**
-    
-    Prevents its own dissolution through checks in place between sectors and acts as a mechanism locking all interests together and keeping them together. Strengthens the collective power of the sectors without weakening their ability to adapt to local events and conditions. Serves as a strong integrated inter-sector contract structured for collective benefit, mutual reinforcement, collective protection, and sequential sector expansion.
-    
-- **Purpose**
-    
-    Ensures that all sectors remain acting in the best interests of the whole, with no sector prioritizing itself above any other sector in its actions and behavior. Provides a link to recently initiated, vulnerable projects to provide backup support and assistance, stabilizing and accelerating further implimentation of the AoESS.
-        
-- **Justification**
-    
-    Designed to be robust and versatile, ensuring that it can connect seamlessly with any new sectors wherever they emerge, providing assistance to strengthen their foothold during vulnerable stages of development into a fully established sector. Makes all sectors better off by providing a direct route to mutual benefit, and of a form decided by the people directly through [AL5D](#alliance-level-4d-democracy-al5d).
-    
-- **Limitations**
-    
-    Not everything can happen under an umbrella contract. Sectors need to be able to decide some things for themselves. Also, as a collective contract, has no central authority, which is replaced by synchronization. Time will tell if this poses issues. Also, implies a structure, is to be collectively implimented, and yet cannot override the sector system. Without any central authority, there is no clear body in charge, and likewise there's no clear line between the overarchingly applied SSAN structure and the underlying SS structure. I find the lack of central authority to be preferable, and worth this contradiction/blurring of boundaries, given the issue is not grave and it doesn't seem like it will be difficult to resolve. However, that will have to be done.
-    - I would like to invite collaboration here. Feel free to try this challenge yourself. If you come up with a clean, effective way to resolve this, you win my genuine respect, and (if you're not already in it) an early invitation to the new AoE server, alongside inner circle participants and my most interesting compadres, before it opens publicly.
-    
+<details><summary>Description</summary>
+
+A system of checks between regional sectors of implementation. Subject to [AL5D](#alliance-level-4d-democracy-al5d) via [AII](#alliance-implementation-institution-aii), and the ultimate outcome of the collective will determining the nature of the relations between and amongst all sovereign sectors.
+
+</details>
+
+<details><summary>Function</summary>
+
+Prevents its own dissolution through checks in place between sectors and acts as a mechanism locking all interests together and keeping them together. Strengthens the collective power of the sectors without weakening their ability to adapt to local events and conditions. Serves as a strong integrated inter-sector contract structured for collective benefit, mutual reinforcement, collective protection, and sequential sector expansion.
+
+</details>
+
+<details><summary>Purpose</summary>
+
+Ensures that all sectors remain acting in the best interests of the whole, with no sector prioritizing itself above any other sector in its actions and behavior. Provides a link to recently initiated, vulnerable projects to provide backup support and assistance, stabilizing and accelerating further implementation of the AoESS.
+
+</details>
+
+<details><summary>Justification</summary>
+
+Designed to be robust and versatile, ensuring that it can connect seamlessly with any new sectors wherever they emerge, providing assistance to strengthen their foothold during vulnerable stages of development into a fully established sector. Makes all sectors better off by providing a direct route to mutual benefit, and of a form decided by the people directly through [AL5D](#alliance-level-4d-democracy-al5d).
+
+</details>
+
+<details><summary>Limitations</summary>
+
+Not everything can happen under an umbrella contract. Sectors need to be able to decide some things for themselves. Also, as a collective contract, has no central authority, which is replaced by synchronization. Time will tell if this poses issues. Also, implies a structure, is to be collectively implemented, and yet cannot override the sector system. Without any central authority, there is no clear body in charge, and likewise there's no clear line between the overarchingly applied SSAN structure and the underlying SS structure. I find the lack of central authority to be preferable, and worth this contradiction/blurring of boundaries, given the issue is not grave and it doesn't seem like it will be difficult to resolve. However, that will have to be done.
+
+* I would like to invite collaboration here. Feel free to try this challenge yourself. If you come up with a clean, effective way to resolve this, you win my genuine respect, and (if you're not already in it) an early invitation to the new AoE server, alongside inner circle participants and my most interesting compadres, before it opens publicly.
+
+</details>
+
+---
 
 ### Sector Level 4D Democracy (SL5D)
 
-- **Description**
-    
-    4D Democracy implementation for each individual sector to allow democratic development of rules, policies, and structures that shape the sector.
-    
-- **Function**
-    
-    The 4D Democracy system is applied within individual societal sectors, where users propose, review, and refine policies, rules, and structures. The process is sector-specific, ensuring that governance evolves according to the particular needs and dynamics of each sector. Proposals and reviews are governed by the same peer-evaluation and feedback mechanisms used in the broader 4D Democracy but focused solely on the sector in question.
-    
-- **Purpose**
-    
-    This implementation allows each sector to autonomously adapt its own governance framework, ensuring that policies are shaped by the participants directly affected by them. It creates a system where sector-specific issues are addressed by those with the most relevant knowledge and experience.
-    
-- **Justification**
-    
-    By tailoring governance to each sector’s unique challenges, the system ensures that policies are directly responsive and relevant to those within the sector. It fosters a participatory environment where the people within each sector drive the evolution of their own policies, leading to more effective, customized governance.
-    
-- **Limitations**
-    
-    In sectors with particularly broad or diverse stakeholder groups, consensus-building can be difficult, leading to slower decision-making or conflict. Additionally, sector-specific policies may occasionally conflict with broader societal goals or create coordination challenges across different sectors.
-    
+<details><summary>Description</summary>
+
+4D Democracy implementation for each individual sector to allow democratic development of rules, policies, and structures that shape the sector.
+
+</details>
+
+<details><summary>Function</summary>
+
+The 4D Democracy system is applied within individual societal sectors, where users propose, review, and refine policies, rules, and structures. The process is sector-specific, ensuring that governance evolves according to the particular needs and dynamics of each sector. Proposals and reviews are governed by the same peer-evaluation and feedback mechanisms used in the broader 4D Democracy but focused solely on the sector in question.
+
+</details>
+
+<details><summary>Purpose</summary>
+
+This implementation allows each sector to autonomously adapt its own governance framework, ensuring that policies are shaped by the participants directly affected by them. It creates a system where sector-specific issues are addressed by those with the most relevant knowledge and experience.
+
+</details>
+
+<details><summary>Justification</summary>
+
+By tailoring governance to each sector’s unique challenges, the system ensures that policies are directly responsive and relevant to those within the sector. It fosters a participatory environment where the people within each sector drive the evolution of their own policies, leading to more effective, customized governance.
+
+</details>
+
+<details><summary>Limitations</summary>
+
+In sectors with particularly broad or diverse stakeholder groups, consensus-building can be difficult, leading to slower decision-making or conflict. Additionally, sector-specific policies may occasionally conflict with broader societal goals or create coordination challenges across different sectors.
+
+</details>
+
+---
 
 ### Sector Implementation Institution (SII)
 
-- **Description**
-    
-    Organization designed to put in place sector system changes and additions in accordance with those proposed and verified within the 4D Democracy.
-    
-- **Function**
-    
-      
-    
-- **Purpose**
-    
-      
-    
-- **Justification**
-    
-      
-    
-- **Limitations**
-    
-      
-    
+<details><summary>Description</summary>
+
+Organization designed to put in place sector system changes and additions in accordance with those proposed and verified within the 4D Democracy.
+
+</details>
+
+<details><summary>Function</summary>
+
+</details>
+
+<details><summary>Purpose</summary>
+
+</details>
+
+<details><summary>Justification</summary>
+
+</details>
+
+<details><summary>Limitations</summary>
+
+</details>
+
+---
 
 ### Sector System (SS)
 
-- **Description**
-    
-    Order which is in place. Can be, and frequently is, altered by SII according to 4D Democracy, but also begins at an initial design, with features and characteristics initially inspired by concepts from the AoE movement, to be further modified as needed by citizens through the [SL5D](#sector-level-4d-democracy-sl5d).
-    
-- **Function**
-    
-    Does everything within the sector that the inhabiting citizens establish via their local [SL5D](#sector-level-4d-democracy-sl5d).
-    
-- **Purpose**
-    
-    Manifest humanity
-    
-- **Justification**
-    
-    We could skip this and just have citizens start out with a blank slate, but it's probably best to learn from communism's mistake here instead of repeating it, and give people some structure to stand on.
-    
-- **Limitations**
-    
-    It could become an Orwellian monster, stealing all the infants in sight with its clutching tentacles. You never know, it could just happen. Nobody can predict the future, least of all economists.
-    
+<details><summary>Description</summary>
+
+Order which is in place. Can be, and frequently is, altered by SII according to 4D Democracy, but also begins at an initial design, with features and characteristics initially inspired by concepts from the AoE movement, to be further modified as needed by citizens through the [SL5D](#sector-level-4d-democracy-sl5d).
+
+</details>
+
+<details><summary>Function</summary>
+
+Does everything within the sector that the inhabiting citizens establish via their local [SL5D](#sector-level-4d-democracy-sl5d).
+
+</details>
+
+<details><summary>Purpose</summary>
+
+Manifest humanity
+
+</details>
+
+<details><summary>Justification</summary>
+
+We could skip this and just have citizens start out with a blank slate, but it's probably best to learn from communism's mistake here instead of repeating it, and give people some structure to stand on.
+
+</details>
+
+<details><summary>Limitations</summary>
+
+It could become an Orwellian monster, stealing all the infants in sight with its clutching tentacles. You never know, it could just happen. Nobody can predict the future, least of all economists.
+
+</details>
+
+---
 
 ### Data Distribution System (DDS)
 
-- **Description**
-    
-    Based on communications infrastructure and technology, including electronic communication networks, information routing systems, and data storage vaults. Facilitates the distribution of data among the various systems. Coordinates and relays information among systems, allocating relevant information to systems reliably and efficiently, ensuring they function as a well-coordinated, interconnected whole.
-    
-- **Function**
-    
-    Delivers all necessary communication between societal functions, keeping the whole sector up to date, informed, and responsive to incoming information. Likewise, stores all personal information, encrypted and organized by domain of relavency, providing only the strictly relavent information upon request, and only if authorization conditions are met for said relavent information, with further information beyond that always requiring explicitly provided and authenticated citizen consent.
-    
-- **Purpose**
-    
-    To keep the system running with accurate, up-to-date information, as well as dynamic inter-system communication, while also serving as a central repository for personal information of all citizens.
-    
-- **Justification**
-    
-    Without effective intercommunication and information management, the system would simply not function at all. This is one of the single most critical underlying functions for this system to function.
-    
-- **Limitations**
-    
-    Limited to speed-of-light communication until we finish figuring out entanglement, delaying the carrying out of the people's will by a few milliseconds.
-    
+<details><summary>Description</summary>
+
+Based on communications infrastructure and technology, including electronic communication networks, information routing systems, and data storage vaults. Facilitates the distribution of data among the various systems. Coordinates and relays information among systems, allocating relevant information to systems reliably and efficiently, ensuring they function as a well-coordinated, interconnected whole.
+
+</details>
+
+<details><summary>Function</summary>
+
+Delivers all necessary communication between societal functions, keeping the whole sector up to date, informed, and responsive to incoming information. Likewise, stores all personal information, encrypted and organized by domain of relevancy, providing only the strictly relevant information upon request, and only if authorization conditions are met for said relevant information, with further information beyond that always requiring explicitly provided and authenticated citizen consent.
+
+</details>
+
+<details><summary>Purpose</summary>
+
+To keep the system running with accurate, up-to-date information, as well as dynamic inter-system communication, while also serving as a central repository for personal information of all citizens.
+
+</details>
+
+<details><summary>Justification</summary>
+
+Without effective intercommunication and information management, the system would simply not function at all. This is one of the single most critical underlying functions for this system to function.
+
+</details>
+
+<details><summary>Limitations</summary>
+
+Limited to speed-of-light communication until we finish figuring out entanglement, delaying the carrying out of the people's will by a few milliseconds.
+
+</details>
+
+---
 
 ### Data Processing System (DPS)
 
-- **Description**
-    Converts abstract, unformatted, uncalculated, or otherwise unusable or incompatible data inputs into clean, calculated, coherent, and system compatible data outputs, relying on models and frameworks, simulations, algorithms, and the most effective and practical of the various forms of artificial intelligence systems for data interpretation, representation, and overall preparation.
-    
-    
-- **Function**
-    
-    Gathers all needed data, especially from the Information Intake Apperatus, performing the analytics heavy lifting to render that data into something directly readable and useable where it is needed. Applies a wide range of tools, creating and utilizing information pipelines to automate needed data interpretation, sending the results where they're needed.
+<details><summary>Description</summary>
 
-**Feature:** Parses input from Biosignature Monitoring Network using sophisticated ecosystem modeling, prediction, and interpolation via machine learning to predict population statistics of unobservable or hardly traceable species by proxy of environmental factors as well as the population statistics of more easily observable species which carry a correlary relationship with them.
-    
-- **Purpose**
-    Computes the effects of the system on its surroundings, cleans data, and ensures the stream of information flows smoothly without jamming systems, causing errors, or resulting in faulty system responses.
-    
-    
-- **Justification**
-    
-    Without this, the information quality gathered by the system would be poor, and much of it wouldn't be useable or reliable.
-    
-- **Limitations**
-    
-    There's only so many methods one can use to solve linear programming equations.
-    
+Converts abstract, unformatted, uncalculated, or otherwise unusable or incompatible data inputs into clean, calculated, coherent, and system-compatible data outputs, relying on models and frameworks, simulations, algorithms, and the most effective and practical of the various forms of artificial intelligence systems for data interpretation, representation, and overall preparation.
 
+</details>
 
+<details><summary>Function</summary>
+
+Gathers all needed data, especially from the Information Intake Apparatus, performing the analytics heavy lifting to render that data into something directly readable and usable where it is needed. Applies a wide range of tools, creating and utilizing information pipelines to automate needed data interpretation, sending the results where they're needed.
+
+**Feature:** Parses input from Biosignature Monitoring Network using sophisticated ecosystem modeling, prediction, and interpolation via machine learning to predict population statistics of unobservable or hardly traceable species by proxy of environmental factors as well as the population statistics of more easily observable species which carry a corollary relationship with them.
+
+</details>
+
+<details><summary>Purpose</summary>
+
+Computes the effects of the system on its surroundings, cleans data, and ensures the stream of information flows smoothly without jamming systems, causing errors, or resulting in faulty system responses.
+
+</details>
+
+<details><summary>Justification</summary>
+
+Without this, the information quality gathered by the system would be poor, and much of it wouldn't be usable or reliable.
+
+</details>
+
+<details><summary>Limitations</summary>
+
+There's only so many methods one can use to solve linear programming equations.
+
+</details>
+
+---
 
 ### Information Intake Apparatus (IIA)
 
-- **Function**
-    
-    Acquires, aggregates, and organizes information within or pertaining to the economic system from its nested component systems to be processed.
-    
-- **Purpose**
-    
-    To plug information gaps and provide the system with awareness of its surroundings so it can compute its own effects on them.
-    
-- **Justification**
-    
-    Provides a rich and holistic systemic-scale 'sense' that can properly and more effectively account for externalities and measure ecological and societal health.
-    
-- **Limitations**
-    
-    Is a machine built to collect information. As such, it could become orwellian, grow tentacles, and begin obliterating the infants once again. You never know. It's worth stashing the infants somewhere safe and wearing a velcro suit to keep the suckers off you, just in case. You never know until it's too late.
+<details><summary>Function</summary>
+
+Acquires, aggregates, and organizes information within or pertaining to the economic system from its nested component systems to be processed.
+
+</details>
+
+<details><summary>Purpose</summary>
+
+To plug information gaps and provide the system with awareness of its surroundings so it can compute its own effects on them.
+
+</details>
+
+<details><summary>Justification</summary>
+
+Provides a rich and holistic systemic-scale 'sense' that can properly and more effectively account for externalities and measure ecological and societal health.
+
+</details>
+
+<details><summary>Limitations</summary>
+
+Is a machine built to collect information. As such, it could become Orwellian, grow tentacles, and begin obliterating the infants once again. You never know. It's worth stashing the infants somewhere safe and wearing a velcro suit to keep the suckers off you, just in case. You never know until it's too late.
+
+</details>
+
+
+
+
+
 
 <ins>Nested Components:</ins>
-#### Industry Accountability System
+
+<details><summary>Industry Accountability System</summary>
 
 Collects legally required company information through a highly streamlined process and convenient interface, from bureaucratic structure all the way down to each employee's recorded productivity, including the details of each and every process, product, component, incident, and anything else relevant to company operations.
 
-#### Psychological Assessment System
+</details>
+
+<details><summary>Psychological Assessment System</summary>
 
 Assesses the psychological state of workers using cognitive scanning and behavioral assessments, measuring the psychological impact of work conditions on workers.
 
-#### Huge Pharma
+</details>
+
+<details><summary>Huge Pharma</summary>
 
 All-encompassing health system. Utilizes mutually beneficial contracts between patients and medical institutions to intensively acquire and utilize information from patients to progress medical research and account for health-related externalities. Provides information, which travels through the DPS and DDS, into the SRC, and ultimately to the SPS where it can be accounted for via the IEP, enabling the economic system to account for health-related externalities so it can adapt incentives accordingly, enabling systemic accountability to people's health outcomes.
 
-#### Biosignature Monitoring Network
+</details>
+
+<details><summary>Biosignature Monitoring Network</summary>
 
 Network of sensors, such as cameras, microphones, and satellites, all fitted with AI systems to recognize biosignatures of species that they detect. Counts and labels biosignatures, estimating species population sizes, activities, and migrations, while reporting the introduction of invasive species and flagging biosignatures of unidentified species for further investigation.
 
-#### Feedback Forms
+</details>
+
+<details><summary>Feedback Forms</summary>
 
 Survey, questionnaire, and suggestion forms which are provided to customers, allowing them to report their experience, provide product ideas, give industry recommendations, and rate goods and services according to various metrics.
 
-#### Societal Media Platform
+</details>
 
-Social media platforms tailored to acquire useful customer reports, ideas, and ratings. The customer-produced content would also be subject to ratings by others, as well as algorithms designed to promote quality content. This is used to pressure suppliers into creating better products, as both a solid source of customer-centric innovation, and a institutionally enforced lever for citizens to ensure that supply doesn't only meet demand in quantity, but also quality, design, and preference as well.
+<details><summary>Societal Media Platform</summary>
 
-#### Idea Submission Interface
+Social media platforms tailored to acquire useful customer reports, ideas, and ratings. The customer-produced content would also be subject to ratings by others, as well as algorithms designed to promote quality content. This is used to pressure suppliers into creating better products, as both a solid source of customer-centric innovation, and an institutionally enforced lever for citizens to ensure that supply doesn't only meet demand in quantity, but also quality, design, and preference as well.
+
+</details>
+
+<details><summary>Idea Submission Interface</summary>
 
 Where employees are instructed to log their ideas before sharing them among others in a company. Verifies the originator of any given idea, counters false claims of ownership, and makes it easier to attribute ideas accurately and compensate those responsible according to their impact.
+
+</details>
+
+
+
     
 
 
@@ -316,161 +406,180 @@ Where employees are instructed to log their ideas before sharing them among othe
 Industry-wide network which encompasses the Industry Organization System, Startup Hosting System, and all Specialized Sector Management Systems, and hence their features. Serves as a complete economy management engine, with everything from optimized labor allocation to structured societal benefit-based incentives.
     
 
-### Corporate Requirements
+<details><summary>Corporate Requirements</summary>
 
 Mandatory reporting network for any business above a certain size or making a certain amount of revenue, whichever comes first. Provides streamlined report submission interface for efficient accounting and installs automated information gathering systems where it is more efficient to do so.
-
-### Penalized Behaviors
+<details><summary>Penalized Behaviors</summary>
 
 - Attempted circumvention of mandatory reporting responsibilities, in part or whole, via falsification or distortion of company data, obstruction of, tampering with, and/or attempting to mislead information gathering systems, and any other type of system circumvention.
 - Missed or incomplete industry reports.
+</details></details>
 
 ### Central Creativity (CC)
 
-- **Description**
+<details><summary>Description</summary>
     
-    Employs intellectual talent and advanced tools like machine learning, economic models, and simulations to develop and refine the economic system. Develops solutions to problems as needed, ensuring complete function as intended, and works on innovation of further system advancements and innovations.
-    
-- **Function**
-    
-    WIP
-    
-- **Purpose**
-    
-    WIP
-    
-- **Justification**
-    
-    WIP
-    
-- **Limitations**
-    
-    WIP
+Employs intellectual talent and advanced tools like machine learning, economic models, and simulations to develop and refine the economic system. Develops solutions to problems as needed, ensuring complete function as intended, and works on innovation of further system advancements and innovations.</details>
+
+
+<details><summary>Function</summary>
+
+WIP
+</details>
+<details><summary>Purpose</summary>
+
+WIP
+</details>
+<details><summary>Justification</summary>
+
+WIP
+</details>
+<details><summary>Limitations</summary>
+
+WIP
+</details>
     
 
 ### Labor Link (LL)
 
-- **Description**
-    
-    WIP
-    
-- **Function**
-    - Collects comprehensive worker data, including past careers, training, employment status, interests, and other relevant information to pair workers with compatible jobs, which is then stored in the Knowledge Network, for use by them and other branches.
-    - Partners with education sector to introduce children to age-appropriate jobs, providing early training, motivation, familiarization, and confidence, while diminishing the effects of infantilization and ageism against children.
-- **Purpose**
-    
-    WIP
-    
-- **Justification**
-    
-    WIP
-    
-- **Limitations**
-    
-    WIP
-    
 
+<details><summary>Description</summary>
+
+WIP
+</details>
+<details><summary>Function</summary>
+
+ - Collects comprehensive worker data, including past careers, training, employment status, interests, and other relevant information to pair workers with compatible jobs, which is then stored in the Knowledge Network, for use by them and other branches.
+ - Partners with education sector to introduce children to age-appropriate jobs, providing early training, motivation, familiarization, and confidence, while diminishing the effects of infantilization and ageism against children.
+</details>
+<details><summary>Purpose</summary>
+
+WIP
+</details>
+<details><summary>Justification</summary>
+
+WIP
+</details>
+<details><summary>Limitations</summary>
+
+WIP
+</details>
 
 
 ### **Startup Hosting System (SHS)**
 
-- **Description**  
+<details><summary>Description</summary>
+
 The Startup Hosting System (SHS) is a comprehensive, standardized platform for managing, organizing, and operating early-stage ventures—much like a server hosting service does for websites. It provides robust infrastructure, ongoing maintenance, and an intuitive interface that supports startups from their initial formation through to eventual independent operation. By combining transparent regulatory reporting, expert oversight, and community feedback networks, SHS creates a supportive and regulated environment where promising business ideas can be transformed into viable companies.
+</details>
+<details><summary>Function</summary>
 
-- **Function**  
-    - **Startup Farms:**  
-  Entrepreneurs submit their business ideas into designated “startup farms,” where each proposal is evaluated by experienced experts for viability and alignment with predefined criteria.
+**Startup Farms:**  
+Entrepreneurs submit their business ideas into designated “startup farms,” where each proposal is evaluated by experienced experts for viability and alignment with predefined criteria.
 
-    - **Expert Review & Allocation:**  
-  Approved ideas are allocated a dedicated section within the startup farm. Founders then use an easy-to-use interface to customize and manage their operations, receiving ongoing support and feedback.
+**Expert Review & Allocation:**  
+Approved ideas are allocated a dedicated section within the startup farm. Founders then use an easy-to-use interface to customize and manage their operations, receiving ongoing support and feedback.
 
-    - **Integrated Systems:**  
-  The platform incorporates automated regulatory reporting, best-practice sharing, and community-driven proposals for continuous innovation. This network ensures that all startups adhere to standardized operational and compliance guidelines while also benefitting from collective industry insights.
+**Integrated Systems:**  
+The platform incorporates automated regulatory reporting, best-practice sharing, and community-driven proposals for continuous innovation. This network ensures that all startups adhere to standardized operational and compliance guidelines while also benefitting from collective industry insights.
 
-    - **Transition to Independence:**  
-  As startups mature, they gradually transition from the highly structured and supportive environment of the startup farm into independent operations, while still remaining connected to a broader network that promotes transparency, accountability, and continuous improvement.
+**Transition to Independence:**  
+As startups mature, they gradually transition from the highly structured and supportive environment of the startup farm into independent operations, while still remaining connected to a broader network that promotes transparency, accountability, and continuous improvement.
+</details>
+<details><summary>Purpose</summary>
 
-- **Purpose**  
 SHS is designed to accelerate economic innovation by lowering the barriers to entrepreneurship. It transforms raw ideas into sustainable businesses by:
     - Providing structured, expert-backed support during the critical early stages.
     - Streamlining the startup formation process and reducing costly trial-and-error.
     - Enabling a diverse range of individuals to participate in economic growth, thereby fostering a dynamic and inclusive entrepreneurial ecosystem.
+</details>
+<details><summary>Justification</summary>
 
-- **Justification**  
-    - **Bridging the Support Gap:**  
-  Traditional systems often offer only basic business registration, leaving promising ideas unsupported. SHS fills this gap with comprehensive, hands-on support.
+**Bridging the Support Gap:**  
+Traditional systems often offer only basic business registration, leaving promising ideas unsupported. SHS fills this gap with comprehensive, hands-on support.
   
-    - **Enhancing Survival Rates:**  
-  By combining expert evaluations, structured oversight, and standardized management practices, the system increases the likelihood that early-stage ventures will succeed and scale.
+**Enhancing Survival Rates:**  
+By combining expert evaluations, structured oversight, and standardized management practices, the system increases the likelihood that early-stage ventures will succeed and scale.
 
-    - **Promoting Economic Inclusivity:**  
-  The platform democratizes entrepreneurship by providing equal access to high-quality infrastructure and guidance, irrespective of an individual’s prior resources or expertise.
+**Promoting Economic Inclusivity:**  
+The platform democratizes entrepreneurship by providing equal access to high-quality infrastructure and guidance, irrespective of an individual’s prior resources or expertise.
 
-    - **Driving Continuous Innovation:**  
-  Integrated regulatory reporting and community feedback foster an environment of transparency and collaborative improvement, ensuring that startups remain adaptive and competitive in a rapidly evolving economic landscape.
+**Driving Continuous Innovation:**  
+Integrated regulatory reporting and community feedback foster an environment of transparency and collaborative improvement, ensuring that startups remain adaptive and competitive in a rapidly evolving economic landscape.
+</details>
+<details><summary>Limitations</summary>
 
-- **Limitations**  
-    - **Resource Intensity:**  
-  Implementing SHS requires significant investment in expert personnel, robust technological infrastructure, and continuous funding to maintain and update the system.
+**Resource Intensity:**  
+Implementing SHS requires significant investment in expert personnel, robust technological infrastructure, and continuous funding to maintain and update the system.
 
-    - **Standardization vs. Flexibility:**  
-  While a standardized framework promotes consistency and regulatory compliance, it may constrain unconventional or highly innovative business models. Moreover, reliance on expert assessments could introduce subjective biases.
+**Standardization vs. Flexibility:**  
+While a standardized framework promotes consistency and regulatory compliance, it may constrain unconventional or highly innovative business models. Moreover, reliance on expert assessments could introduce subjective biases.
 
-    - **Transition Complexity:**  
-  Moving from a highly supportive startup farm environment to full operational independence is challenging. Startups must adapt to less structured regulatory frameworks while maintaining the operational rigor instilled during the hosting phase.
+**Transition Complexity:**  
+Moving from a highly supportive startup farm environment to full operational independence is challenging. Startups must adapt to less structured regulatory frameworks while maintaining the operational rigor instilled during the hosting phase.
 
-    - **Bureaucratic Overhead:**  
-  Mandatory transparency and public reporting, although beneficial for accountability, can introduce bureaucratic complexities that may slow decision-making or burden startups with additional compliance requirements.
+**Bureaucratic Overhead:**  
+Mandatory transparency and public reporting, although beneficial for accountability, can introduce bureaucratic complexities that may slow decision-making or burden startups with additional compliance requirements.
+</details>
+
 
 
 ### Industry Organization System (IOS)
 
-- **Description**
-    
-    WIP
-    
-- **Function**
-    - Enforces economy segmentation into sectors according to similarities in regulatory needs between companies.
-    - Continuously groups unspecified companies into new sectors as new forms of industry emerge, keeping up with increases in economic diversity.
-    - Unspecified companies are put into a collective miscellaneous sector by default.
-    - For each sector, creates and oversees a Specialized Sector Management System.
-- **Purpose**
-    
-    To streamline the process of regulation by approaching it on a per-industry basis and specializing for the qualities and constraints of each industry.
-    
-- **Justification**
-    
-    It makes sense to do it this way, since the conditions, incentives, and constraints in a given industry are generally quite consistent, and tend to require similar regulatory and incentive solutions.
-    
-- **Limitations**
-    
-    If it is shown to be more efficient and practical to calculate for all the industry in a single institution due to economies of scale then applying this approach won't make sense.
-    
+<details><summary>Description</summary>
+
+WIP
+</details>
+<details><summary>Function</summary>
+
+- Enforces economy segmentation into sectors according to similarities in regulatory needs between companies.
+- Continuously groups unspecified companies into new sectors as new forms of industry emerge, keeping up with increases in economic diversity.
+- Unspecified companies are put into a collective miscellaneous sector by default.
+- For each sector, creates and oversees a Specialized Sector Management System.
+</details>
+<details><summary>Purpose</summary>
+
+To streamline the process of regulation by approaching it on a per-industry basis and specializing for the qualities and constraints of each industry.
+</details>
+<details><summary>Justification</summary>
+
+It makes sense to do it this way, since the conditions, incentives, and constraints in a given industry are generally quite consistent, and tend to require similar regulatory and incentive solutions.
+</details>
+<details><summary>Limitations</summary>
+
+If it is shown to be more efficient and practical to calculate for all the industry in a single institution due to economies of scale then applying this approach won't make sense.
+</details>
+
 
 ### Specialized Sector Management Systems (SSMSs)
 
 
+
 ### Sector Support System (SSS)
 
-- **Description**
-    
-    WIP
-    
-- **Function**
-    - Establishes industry-wide standards in collaboration with industry research and development, rewarding companies for creating new, better industry standards and best practices. Shares documentation and industry standards across sector.
-    - Enforces all accepted industry standards, ensuring maximum cross-compatibility among products.
-    - Gathers and shares valuable insights on production techniques, management methods, and social innovation to improve the industry.
-- **Purpose**
-    
-    WIP
-    
-- **Justification**
-    
-    WIP
-    
-- **Limitations**
-    
-    WIP
+<details><summary>Description</summary>
+
+WIP
+</details>
+<details><summary>Function</summary>
+
+ - Establishes industry-wide standards in collaboration with industry research and development, rewarding companies for creating new, better industry standards and best practices. Shares documentation and industry standards across sector.
+ - Enforces all accepted industry standards, ensuring maximum cross-compatibility among products.
+ - Gathers and shares valuable insights on production techniques, management methods, and social innovation to improve the industry.
+</details>
+<details><summary>Purpose</summary>
+
+WIP
+</details>
+<details><summary>Justification</summary>
+
+WIP
+</details>
+<details><summary>Limitations</summary>
+
+WIP
+</details>
+
     
 
 ### Sector Regulatory System (SRS)
