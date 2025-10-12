@@ -77,7 +77,7 @@
 ---
 
 
-### Alliance Level 4D Democracy (AL5D)
+<details><summary><h3>Alliance Level 4D Democracy (AL5D)</h3></summary>
 
 <details><summary><strong>Function</strong></summary>
 
@@ -94,9 +94,9 @@ Integrating 4D Democracy within the alliance enhances transparency, inclusivity,
 <details><summary><strong>Limitations</strong></summary>
 
 Sectors within the alliance have different operational models, resources, and governance structures. This can make it difficult to implement policies consistently across all sectors, as what works for one sector may not be applicable or feasible for another. Also, more established or resource-rich sectors may have greater visibility, expertise, or user participation, skewing decisions in their favor and marginalizing smaller or newer sectors.</details>
+</details>
 
-
-### Alliance Implementation Institution (AII)
+<details><summary><h3>Alliance Implementation Institution (AII)</h3></summary>
 
 <details><summary><strong>Description</strong></summary>
 
@@ -116,12 +116,12 @@ Without this, [AL5D](#alliance-level-4d-democracy-al5d) would be functionally un
 <details><summary><strong>Limitations</strong></summary>
 
 Must be transparent to ensure changes carried out accurately match what is prescribed by [AL5D](#alliance-level-4d-democracy-al5d), within tight margins. Further improvements to this institution are also open for modification by [AL5D](#alliance-level-4d-democracy-al5d), for circumstances in which the system's design features, or lack thereof, hinder effective implimentation. Dual nested sections are dedicated to carrying out these institutional changes, on the surrounding institution structure and then on each other, as prescribed by [AL5D](#alliance-level-4d-democracy-al5d).</details>
+</details>
 
 
 
 
-
-### Societal Sector Alliance Network (SSAN)
+<details><summary><h3>Societal Sector Alliance Network (SSAN)</h3></summary>
 
 <details><summary><strong>Description</strong></summary>
 
@@ -154,10 +154,10 @@ Not everything can happen under an umbrella contract. Sectors need to be able to
 * I would like to invite collaboration here. Feel free to try this challenge yourself. If you come up with a clean, effective way to resolve this, you win my genuine respect, and (if you're not already in it) an early invitation to the new AoE server, alongside inner circle participants and my most interesting compadres, before it opens publicly.
 
 </details>
+</details>
 
 
-
-### Sector Level 4D Democracy (SL5D)
+<details><summary><h3>Sector Level 4D Democracy (SL5D)</h3></summary>
 
 <details><summary><strong>Description</strong></summary>
 
@@ -190,8 +190,7 @@ In sectors with particularly broad or diverse stakeholder groups, consensus-buil
 </details>
 
 
-
-### Sector Implementation Institution (SII)
+<details><summary><h3>Sector Implementation Institution (SII)</h3></summary>
 
 <details><summary><strong>Description</strong></summary>
 
@@ -216,8 +215,7 @@ Organization designed to put in place sector system changes and additions in acc
 </details>
 
 
-
-### Sector System (SS)
+<details><summary><h3>Sector System (SS)</h3></summary>
 
 <details><summary><strong>Description</strong></summary>
 
@@ -250,8 +248,7 @@ It could become an Orwellian monster, stealing all the infants in sight with its
 </details>
 
 
-
-### Data Distribution System (DDS)
+<details><summary><h3>Data Distribution System (DDS)</h3></summary>
 
 <details><summary><strong>Description</strong></summary>
 
@@ -282,10 +279,10 @@ Without effective intercommunication and information management, the system woul
 Limited to speed-of-light communication until we finish figuring out entanglement, delaying the carrying out of the people's will by a few milliseconds.
 
 </details>
+</details>
 
 
-
-### Data Processing System (DPS)
+<details><summary><h3>Data Processing System (DPS)</h3></summary>
 
 <details><summary><strong>Description</strong></summary>
 
@@ -318,10 +315,10 @@ Without this, the information quality gathered by the system would be poor, and 
 There's only so many methods one can use to solve linear programming equations.
 
 </details>
+</details>
 
 
-
-### Information Intake Apparatus (IIA)
+<details><summary><h3>Information Intake Apparatus (IIA)</h3></summary>
 
 <details><summary><strong>Function</strong></summary>
 
@@ -347,12 +344,7 @@ Is a machine built to collect information. As such, it could become Orwellian, g
 
 </details>
 
-
-
-
-
-
-<ins>Nested Components:</ins>
+<details><summary><strong><ins>Nested Components:</ins></strong></summary>
 
 <details><summary><strong>Industry Accountability System</strong></summary>
 
@@ -395,13 +387,11 @@ Social media platforms tailored to acquire useful customer reports, ideas, and r
 Where employees are instructed to log their ideas before sharing them among others in a company. Verifies the originator of any given idea, counters false claims of ownership, and makes it easier to attribute ideas accurately and compensate those responsible according to their impact.
 
 </details>
+</details>
+</details>
 
 
-
-    
-
-
-### Standardization Regulatory Complex (SRC)
+<details><summary><h3>Standardization Regulatory Complex (SRC)</h3></summary>
 
 Industry-wide network which encompasses the Industry Organization System, Startup Hosting System, and all Specialized Sector Management Systems, and hence their features. Serves as a complete economy management engine, with everything from optimized labor allocation to structured societal benefit-based incentives.
     
@@ -415,7 +405,7 @@ Mandatory reporting network for any business above a certain size or making a ce
 - Missed or incomplete industry reports.
 </details></details>
 
-### Central Creativity (CC)
+<details><summary><h3>Central Creativity (CC)</h3></summary>
 
 <details><summary><strong>Description</strong></summary>
 
@@ -438,9 +428,9 @@ WIP
 
 WIP
 </details>
-    
+</details>
 
-### Labor Link (LL)
+<details><summary><h3>Labor Link (LL)</h3></summary>
 
 
 <details><summary><strong>Description</strong></summary>
@@ -464,9 +454,9 @@ WIP
 
 WIP
 </details>
+</details>
 
-
-### **Startup Hosting System (SHS)**
+<details><summary><h3>Startup Hosting System (SHS)</h3></summary>
 
 <details><summary><strong>Description</strong></summary>
 
@@ -489,9 +479,9 @@ As startups mature, they gradually transition from the highly structured and sup
 <details><summary><strong>Purpose</strong></summary>
 
 SHS is designed to accelerate economic innovation by lowering the barriers to entrepreneurship. It transforms raw ideas into sustainable businesses by:
-    - Providing structured, expert-backed support during the critical early stages.
-    - Streamlining the startup formation process and reducing costly trial-and-error.
-    - Enabling a diverse range of individuals to participate in economic growth, thereby fostering a dynamic and inclusive entrepreneurial ecosystem.
+ - Providing structured, expert-backed support during the critical early stages.
+ - Streamlining the startup formation process and reducing costly trial-and-error.
+ - Enabling a diverse range of individuals to participate in economic growth, thereby fostering a dynamic and inclusive entrepreneurial ecosystem.
 </details>
 <details><summary><strong>Justification</strong></summary>
 
@@ -521,10 +511,10 @@ Moving from a highly supportive startup farm environment to full operational ind
 **Bureaucratic Overhead:**  
 Mandatory transparency and public reporting, although beneficial for accountability, can introduce bureaucratic complexities that may slow decision-making or burden startups with additional compliance requirements.
 </details>
+</details>
 
 
-
-### Industry Organization System (IOS)
+<details><summary><h3>Industry Organization System (IOS)</h3></summary>
 
 <details><summary><strong>Description</strong></summary>
 
@@ -551,11 +541,9 @@ If it is shown to be more efficient and practical to calculate for all the indus
 </details>
 
 
-### Specialized Sector Management Systems (SSMSs)
+<details><summary><h3>Specialized Sector Management Systems (SSMSs)</h3></summary>
 
-
-
-### Sector Support System (SSS)
+<details><summary><h3>Sector Support System (SSS)</h3></summary>
 
 <details><summary><strong>Description</strong></summary>
 
@@ -579,7 +567,7 @@ WIP
 
 WIP
 </details>
-
+</details>
     
 
 <details><summary><h3>Sector Regulatory System (SRS)</h3></summary>
@@ -591,7 +579,7 @@ Enforces Sector Regulatory Framework, a specialized framework developed by Centr
 - Addresses the broad range of possible infractions against society that could occur within the domains of life that industry in its sector interacts with, including everything from crime to inconvenience.
 - Strategically influences sector development, preventing mistakes and shortsightedness before it is regretted, and ensuring the sector develops in the healthiest way for the economy and for society. Predictive modeling and past trends would be used here.
 </details>
-
+</details>
 
 
 <details><summary><h3>Sector Payment System (SPS)</h3></summary>
@@ -626,10 +614,10 @@ Places economic value of a species based on overall ecological importance of the
 </details>
 <details><summary><strong>Psychological Reinforcement System (PRS)</strong></summary>
 
-Provides real-time feedback mechanisms for workers and owners, curated to elicit powerfully satisfying sensory responses and psychological states, reinforcing productive behavior, with the aim of inducing flow state.
+Provides real-time feedback mechanisms for workers and owners, curated to elicit powerfully satisfying sensory responses and psychological states, reinforcing productive behavior and potentially inducing flow state.
 </details>
-
-### Specific SSMS Proposals
+</details>
+<details><summary><h3>Specific SSMS Proposals</h3></summary>
 
 <details><summary><strong>Marketing Sector</strong></summary>
 
@@ -648,10 +636,11 @@ Shapes the policies, guidelines, and building codes that the Sector Regulatory S
 Promotes collaboration with Sector Support Systems of other sectors to create less wasteful and more easily recyclable and repairable industry standards. Promotes collaboration with outside industry to find new uses for waste and to help minimize waste in the production process. Promotes collaboration with outside industry and customers to obtain valuable waste products before they're discarded. Incentivizes the innovation of technologies for repurposing waste.
 </details>
 </details>
+</details>
+</details>
 
 
-
-### Social Development Ecosystem (SDE)
+<details><summary><h3>Social Development Ecosystem (SDE)</h3></summary>
 
 Organized system of societal-scale social management, regulation, facilitation, development, and improvement. Groups families into regional multi-family social alliances, Social Integration Communities (SICs), based on their geographic proximity to each other. SIOs serve as the dual purpose of both a social alliance and a node for local system integrations.
 
@@ -681,4 +670,8 @@ Connects domestic life to the economy. Works with industry to improve the design
 <details><summary><strong>Parent Provision System</strong></summary>
 
 Provides parental resources. including parental training, education, and assistance.
+</details>
+</details>
+</details>
+</details>
 </details>
