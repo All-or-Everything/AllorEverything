@@ -9,7 +9,7 @@ A public network where anyone can post policy ideas and others review selected p
 </details>
 
 <details><summary><strong>Function</strong></summary>
-People submit proposals. They also review the proposals of others. An algorythm chooses a selection of proposals that the user is best positioned to review. After reviewing the proposal, users answer targeted questions about it that differ by context. The system cross-compares responses using analytics that map the core claims of each idea and also estimate a margin of error. Each user’s reliability score is based on how consistent their past judgments are with later outcomes and peer consensus. Those scores influence how much weight future feedback carries. Experts can seed the network early to set quality baselines. Structured prompts and automated comparison together form a self-correcting loop across sufficient breadth to steadily refine ideas over time.
+People submit proposals. They also review the proposals of others. An algorythm chooses and presents a selection of proposals that the user is best positioned to review. After reviewing a proposal, users answer targeted questions about it that differ by context. The system cross-compares responses using analytics that map the core claims of each idea and also estimate a margin of error. Each user’s reliability score is based on how consistent their past judgments are with later outcomes and peer consensus. Those scores influence how much weight future feedback carries. Experts can seed the network early to set quality baselines. Structured prompts and automated comparison together form a self-correcting loop across sufficient breadth to steadily refine ideas over time.
 </details>
 
 <details><summary><strong>Purpose</strong></summary>
