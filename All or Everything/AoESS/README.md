@@ -2,33 +2,27 @@
 
 
 ---
-<details><summary><strong>Digitally Decentralized Direct Deliberative Democracy (4D Democracy)</strong></summary>
+<details><summary><h3>Digitally Decentralized Direct Deliberative Democracy (4D Democracy)</h3></summary>
 
-
-
-# Digitally Decentralized Direct Deliberative Democracy (4D Democracy)
-
-## Description
-
+<details><summary><strong>Description</strong></summary>
 A public network where anyone can post policy ideas and others review selected pieces by answering short, structured questions. Every submission and review is logged on a Merkle-tree ledger, making all changes, timelines, and judgments traceable and tamper-proof. The system uses those structured answers to drive an ongoing process of community-based refinement.
+</details>
 
-## Function
-
+<details><summary><strong>Function</strong></summary>
 People submit proposals. Reviewers are shown a curated selection and answer targeted questions that differ by context. The system cross-compares responses using analytics that map the core claims of each idea and estimate a margin of error. Each user’s reliability score is based on how consistent their past judgments are with later outcomes and peer consensus. Those scores influence how much weight future feedback carries. Experts can seed the network early to set quality baselines. Structured prompts and automated comparison together form a self-correcting cycle that steadily refines ideas over time.
+</details>
 
-## Purpose
-
+<details><summary><strong>Purpose</strong></summary>
 Shift policy design and evaluation into public hands. Anyone can propose, others can critique, and the platform condenses that feedback into clearer, more dependable outcomes. The goal is a form of governance that adapts and improves continuously instead of one that’s slow, closed, and rigid.
+</details>
 
-## Justification
-
+<details><summary><strong>Justification</strong></summary>
 Wider participation breaks down traditional barriers and brings more ideas into play. Structured questions make feedback comparable, while cross-analysis reveals patterns of bias or error. Public records of proposals and reviews increase accountability and help block manipulation. Distributing authority across active, vetted contributors makes the process fairer and less vulnerable to central control.
+</details>
 
-## Limitations
-
+<details><summary><strong>Limitations</strong></summary>
 Results early on will mirror who participates. Without careful design and expert input, political lean or groupthink could skew outcomes. The system also depends on steady, good-faith engagement—low activity or coordinated bad actors would weaken it. Building and maintaining the technical backbone, including the secure Merkle-based record and protective infrastructure, requires ongoing effort. And like any new model, public understanding and trust will take time to build.
-
-        
+</details>
 </details>
 
 ---
