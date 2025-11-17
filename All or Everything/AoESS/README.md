@@ -54,7 +54,10 @@ Sectors within the alliance have different operational models, resources, and go
 Organization designed to put in place societal alliance network changes and additions in accordance with those proposed and verified within the Deliberative Decentralized Digital Direct Democracy.</details>
 <details><summary><strong>Function</strong></summary>
 
-Impliments policy (operational) and order (structural) additions, eliminations, and modifications according to the results approved by AL5D directly. Operates with complete and uninhibited transparency (aside from dress code) within a glass-paned, wired & surveilled building with complete government serveillance (serveillance of the government, by the people) integrated.</details>
+Impliments policy (operational) and order (structural) additions, eliminations, and modifications according to the results approved by AL5D directly. Operates with complete and uninhibited transparency (aside from dress code) within a glass-paned, wired & surveilled building with complete government serveillance (serveillance of the government, by the people) integrated. Crew are appointed by public vote with potential bad actors filtered by psych test & personal history. Crew members observed acting out of alignment with the input of 4D Democracy are removed from the position and a replacement is appointed.
+
+
+</details>
 
 <details><summary><strong>Purpose</strong></summary>
 
