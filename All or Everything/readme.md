@@ -31,13 +31,12 @@ Your proposed text or change goes here.
 ```
 
 Multiple types of tags can be used:
+* `[ADDITION]` is for suggested additions. <br>
+* `[REVISION}` is for suggested revisions. <br>
+* `[REMOVAL]` is for suggested removals. <br>
+* `[COMMENT]` is for comments. <br>
+* `[SYNTHESIS]` is for standalone pieces worth integrating despite conflicts with the format of the systems as shown. <br>
 
-`[ADDITION]` is for suggested additions. <br>
-`[REVISION}` is for suggested revisions. <br>
-`[REMOVAL]` is for suggested removals. <br>
-`[COMMENT]` is for comments. <br>
-`[SYNTHESIS]` is for standalone pieces worth integrating despite conflicts with the format of the systems as shown. <br>
-
-
+Note that you can add your own tag types as needed if these don't suit your contribution.
 * Leave one blank line after `<summary>` for correct rendering.
 
