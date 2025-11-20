@@ -8,3 +8,36 @@ We start with general concepts, goals, and ambitions. Then, with these in mind, 
 We have no reason to be any more specific than the margin of error in our predictions. In this sense, it makes no sense to go into details that we can't be sure about. Avoiding extraneous details also makes it easier to focus on the flesh of the framework and stay out of the weeds, consolidating attention on the more impactful details. There are exceptions here which apply to controlled environments and proofs of concept, as well as design features which account for the range of contingency they're subject to.
 ## Full-Spectrum Superiority
 To put it simply: If a domain of our existence can be leveraged, it will be leveraged, creating more robust, secure, and effective systems. This means maximizing the advantages that can be gained by [network effects](https://en.wikipedia.org/wiki/Network_effect), the allocation, coordination & integration of information, plus specialized & cross-domain expertise and knowledge.
+
+# Dev Coordination System
+We will be coordinating our efforts directly within the files themselves using formatting and structure, enabling asynchronous editing in all aspects of the architecture.
+
+## Modular Proposal Standard
+
+Each change or idea is posted as a collapsible block. The first tag is the author. Others can add their tags to show agreement.
+
+Format:
+
+```
+<details>
+<summary> [ADDITION] (@author, @supporter, ... )</summary>
+
+Instructions/Context for following content as needed:
+---
+Your proposed text or change goes here.
+---
+
+</details>
+```
+
+Multiple types of tags can be used:
+
+`[ADDITION]` is for suggested additions. <br>
+`[REVISION}` is for suggested revisions. <br>
+`[REMOVAL]` is for suggested removals. <br>
+`[COMMENT]` is for comments. <br>
+`[SYNTHESIS]` is for standalone pieces worth integrating despite conflicts with the format of the systems as shown. <br>
+
+
+* Leave one blank line after `<summary>` for correct rendering.
+
