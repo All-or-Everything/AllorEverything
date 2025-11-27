@@ -32,7 +32,7 @@ Your proposed text or change goes here.
 </details>
 ```
 
-Note that the '<a href="https://github.com/user">@user</a>' tag isn't strictly required, only advised, and can be substituted with just '@user' if it feels like too much.
+Note that the `<a href="https://github.com/user">@user</a>` tag isn't strictly required, only advised, and can be substituted with just `@user` if it feels like too much.
 
 Multiple types of tags can be used:
 * `[ADDITION]` is for suggested additions. <br>
