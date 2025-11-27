@@ -20,11 +20,13 @@ Format:
 
 ```
 <details>
-<summary> [ADDITION] (@author, @supporter, ... )</summary>
+<summary><strong> [ADDITION] (<a href="https://github.com/author">@author</a>, <a href="https://github.com/approving">@approving</a>, ... )</strong></summary>
 
 Instructions/Context for following content as needed:
+
 ---
 Your proposed text or change goes here.
+
 ---
 
 </details>
