@@ -629,3 +629,68 @@ Provides parental resources. including parental training, education, and assista
 </details>
 </details>
 </details>
+
+
+
+<details>
+<summary><strong> [SYNTHESIS] (<a href="https://github.com/FreshSoftware4">@FreshSoftware4</a>)</strong></summary>
+
+**This is to be integrated as a feature of the education system:**
+
+---
+How should we continue an order, once it is established? That is, after a generation manages to establish a better order, how should they bring forth the subsequent generations? There are things which are advisable to ensure that the current order does not degenerate into an order which is just as bad as the one before.
+
+In education, children should be taught their rights, the reasons for them, how to be sure that they are present and not being diminished, and what the consequences could be if they were to allow them to be taken away from them.
+
+There should be mechanisms in place that allow and encourage students to actively determine how the school is run. There should also be roles they can play and positions they can hold, where they are actively engaged in running different aspects of the school, various projects, or even external organizations and institutions if they show sufficient skill.
+
+It is necessary to teach children their rights, rights which enable their freedom and disable the threat of tyranny. By doing so, it strengthens the power that freedom holds over those who wish to take it away, as these children, when they become adults, will then easily detect when their rights are being whittled away so they can act in time to restore them, willing to go to great lengths to safeguard them, and conscious of what constitutes an infringement on the rights of others, thus able to avoid inflicting one.
+
+It is necessary to prepare children so they are used to having mechanisms which give them the power to, of their own free will, determine how the system they reside within is run, for this mindset is necessary so that they can understand and sustain the order as adults, and it doesn't hurt for them to be accustomed to engaging actively in the political system, as it tends to be the case that higher civic engagement improves government outcomes across the board.
+
+The mechanisms within the school should be designed to resemble, and prepare students for, the same mechanisms which would be in place for all citizens for the purpose of keeping government actions bound to the interests of the people. School should largely mirror the world that students are being prepared for, so that they pick up on habits, skills, and experiences early on that can be directly applied later in life, making things far easier for everyone.
+
+Children should be trained to have the ability, and be given the mechanisms, to make decisions for their own future. This would ensure that the next generation remains dedicated to the unfinished work of restraining and guiding their government, the work which they who came before them have thus far so nobly advanced. The work which ensures that government of the people, by the people, for the people, shall not perish from the earth.
+
+As such, it is necessary to prepare children so they are used to taking on important roles inside the system they reside within, for several reasons. To begin with, it would provide them with confidence and familiarity with such roles. This confidence and familiarity, in turn, increases the autonomy with which they can operate, which increases their performance. The self-reliance and independence gained from this increases their overall freedom and ability to take appropriate action in the case of government overreach.
+
+They would become more competent and reliable in company, institutional, or governmental positions of leadership. Importantly, a societal introduction of this nature would provide critical real-life experience, and, in doing so, accelerate the development of confidence and skill necessary for the performing of vital societal roles, rather than operating on infantilization as current schooling does.
+
+---
+
+</details>
+
+
+<details>
+<summary><strong> [SYNTHESIS] (<a href="https://github.com/FreshSoftware4">@FreshSoftware4</a>)</strong></summary>
+
+**This is to be integrated as a feature of the education system:**
+
+---
+In school, tasks and lessons should not be made any more difficult, complicated, or time-consuming than absolutely necessary for the successful transmission of a given gain of function unless it can be proven that such qualities will improve the students’ overall ability to apply the specific gain of function being transmitted to them, and to enough of an extent that it would adequately justify the extra time and effort which must be put into receiving a given gain of function.
+
+To do otherwise would be to waste time and effort which could have been used to learn other topics. This is not to imply a sole focus on directly applicable knowledge like those in the STEM fields, without regard to the social sciences or softer subjects.
+
+All subjects would most certainly still be taught, but with an approach which provides more relevant, actionable knowledge, and emphasizes the uses, significance, and implications of the knowledge provided.
+
+After all, knowledge which has no use or significance in reality is not relevant for anything which pertains to reality.
+
+As almost all subjects are somewhat interrelated and rely on or can complement functions provided within each other, an overall more cohesive framework could be utilized, primarily based on the order of functions and not on the separation of topics.
+
+If a function from one topic can reduce the time and effort required to gain a function in another, this increases the efficiency of learning. Not only that, but it increases the richness and cohesiveness of the knowledge, and thus ability, which is gained.
+
+Such a method would result in more connections and relations built up to provide references and analogies, helping students understand and learn things better. As such, there is no reason to explicitly separate topics and classes from each other, as doing so restricts the speed and efficacy with which things can be taught and learned.
+
+Separating topics into different categories creates arbitrary barriers in a world that consists of a single, cohesive reality, and likely reduces the creativity of students, their ability to find novel solutions, and their ability to see the bigger picture.
+
+We can instead just have one topic, known as either teaching or learning, depending on the perspective. Literature, Mathematics, and all the others would all fall under that topic, and be mapped out into functions, so the optimal chronological order of functions could be reached, and implemented into curriculum.
+
+This would result in lessons based entirely on the matters of reality they correspond to, rather than as subjects separated by arbitrary barriers which do not exist for any reason other than academic stratification, which is itself a problem to be countered by uniting the insights of different fields into a complete whole.
+
+Such interconnected and integrated lessons would provide a more complete picture of reality, enabling within students the ability to apply their knowledge to a much greater extent, and to a much larger range of areas.
+
+---
+
+</details>
+
+
