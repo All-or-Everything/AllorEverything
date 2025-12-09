@@ -21,7 +21,7 @@ A social network ecosystem and open-source project leveraging web 2.0 and web 3.
 </details>
 
 <details><summary><strong>Limitations</strong></summary>
-In practice, relying on users to regulate the system leaves approved outcomes vulnerable to skewing toward prevailing political biases. That vulnerability can be addressed by structuring interactions through curated questions, presentation, and other techniques to reduce bias, and by seeding the network from the start with well trained, skilled, and reliable specialists whose credibility diffuses to ranked users over time. Implementation requires an organization that answers only to the network to carry changes into the political structure as soon as they pass verification. Finally, a core practical question remains: how do you figure out what's good or bad input from the start.
+In practice, relying on users to regulate the system leaves approved outcomes vulnerable to skewing toward prevailing political biases. That vulnerability can be addressed by structuring interactions through curated questions, presentation, and other techniques to reduce bias, and by seeding the network from the start with well trained, skilled, and reliable specialists whose credibility diffuses to ranked users over time. Implementation requires an organization that answers only to the network to carry changes into the political structure as soon as they pass verification.
 </details>
 </details>
 
