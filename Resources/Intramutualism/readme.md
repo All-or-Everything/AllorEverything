@@ -863,7 +863,7 @@ In regards to the rich or well off, in conjunction with over-generalizing in gen
 
 Intentional or not, such views can actively detract from the goals of a movement, as they exclude the wealthy as potential benefactors.
 
-An Establishment of Influence
+## An Establishment of Influence
 
 I do not see the current political system as the true Democracy it claims to be, but what I call Influocracy, or rule by the most influential. The differences between the two are stark.
 
@@ -877,7 +877,7 @@ In its current form, as politicians represent the interests of their largest don
 
 This being the case, the politicians are themselves incredibly wealthy, and indeed it would be hard to make a system which is more biased in favor of the wealthy.
 
-Declaring Dependence
+## Declaring Dependence
 
 Some in this life may think that they have freedom, that they have complete individual independence. Independence, I ask, from what?
 
@@ -899,7 +899,7 @@ It was most certainly not a land where one could live independent of others. The
 
 It simply wasn't convenient enough to cut ties completely, so it seems the declaration of independence was primarily a political act of self-determination on the part of the United States. Interdependence is simply too great a benefit to give up.
 
-Catalyzing Capabilities
+## Catalyzing Capabilities
 
 The capabilities of society change with time, as do its needs. Cultural practices are lost and gained through the processes of history. In this context, we can refer to these as cultural mutations.
 
