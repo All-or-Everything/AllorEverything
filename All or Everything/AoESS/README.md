@@ -607,7 +607,7 @@ WIP
 </details>
 <details><summary><strong>Relationship Regulation System</strong></summary>
 
-Keeps peace within the community, to maintain and increase the presence of healthy social function and correct any deviations from it. Provides access to a network of social professionals, trained to perform mediation, de-escalation, dispute resolution, counseling, limited community policing functions, mentorship, social skills training, and also training and hiring for those aspiring to do likewise.
+Maintains community social cohesion, supporting and reinforcing the presence of healthy social function while mediating and resolving deviations from it. Exists as a network of social specialists trained to resolve conflict and sustain amicability with skilled communication, empathy, and perspective-taking. Specialists are tasked with mediation, de-escalation, emotional reframing, dispute resolution, counseling, mentorship, and social skills assistance & demonstration. Specialists stabilize tensions by redirecting attention towards mutual understanding, facilitate healthier relational norms, and reduce cycles of hostility for long-term community health. Has no coercive authority. Community members inspired by example to become social specialists are taken in as interns and trained, socially reproducing the role by leveraging selection bias. New specialists are deployed in their own local community if possible.
 </details>
 <details><summary><strong>Societal Support System</strong></summary>
 
