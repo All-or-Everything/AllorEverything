@@ -32,7 +32,9 @@ In practice, relying on users to regulate the system leaves approved outcomes vu
 
 <details><summary><strong>Function</strong></summary>
 
-4D Democracy is applied across the Social Sector Alliance Network, allowing network participants to propose, review, and modify alliance-specific rules, policies, and structures. The system enables collaborative governance within the alliance, with community-driven review and feedback mechanisms that refine and validate each proposal.</details>
+4D Democracy is applied across the Social Sector Alliance Network, allowing network participants to propose, review, and modify alliance-specific rules, policies, and structures. The system enables collaborative governance within the alliance, with community-driven review and feedback mechanisms that refine and validate each proposal. Overrides [SL5D](#sector-level-4d-democracy-sl5d) to avoid the free rider problem and maintain consistency for critical areas.
+
+</details>
 
 <details><summary><strong>Purpose</strong></summary>
 
