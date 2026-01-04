@@ -242,7 +242,7 @@ Limited to speed-of-light communication until we finish figuring out entanglemen
 
 <details><summary><strong>Description</strong></summary>
 
-Converts abstract, unformatted, uncalculated, or otherwise unusable or incompatible data inputs into clean, calculated, coherent, and system-compatible data outputs, relying on models and frameworks, simulations, algorithms, and the most effective and practical of the various forms of artificial intelligence systems for data interpretation, representation, and overall preparation.
+Converts abstract, unformatted, uncalculated, or otherwise unusable or incompatible data inputs into clean, calculated, coherent, and system-compatible data outputs, relying on models and frameworks, simulations, algorithms, and potentially one or various forms of artificial intelligence systems for data interpretation, representation, and overall preparation.
 
 </details>
 
@@ -374,7 +374,7 @@ WIP
 </details>
 <details><summary><strong>Purpose</strong></summary>
 
-WIP
+Provides the academic base of the system
 </details>
 <details><summary><strong>Justification</strong></summary>
 
@@ -400,7 +400,7 @@ WIP
 </details>
 <details><summary><strong>Purpose</strong></summary>
 
-WIP
+Pairs individuals with jobs that are suitable to their skill sets
 </details>
 <details><summary><strong>Justification</strong></summary>
 
@@ -493,7 +493,7 @@ It makes sense to do it this way, since the conditions, incentives, and constrai
 </details>
 <details><summary><strong>Limitations</strong></summary>
 
-If it is shown to be more efficient and practical to calculate for all the industry in a single institution due to economies of scale then applying this approach won't make sense.
+If it is shown to be more efficient and practical to calculate for all the industry in a single institution due to economies of scale then applying this approach won't make sense. This is an open question.
 </details>
 
 
@@ -503,25 +503,25 @@ If it is shown to be more efficient and practical to calculate for all the indus
 
 <details><summary><strong>Description</strong></summary>
 
-WIP
+A per-sector institution 
 </details>
 <details><summary><strong>Function</strong></summary>
 
- - Establishes industry-wide standards in collaboration with industry research and development, rewarding companies for creating new, better industry standards and best practices. Shares documentation and industry standards across sector.
+ - Establishes industry-wide standards in collaboration with industry research and development, rewarding companies for creating new, better industry standards and best practices. Shares documentation and industry standards across sector and forwards these to other sector support systems for consideration where relavent. [DDS](#data-distribution-system-dds) .
  - Enforces all accepted industry standards, ensuring maximum cross-compatibility among products.
  - Gathers and shares valuable insights on production techniques, management methods, and social innovation to improve the industry.
 </details>
 <details><summary><strong>Purpose</strong></summary>
 
-WIP
+Mediate industry collaboration, knowledge sharing, and product compatibility.
 </details>
 <details><summary><strong>Justification</strong></summary>
 
-WIP
+Strengthens industry coordination, improves collaboration, and accelerates industry development.
 </details>
 <details><summary><strong>Limitations</strong></summary>
 
-WIP
+Sector-wide economic coordination isn't a challenge for the faint of heart. These institutions will be heavily stress-tested.
 </details>
 </details>
     
@@ -617,7 +617,7 @@ Coordinates services like childcare, cleaning, house and product repair, and mor
 </details>
 <details><summary><strong>Knowledge Transfer System</strong></summary>
 
-Based on direct human interaction. It consists of a network of meeting rooms and video conference booths, both of which feature recording devices for optional recording of conversations, so they can be referenced during training, education, or future academic discussions. This system includes a networking, logistics, and scheduling system to keep everything running smoothly. It functions to facilitate the sharing of expertise and knowledge among academics, professionals, and students, so valuable knowledge can be shared within and among fields and practices, provided to younger generations, and built upon from generation to generation.
+Based on direct human interaction. It consists of a network of meeting rooms and video conference booths, both of which feature recording devices for optional recording of conversations, so they can be referenced during training, education, or future academic discussions. This system includes a networking, logistics, and scheduling system to keep everything running smoothly. It functions to facilitate the sharing of expertise and knowledge among academics, professionals, and students, so valuable knowledge can be shared within and among fields and practices, provided to younger generations, and built upon from generation to generation, acting as a persistant cultural memory. Integrates robust information verification protocols to ensure integrity while flagging speculation. Intertwines through school system, [sector support system](#sector-support-system-sss), and [central creativity](#central-creativity-cc).
 </details>
 <details><summary><strong>Domestic Development System</strong></summary>
 
