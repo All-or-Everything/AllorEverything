@@ -503,11 +503,11 @@ If it is shown to be more efficient and practical to calculate for all the indus
 
 <details><summary><strong>Description</strong></summary>
 
-A per-sector institution 
+A per-sector supportive institution for industry.
 </details>
 <details><summary><strong>Function</strong></summary>
 
- - Establishes industry-wide standards in collaboration with industry research and development, rewarding companies for creating new, better industry standards and best practices. Shares documentation and industry standards across sector and forwards these to other sector support systems for consideration where relavent. [DDS](#data-distribution-system-dds) .
+ - Establishes industry-wide standards in collaboration with industry research and development, rewarding companies for creating new, better industry standards and best practices. Using [DDS](#data-distribution-system-dds), shares documentation and industry standards across sector and forwards these to other sector support systems for consideration where relavent.
  - Enforces all accepted industry standards, ensuring maximum cross-compatibility among products.
  - Gathers and shares valuable insights on production techniques, management methods, and social innovation to improve the industry.
 </details>
@@ -533,7 +533,7 @@ Enforces Sector Regulatory Framework, a specialized framework developed by Centr
 <details><summary><h3>Sector Regulatory Framework</h3></summary>
 
 - Addresses the broad range of possible infractions against society that could occur within the domains of life that industry in its sector interacts with, including everything from crime to inconvenience.
-- Strategically influences sector development, preventing mistakes and shortsightedness before it is regretted, and ensuring the sector develops in the healthiest way for the economy and for society. Predictive modeling and past trends would be used here.
+- Strategically influences sector development, preventing mistakes and shortsightedness before it is felt, and ensures the sector develops in the healthiest way for the economy and for society. Predictive modeling and past trends would see use here.
 </details>
 </details>
 
@@ -617,7 +617,7 @@ Coordinates services like childcare, cleaning, house and product repair, and mor
 </details>
 <details><summary><strong>Knowledge Transfer System</strong></summary>
 
-Based on direct human interaction. It consists of a network of meeting rooms and video conference booths, both of which feature recording devices for optional recording of conversations, so they can be referenced during training, education, or future academic discussions. This system includes a networking, logistics, and scheduling system to keep everything running smoothly. It functions to facilitate the sharing of expertise and knowledge among academics, professionals, and students, so valuable knowledge can be shared within and among fields and practices, provided to younger generations, and built upon from generation to generation, acting as a persistant cultural memory. Integrates robust information verification protocols to ensure integrity while flagging speculation. Intertwines through school system, [sector support system](#sector-support-system-sss), and [central creativity](#central-creativity-cc).
+Based on direct human interaction. It consists of a network of meeting rooms and video conference booths, both of which feature recording devices for optional recording of conversations, so they can be referenced during training, education, or future academic discussions. This system includes a networking, logistics, and scheduling system to keep everything running smoothly, accompanied by robust information verification protocols to ensure integrity while flagging speculation. It functions to facilitate the sharing of expertise and knowledge among academics, professionals, and students, so valuable knowledge can be shared within and among fields and practices, provided to younger generations, and built upon from generation to generation, acting as a persistant, intelligent cultural memory. Intertwines through school system, [sector support system](#sector-support-system-sss), [central creativity](#central-creativity-cc), and even [alliance](#alliance-level-4d-democracy-al5d) and [sector](#sector-level-4d-democracy-sl5d) level 4D democracy, to which it serves as an academic base and verification source.
 </details>
 <details><summary><strong>Domestic Development System</strong></summary>
 
