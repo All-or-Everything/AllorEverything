@@ -349,7 +349,7 @@ Where employees are instructed to log their ideas before sharing them among othe
 
 <details><summary><h3>Standardization Regulatory Complex (SRC)</h3></summary>
 
-Industry-wide network which encompasses the Industry Organization System, Startup Hosting System, and all Specialized Sector Management Systems, and hence their features. Serves as a complete economy management engine, with everything from optimized labor allocation to structured societal benefit-based incentives.
+Industry-wide distributed coordination network which encompasses the Industry Organization System, Startup Hosting System, and all Specialized Sector Management Systems, and hence their features. Serves as a complete economy management engine, with everything from optimized labor allocation to structured societal benefit-based incentives.
     
 
 <details><summary><strong>Corporate Requirements</strong></summary>
@@ -390,8 +390,8 @@ WIP
 
 
 <details><summary><strong>Description</strong></summary>
+Networks labor in the economy for effective talent allocation.
 
-WIP
 </details>
 <details><summary><strong>Function</strong></summary>
 
@@ -400,11 +400,11 @@ WIP
 </details>
 <details><summary><strong>Purpose</strong></summary>
 
-Pairs individuals with jobs that are suitable to their skill sets
+
 </details>
 <details><summary><strong>Justification</strong></summary>
 
-WIP
+Pairs individuals with jobs that are suitable to their skill sets
 </details>
 <details><summary><strong>Limitations</strong></summary>
 
