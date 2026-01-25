@@ -18,11 +18,11 @@ Create a fully self-contained and self-regulated system of societal-scale politi
 </details>
 
 <details><summary><strong>Justification</strong></summary>
-A social network ecosystem and open-source project leveraging web 2.0 and web 3.0 principles could provide a secure and well-regulated system of policy available to all. By weighting feedback according to calculated reliability and modeling interactions between reviews, it embodies an emergent, self-balancing system of user-driven deduction that refines policy recursively. This decentralizes policy innovation and, by making records auditable on a Merkle-tree ledger, reduces the barrier to verification and limits vulnerability to malicious bot and alt accounts.
+This social network ecosystem and open-source project could provide a secure and well-regulated system of policy available to all, leveraging web 2.0 & web3 principles. By weighting feedback according to calculated reliability and modeling interactions between reviews, it embodies an emergent, self-balancing system of user-driven deduction that refines policy recursively. This decentralizes policy innovation and, by making records auditable on a Merkle-tree ledger and using reliability metrics as a filter, reduces the barrier to verification. It also limits vulnerability to malicious bot and alt accounts, since merit is difficult to automate.
 </details>
 
 <details><summary><strong>Limitations</strong></summary>
-In practice, relying on users to regulate the system leaves approved outcomes vulnerable to skewing toward prevailing political biases. That vulnerability can be addressed by structuring interactions through curated questions, presentation, and other techniques to reduce bias, and by seeding the network from the start with well trained, skilled, and reliable specialists whose credibility diffuses to ranked users over time. Implementation requires an organization that answers only to the network to carry changes into the political structure as soon as they pass verification.
+Prevailing political biases can poison user contribution or regulation on its own. That vulnerability is reduced since feedback is structured through curated questions and presentation. This is alongside other techniques to reduce bias. It can also be reduced by seeding the network from the start with well trained, skilled, and reliable specialists, with their credibility diffusing to regular users over time. Requires a seperate organization that answers only to the network and actually makes the specified changes to the system as soon as they pass verification.
 </details>
 </details>
 
