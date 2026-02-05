@@ -33,7 +33,7 @@ Prevailing political biases can poison user contribution or regulation on its ow
 
 <details><summary><strong>Function</strong></summary>
 
-4D Democracy is applied across the Social Sector Alliance Network, allowing network participants to propose, review, and modify alliance-specific rules, policies, and structures. The system enables collaborative governance within the alliance, with community-driven review and feedback mechanisms that refine and validate each proposal. Overrides [SL5D](#sector-level-4d-democracy-sl5d) to avoid the free rider problem and maintain consistency for critical areas.
+4D Democracy is applied across the Community Cluster Alliance Network, allowing network participants to propose, review, and modify alliance-specific rules, policies, and structures. The system enables collaborative governance within the alliance, with community-driven review and feedback mechanisms that refine and validate each proposal. Overrides [CL5D](#cluster-level-4d-democracy-cl5d) to avoid the free rider problem and maintain consistency for critical areas.
 
 </details>
 
@@ -43,11 +43,11 @@ This implementation democratizes policy development within the alliance, empower
     
 <details><summary><strong>Justification</strong></summary>
 
-Integrating 4D Democracy within the alliance enhances transparency, inclusivity, and cohesion, allowing members to directly impact policies that govern their collaborative work. This alignment strengthens cooperative initiatives and enables the alliance to remain relevant to evolving social sector goals, improving its overall effectiveness and unity.</details>
+Integrating 4D Democracy within the alliance enhances transparency, inclusivity, and cohesion, allowing members to directly impact policies that govern their collaborative work. This alignment strengthens cooperative initiatives and enables the alliance to remain relevant to evolving Community Cluster goals, improving its overall effectiveness and unity.</details>
 
 <details><summary><strong>Limitations</strong></summary>
 
-Sectors within the alliance have different operational models, resources, and governance structures. This can make it difficult to implement policies consistently across all sectors, as what works for one sector may not be applicable or feasible for another. Also, more established or resource-rich sectors may have greater visibility, expertise, or user participation, skewing decisions in their favor and marginalizing smaller or newer sectors.</details>
+Community Clusters within the alliance have different operational models, resources, and governance structures. This can make it difficult to implement policies consistently across all Community Clusters, as what works for one community cluster may not be applicable or feasible for another. Also, more established or resource-rich Community Clusters may have greater visibility, expertise, or user participation, skewing decisions in their favor and marginalizing smaller or newer Community Clusters.</details>
 </details>
 
 <details><summary><h3>Alliance Implementation Institution (AII)</h3></summary>
@@ -57,7 +57,9 @@ Sectors within the alliance have different operational models, resources, and go
 Organization designed to put in place societal alliance network changes and additions in accordance with those proposed and verified within the Deliberative Decentralized Digital Direct Democracy.</details>
 <details><summary><strong>Function</strong></summary>
 
-Impliments policy (operational) and order (structural) additions, eliminations, and modifications according to the results approved by AL5D directly. Operates with complete and uninhibited transparency (aside from dress code) within a glass-paned, wired & surveilled building with complete government serveillance (serveillance of the government, by the people) integrated. Crew are appointed by public vote with potential bad actors filtered by psych test & personal history. Crew members observed acting out of alignment with the input of 4D Democracy are removed from the position and a replacement is appointed.
+Impliments procedural and structural additions, eliminations, and modifications according to the results approved by AL5D directly.
+
+Operates with complete and uninhibited transparency (aside from dress code) within a glass-paned, wired & surveilled building with complete government serveillance (serveillance of the government, by the people) integrated. Crew are appointed by public vote with potential bad actors filtered out by personal history and social tests of reliability. Crew members observed acting out of alignment with the input of 4D Democracy are removed from the position and a replacement is appointed.
 
 
 </details>
@@ -68,7 +70,7 @@ To enact the decisions reached by [AL5D](#alliance-level-4d-democracy-al5d) and 
 
 <details><summary><strong>Justification</strong></summary>
     
-Without this, [AL5D](#alliance-level-4d-democracy-al5d) would be functionally unenforced, and the people's position atop the system would be cucked.</details>
+Without this, [AL5D](#alliance-level-4d-democracy-al5d) would be functionally unenforced, leaving the system subject to less secure or reliable forces of change.</details>
 
 <details><summary><strong>Limitations</strong></summary>
 
@@ -78,80 +80,80 @@ Must be transparent to ensure changes carried out accurately match what is presc
 
 
 
-<details><summary><h3>Societal Sector Alliance Network (SSAN)</h3></summary>
+<details><summary><h3>Community Cluster Alliance Network (CCAN)</h3></summary>
 
 <details><summary><strong>Description</strong></summary>
 
-A system of checks between regional sectors of implementation. Subject to [AL5D](#alliance-level-4d-democracy-al5d) via [AII](#alliance-implementation-institution-aii), and the ultimate outcome of the collective will determining the nature of the relations between and amongst all sovereign sectors.
+A shared coordination structure held in common by all community clusters. Subject to [AL5D](#alliance-level-4d-democracy-al5d) via [AII](#alliance-implementation-institution-aii), with the ultimate outcome of the collective will determining the nature of mutual relations between and amongst community clusters.
 
 </details>
 
 <details><summary><strong>Function</strong></summary>
 
-Prevents its own dissolution through checks in place between sectors and acts as a mechanism locking all interests together and keeping them together. Strengthens the collective power of the sectors without weakening their ability to adapt to local events and conditions. Serves as a strong integrated inter-sector contract structured for collective benefit, mutual reinforcement, collective protection, and sequential sector expansion.
+Prevents its own dissolution through checks in place between community clusters and acts as a mechanism locking all interests together and keeping them together. Strengthens the collective power of the community clustersShs without weakening their ability to adapt to local events and conditions. Serves as a strong integrated inter-cluster contract structured for collective benefit, mutual reinforcement, collective protection, and sequential cluster-by-cluster expansion.
 
 </details>
 
 <details><summary><strong>Purpose</strong></summary>
 
-Ensures that all sectors remain acting in the best interests of the whole, with no sector prioritizing itself above any other sector in its actions and behavior. Provides a link to recently initiated, vulnerable projects to provide backup support and assistance, stabilizing and accelerating further implementation of the AoESS.
+Ensures that all community clusters remain acting in the best interests of the whole, with no cluster prioritizing itself above any other cluster in its actions and behavior. Provides a link to recently initiated, vulnerable projects to provide backup support and assistance, stabilizing and accelerating further implementation of the AoESS.
 
 </details>
 
 <details><summary><strong>Justification</strong></summary>
 
-Designed to be robust and versatile, ensuring that it can connect seamlessly with any new sectors wherever they emerge, providing assistance to strengthen their foothold during vulnerable stages of development into a fully established sector. Makes all sectors better off by providing a direct route to mutual benefit, and of a form decided by the people directly through [AL5D](#alliance-level-4d-democracy-al5d).
+Designed to be robust and versatile, ensuring that it can connect seamlessly with any new clusters wherever they emerge, providing assistance to strengthen their foothold during vulnerable stages of development into a fully established community cluster. Makes all clusters better off by providing a direct route to mutual benefit, and of a form decided by the people directly through [AL5D](#alliance-level-4d-democracy-al5d).
 
 </details>
 
 <details><summary><strong>Limitations</strong></summary>
 
-Not everything can happen under an umbrella contract. Sectors need to be able to decide some things for themselves. Also, as a collective contract, has no central authority, which is replaced by synchronization. Time will tell if this poses issues. Also, implies a structure, is to be collectively implemented, and yet cannot override the sector system. Without any central authority, there is no clear body in charge, and likewise there's no clear line between the overarchingly applied SSAN structure and the underlying SS structure. I find the lack of central authority to be preferable, and worth this contradiction/blurring of boundaries, given the issue is not grave and it doesn't seem like it will be difficult to resolve. However, that will have to be done.
+Not everything can happen under an umbrella contract. Community Clusters need to be able to decide some things for themselves. Also, as a collective contract, has no central authority, which is replaced by synchronization. Time will tell if this poses issues, though it is planned to design CL5D and AL5D to interlock. Also, implies a structure, is to be collectively implemented, and yet cannot override community clusters. Without any central authority, there is no clear body in charge, and likewise there's no clear line between the overarchingly applied CCAN structure and the underlying SS structure. I find the lack of central authority to be preferable, and worth this contradiction/blurring of boundaries, given the issue is not grave and it doesn't seem like it will be difficult to resolve. However, that will have to be done.
 
-* I would like to invite collaboration here. Feel free to try this challenge yourself. If you come up with a clean, effective way to resolve this, you win my genuine respect, and (if you're not already in it) an early invitation to the new AoE server, alongside inner circle participants and my most interesting compadres, before it opens publicly.
+Note: This will/has been resolved by giving AL5D unilateral priority over CL5D, as the alliance must remain mutual by requirement.
 
 </details>
 </details>
 
 
-<details><summary><h3>Sector Level 4D Democracy (SL5D)</h3></summary>
+<details><summary><h3>Cluster Level 4D Democracy (CL5D)</h3></summary>
 
 <details><summary><strong>Description</strong></summary>
 
-4D Democracy implementation for each individual sector to allow democratic development of rules, policies, and structures that shape the sector.
+4D Democracy implementation for each individual community cluster to allow democratic development of rules, policies, and structures that shape the cluster.
 
 </details>
 
 <details><summary><strong>Function</strong></summary>
 
-The 4D Democracy system is applied within individual societal sectors, where users propose, review, and refine policies, rules, and structures. The process is sector-specific, ensuring that governance evolves according to the particular needs and dynamics of each sector. Proposals and reviews are governed by the same peer-evaluation and feedback mechanisms used in the broader 4D Democracy but focused solely on the sector in question.
+The 4D Democracy system is applied within individual societal clusters, where users propose, review, and refine policies, rules, and structures. The process is specific, ensuring that governance evolves according to the particular needs and dynamics of each cluster. Proposals and reviews are governed by the same peer-evaluation and feedback mechanisms used in the broader 4D Democracy but focused solely on the cluster in question.
 
 </details>
 
 <details><summary><strong>Purpose</strong></summary>
 
-This implementation allows each sector to autonomously adapt its own governance framework, ensuring that policies are shaped by the participants directly affected by them. It creates a system where sector-specific issues are addressed by those with the most relevant knowledge and experience.
+This implementation allows each cluster to autonomously adapt its own governance framework, ensuring that policies are shaped by the participants directly affected by them. It creates a system where cluster-specific issues are addressed by those with the most relevant knowledge and experience.
 
 </details>
 
 <details><summary><strong>Justification</strong></summary>
 
-By tailoring governance to each sector’s unique challenges, the system ensures that policies are directly responsive and relevant to those within the sector. It fosters a participatory environment where the people within each sector drive the evolution of their own policies, leading to more effective, customized governance.
+By tailoring governance to each cluster’s unique challenges, the system ensures that policies are directly responsive and relevant to those within the cluster. It fosters a participatory environment where the people within each cluster drive the evolution of their own policies, leading to more effective, customized governance.
 
 </details>
 
 <details><summary><strong>Limitations</strong></summary>
 
-In sectors with particularly broad or diverse stakeholder groups, consensus-building can be difficult, leading to slower decision-making or conflict. Additionally, sector-specific policies may occasionally conflict with broader societal goals or create coordination challenges across different sectors.
+In clusters with particularly broad or diverse stakeholder groups, consensus-building can be difficult, leading to slower decision-making or conflict. Additionally, cluster-specific policies may occasionally conflict with broader societal goals or create coordination challenges across different clusters.
 
 </details>
 
 
-<details><summary><h3>Sector Implementation Institution (SII)</h3></summary>
+<details><summary><h3>Community Cluster Implementation Institution (CCII)</h3></summary>
 
 <details><summary><strong>Description</strong></summary>
 
-Organization designed to put in place sector system changes and additions in accordance with those proposed and verified within the 4D Democracy.
+Organization designed to put in place community clustor changes and additions in accordance with those proposed and verified within the 4D Democracy.
 
 </details>
 
@@ -180,7 +182,7 @@ Organization designed to put in place sector system changes and additions in acc
 </details>
 
 
-<details><summary><h3>Sector System (SS)</h3></summary>
+<details><summary><h3>Community Cluster System (SS)</h3></summary>
 
 <details><summary><strong>Description</strong></summary>
 
@@ -190,7 +192,7 @@ Order which is in place. Can be, and frequently is, altered by SII according to 
 
 <details><summary><strong>Function</strong></summary>
 
-Does everything within the sector that the inhabiting citizens establish via their local [SL5D](#sector-level-4d-democracy-sl5d).
+Does everything within the community cluster that the inhabiting citizens establish via their local [CL5D](#cluster-level-4d-democracy-cl5d).
 
 </details>
 
@@ -223,7 +225,7 @@ Based on communications infrastructure and technology, including electronic comm
 
 <details><summary><strong>Function</strong></summary>
 
-Delivers all necessary communication between societal functions, keeping the whole sector up to date, informed, and responsive to incoming information. Likewise, stores all personal information, encrypted and organized by domain of relevancy, providing only the strictly relevant information upon request, and only if authorization conditions are met for said relevant information, with further information beyond that always requiring explicitly provided and authenticated citizen consent.
+Delivers all necessary communication between societal functions, keeping the whole community cluster up to date, informed, and responsive to incoming information. Likewise, stores all personal information, encrypted and organized by domain of relevancy, providing only the strictly relevant information upon request, and only if authorization conditions are met for said relevant information, with further information beyond that always requiring explicitly provided and authenticated citizen consent.
 
 </details>
 
@@ -404,6 +406,8 @@ Networks labor in the economy for effective talent allocation.
 </details>
 <details><summary><strong>Function</strong></summary>
 
+
+
  - Collects comprehensive worker data, including past careers, training, employment status, interests, and other relevant information to pair workers with compatible jobs, which is then stored in the Knowledge Network, for use by them and other branches.
  - Partners with education sector to introduce children to age-appropriate jobs, providing early training, motivation, familiarization, and confidence, while diminishing the effects of infantilization and ageism against children.
 </details>
@@ -425,7 +429,8 @@ WIP
 
 <details><summary><strong>Description</strong></summary>
 
-The Startup Hosting System (SHS) is a comprehensive, standardized platform for managing, organizing, and operating early-stage ventures—much like a server hosting service does for websites. It provides robust infrastructure, ongoing maintenance, and an intuitive interface that supports startups from their initial formation through to eventual independent operation. By combining transparent regulatory reporting, expert oversight, and community feedback networks, SHS creates a supportive and regulated environment where promising business ideas can be transformed into viable companies.
+A standardized structure designed to host early-stage ventures to lower the barrier to entry. Helps manage, organize, and operate early-stage ventures to lower the barrier to entry and support initiative.
+It provides robust infrastructure, ongoing maintenance, and an intuitive interface that supports startups from their initial formation through to eventual independent operation. By combining transparent regulatory reporting, expert oversight, and community feedback networks, SHS creates a supportive and regulated environment where promising business ideas can be transformed into viable companies.
 </details>
 <details><summary><strong>Function</strong></summary>
 
@@ -530,7 +535,7 @@ Strengthens industry coordination, improves collaboration, and accelerates indus
 </details>
 <details><summary><strong>Limitations</strong></summary>
 
-Sector-wide economic coordination isn't a challenge for the faint of heart. These institutions will be heavily stress-tested.
+wide economic coordination isn't a challenge for the faint of heart. These institutions will be heavily stress-tested.
 </details>
 </details>
     
@@ -626,7 +631,7 @@ Coordinates services like childcare, cleaning, house and product repair, and mor
 </details>
 <details><summary><strong>Knowledge Transfer System</strong></summary>
 
-Based on direct human interaction. It consists of a network of meeting rooms and video conference booths, both of which feature recording devices for optional recording of conversations, so they can be referenced during training, education, or future academic discussions. This system includes a networking, logistics, and scheduling system to keep everything running smoothly, accompanied by robust information verification protocols to ensure integrity while flagging speculation. It functions to facilitate the sharing of expertise and knowledge among academics, professionals, and students, so valuable knowledge can be shared within and among fields and practices, provided to younger generations, and built upon from generation to generation, acting as a persistant, intelligent cultural memory. Intertwines through school system, [sector support system](#sector-support-system-sss), [central creativity](#central-creativity-cc), and even [alliance](#alliance-level-4d-democracy-al5d) and [sector](#sector-level-4d-democracy-sl5d) level 4D democracy, to which it serves as an academic base and verification source.
+Based on direct human interaction. It consists of a network of meeting rooms and video conference booths, both of which feature recording devices for optional recording of conversations, so they can be referenced during training, education, or future academic discussions. This system includes a networking, logistics, and scheduling system to keep everything running smoothly, accompanied by robust information verification protocols to ensure integrity while flagging speculation. It functions to facilitate the sharing of expertise and knowledge among academics, professionals, and students, so valuable knowledge can be shared within and among fields and practices, provided to younger generations, and built upon from generation to generation, acting as a persistant, intelligent cultural memory. Intertwines through school system, [sector support system](#support-system-sss), [central creativity](#central-creativity-cc), and even [alliance](#alliance-level-4d-democracy-al5d) and [cluster](#cluster-level-4d-democracy-cl5d) level 4D democracy, to which it serves as an academic base and verification source.
 </details>
 <details><summary><strong>Domestic Development System</strong></summary>
 
