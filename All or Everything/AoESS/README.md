@@ -182,11 +182,11 @@ Organization designed to put in place community clustor changes and additions in
 </details>
 
 
-<details><summary><h3>Community Cluster System (SS)</h3></summary>
+<details><summary><h3>Community Cluster System (CCS)</h3></summary>
 
 <details><summary><strong>Description</strong></summary>
 
-Order which is in place. Can be, and frequently is, altered by SII according to 4D Democracy, but also begins at an initial design, with features and characteristics initially inspired by concepts from the AoE movement, to be further modified as needed by citizens through the [SL5D](#sector-level-4d-democracy-sl5d).
+Order which is in place. Can be, and frequently is, altered by SII according to 4D Democracy, but also begins at an initial design, with features and characteristics initially inspired by concepts from the AoE movement, to be further modified as needed by citizens through the [SL5D](#cluster-level-4d-democracy-cl5d).
 
 </details>
 
