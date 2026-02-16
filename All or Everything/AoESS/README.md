@@ -616,7 +616,7 @@ Promotes collaboration with Sector Support Systems of other sectors to create le
 
 </details>
 
-<details><summary><h3>School System (SS)</h3></summary>
+<details><summary><h3>Educational System (ES)</h3></summary>
 
 <details><summary><strong>Description</strong></summary>
 
@@ -700,7 +700,7 @@ Coordinates services like childcare, cleaning, house and product repair, and mor
 </details>
 <details><summary><strong>Knowledge Transfer System</strong></summary>
 
-Based on direct human interaction. It consists of a network of meeting rooms and video conference booths, both of which feature recording devices for optional recording of conversations, so they can be referenced during training, education, or future academic discussions. This system includes a networking, logistics, and scheduling system to keep everything running smoothly, accompanied by robust information verification protocols to ensure integrity while flagging speculation. It functions to facilitate the sharing of expertise and knowledge among academics, professionals, and students, so valuable knowledge can be shared within and among fields and practices, provided to younger generations, and built upon from generation to generation, acting as a persistant, intelligent cultural memory. Intertwines through school system, [sector support system](<#support-system-sss>), [central creativity](<#central-creativity-cc>), and even [alliance](<#alliance-level-4d-democracy-al5d>) and [cluster](<#cluster-level-4d-democracy-cl5d>) level 4D democracy, to which it serves as an academic base and verification source.
+Based on direct human interaction. It consists of a network of meeting rooms and video conference booths, both of which feature recording devices for optional recording of conversations, so they can be referenced during training, education, or future academic discussions. This system includes a networking, logistics, and scheduling system to keep everything running smoothly, accompanied by robust information verification protocols to ensure integrity while flagging speculation. It functions to facilitate the sharing of expertise and knowledge among academics, professionals, and students, so valuable knowledge can be shared within and among fields and practices, provided to younger generations, and built upon from generation to generation, acting as a persistent, intelligent cultural memory. Intertwines through [education system](<#education-system-es>), [sector support system](<#support-system-sss>), [central creativity](<#central-creativity-cc>), and even [alliance](<#alliance-level-4d-democracy-al5d>) and [cluster](<#cluster-level-4d-democracy-cl5d>) level 4D democracy, to which it serves as an academic base and verification source.
 </details>
 <details><summary><strong>Domestic Development System</strong></summary>
 
