@@ -33,7 +33,7 @@ Prevailing political biases can poison user contribution or regulation on its ow
 
 <details><summary><strong>Function</strong></summary>
 
-4D Democracy is applied across the Community Cluster Alliance Network, allowing network participants to propose, review, and modify alliance-specific rules, policies, and structures. The system enables collaborative governance within the alliance, with community-driven review and feedback mechanisms that refine and validate each proposal. Overrides [CL5D](#cluster-level-4d-democracy-cl5d) to avoid the free rider problem and maintain consistency for critical areas.
+4D Democracy is applied across the Community Cluster Alliance Network, allowing network participants to propose, review, and modify alliance-specific rules, policies, and structures. The system enables collaborative governance within the alliance, with community-driven review and feedback mechanisms that refine and validate each proposal. Overrides [CL5D](<#cluster-level-4d-democracy-cl5d>) to avoid the free rider problem and maintain consistency for critical areas.
 
 </details>
 
@@ -66,7 +66,7 @@ Operates with complete and uninhibited transparency (aside from dress code) with
 
 <details><summary><strong>Purpose</strong></summary>
 
-To enact the decisions reached by [AL5D](#alliance-level-4d-democracy-al5d) and thus enforce the will of the people in policy and design of the government.</details>
+To enact the decisions reached by [AL5D](<#alliance-level-4d-democracy-al5d>) and thus enforce the will of the people in policy and design of the government.</details>
 
 <details><summary><strong>Justification</strong></summary>
     
@@ -74,7 +74,7 @@ Without this, [AL5D](#alliance-level-4d-democracy-al5d) would be functionally un
 
 <details><summary><strong>Limitations</strong></summary>
 
-Must be transparent to ensure changes carried out accurately match what is prescribed by [AL5D](#alliance-level-4d-democracy-al5d), within tight margins. Further improvements to this institution are also open for modification by [AL5D](#alliance-level-4d-democracy-al5d), for circumstances in which the system's design features, or lack thereof, hinder effective implimentation. Dual nested sections are dedicated to carrying out these institutional changes, on the surrounding institution structure and then on each other, as prescribed by [AL5D](#alliance-level-4d-democracy-al5d).</details>
+Must be transparent to ensure changes carried out accurately match what is prescribed by [AL5D](<#alliance-level-4d-democracy-al5d>), within tight margins. Further improvements to this institution are also open for modification by [AL5D](<#alliance-level-4d-democracy-al5d>), for circumstances in which the system's design features, or lack thereof, hinder effective implimentation. Dual nested sections are dedicated to carrying out these institutional changes, on the surrounding institution structure and then on each other, as prescribed by [AL5D](<#alliance-level-4d-democracy-al5d>).</details>
 </details>
 
 
@@ -84,7 +84,7 @@ Must be transparent to ensure changes carried out accurately match what is presc
 
 <details><summary><strong>Description</strong></summary>
 
-A shared coordination structure held in common by all community clusters. Subject to [AL5D](#alliance-level-4d-democracy-al5d) via [AII](#alliance-implementation-institution-aii), with the ultimate outcome of the collective will determining the nature of mutual relations between and amongst community clusters.
+A shared coordination structure held in common by all community clusters. Subject to [AL5D](<#alliance-level-4d-democracy-al5d>) via [AII](<#alliance-implementation-institution-aii>), with the ultimate outcome of the collective will determining the nature of mutual relations between and amongst community clusters.
 
 </details>
 
@@ -102,7 +102,7 @@ Ensures that all community clusters remain acting in the best interests of the w
 
 <details><summary><strong>Justification</strong></summary>
 
-Designed to be robust and versatile, ensuring that it can connect seamlessly with any new clusters wherever they emerge, providing assistance to strengthen their foothold during vulnerable stages of development into a fully established community cluster. Makes all clusters better off by providing a direct route to mutual benefit, and of a form decided by the people directly through [AL5D](#alliance-level-4d-democracy-al5d).
+Designed to be robust and versatile, ensuring that it can connect seamlessly with any new clusters wherever they emerge, providing assistance to strengthen their foothold during vulnerable stages of development into a fully established community cluster. Makes all clusters better off by providing a direct route to mutual benefit, and of a form decided by the people directly through [AL5D](<#alliance-level-4d-democracy-al5d>).
 
 </details>
 
@@ -186,13 +186,13 @@ Organization designed to put in place community clustor changes and additions in
 
 <details><summary><strong>Description</strong></summary>
 
-Order which is in place. Can be, and frequently is, altered by SII according to 4D Democracy, but also begins at an initial design, with features and characteristics initially inspired by concepts from the AoE movement, to be further modified as needed by citizens through the [SL5D](#cluster-level-4d-democracy-cl5d).
+Order which is in place. Can be, and frequently is, altered by SII according to 4D Democracy, but also begins at an initial design, with features and characteristics initially inspired by concepts from the AoE movement, to be further modified as needed by citizens through the [SL5D](<#cluster-level-4d-democracy-cl5d>).
 
 </details>
 
 <details><summary><strong>Function</strong></summary>
 
-Does everything within the community cluster that the inhabiting citizens establish via their local [CL5D](#cluster-level-4d-democracy-cl5d).
+Does everything within the community cluster that the inhabiting citizens establish via their local [CL5D](<#cluster-level-4d-democracy-cl5d>).
 
 </details>
 
@@ -521,7 +521,7 @@ A per-sector supportive institution for industry.
 </details>
 <details><summary><strong>Function</strong></summary>
 
- - Establishes industry-wide standards in collaboration with industry research and development, rewarding companies for creating new, better industry standards and best practices. Using [DDS](#data-distribution-system-dds), shares documentation and industry standards across sector and forwards these to other sector support systems for consideration where relavent.
+ - Establishes industry-wide standards in collaboration with industry research and development, rewarding companies for creating new, better industry standards and best practices. Using [DDS](<#data-distribution-system-dds>), shares documentation and industry standards across sector and forwards these to other sector support systems for consideration where relavent.
  - Enforces all accepted industry standards, ensuring maximum cross-compatibility among products.
  - Gathers and shares valuable insights on production techniques, management methods, and social innovation to improve the industry.
 </details>
@@ -616,31 +616,35 @@ Promotes collaboration with Sector Support Systems of other sectors to create le
 
 </details>
 
-<details><summary><h3>School System</h3></summary>
+<details><summary><h3>School System (SS)</h3></summary>
 
 <details><summary><strong>Description</strong></summary>
 
-Tasks and lessons are not be made any more difficult, complicated, or time-consuming than absolutely necessary for the successful transmission of a given gain of function unless it can be proven that such qualities will improve the students’ overall ability to apply the specific gain of function being transmitted to them, and to enough of an extent that it would adequately justify the extra time and effort which must be put into receiving a given gain of function.
+Gains of cultural and cognitive function are facilitated through minimal, rigorously proven and justified means. All difficulty, complexity, and latency imposed in learning materials and tasks must be justified by improvement in gain of function uptake. Focuses on knowledge which has use and significance given sufficient reality checks.
 
-To do otherwise would be to waste time and effort which could have been used to learn other topics. This is not to imply a sole focus on directly applicable knowledge like those in the STEM fields, without regard to the social sciences or softer subjects.
+Separate topics, sciences, and other interrelated artifacts of academic stratification are unified into one reality, known as simply teaching or learning depending on position. Lessons are anchored firmly to the matters of reality they correspond and are applied to. The whole is then mapped out as a logical progression from the earliest prerequisites to more powerful intellectual skills, with cultural and cognitive functions from different domains complimenting each other’s intake.
 
-All subjects would most certainly still be taught, but with an approach which provides more relevant, actionable knowledge, and emphasizes the uses, significance, and implications of the knowledge provided.
 
-After all, knowledge which has no use or significance in reality is not relevant for anything which pertains to reality.
+
+
+
+
+
+
+
+
+
+This saves time and effort which can then be used to advance in other topics. Knowledge which has no use or significance in reality is not relevant for anything which pertains to reality. Such interconnected and integrated lessons would provide a more complete picture of reality, enabling within students the ability to apply their knowledge to a much greater extent, and to a much larger range of areas. All subjects taught provide more relevant, actionable knowledge, and emphasize the uses, significance, and implications of the knowledge provided.
 
 As almost all subjects are somewhat interrelated and rely on or can complement functions provided within each other, an overall more cohesive framework could be utilized, primarily based on the order of functions and not on the separation of topics.
 
 If a function from one topic can reduce the time and effort required to gain a function in another, this increases the efficiency of learning. Not only that, but it increases the richness and cohesiveness of the knowledge, and thus ability, which is gained.
 
-Such a method would result in more connections and relations built up to provide references and analogies, helping students understand and learn things better. As such, there is no reason to explicitly separate topics and classes from each other, as doing so restricts the speed and efficacy with which things can be taught and learned.
+This would result in more connections and relations built up, providing references, analogies, and overall helping students understand and learn things better.
 
-Separating topics into different categories creates arbitrary barriers in a world that consists of a single, cohesive reality, and likely reduces the creativity of students, their ability to find novel solutions, and their ability to see the bigger picture.
 
-We can instead just have one topic, known as either teaching or learning, depending on the perspective. Literature, Mathematics, and all the others would all fall under that topic, and be mapped out into functions, so the optimal chronological order of functions could be reached, and implemented into curriculum.
 
-This would result in lessons based entirely on the matters of reality they correspond to, rather than as subjects separated by arbitrary barriers which do not exist for any reason other than academic stratification, which is itself a problem to be countered by uniting the insights of different fields into a complete whole.
 
-Such interconnected and integrated lessons would provide a more complete picture of reality, enabling within students the ability to apply their knowledge to a much greater extent, and to a much larger range of areas.
 
 
 How should we continue an order, once it is established? That is, after a generation manages to establish a better order, how should they bring forth the subsequent generations? There are things which are advisable to ensure that the current order does not degenerate into an order which is just as bad as the one before.
@@ -715,7 +719,7 @@ Coordinates services like childcare, cleaning, house and product repair, and mor
 </details>
 <details><summary><strong>Knowledge Transfer System</strong></summary>
 
-Based on direct human interaction. It consists of a network of meeting rooms and video conference booths, both of which feature recording devices for optional recording of conversations, so they can be referenced during training, education, or future academic discussions. This system includes a networking, logistics, and scheduling system to keep everything running smoothly, accompanied by robust information verification protocols to ensure integrity while flagging speculation. It functions to facilitate the sharing of expertise and knowledge among academics, professionals, and students, so valuable knowledge can be shared within and among fields and practices, provided to younger generations, and built upon from generation to generation, acting as a persistant, intelligent cultural memory. Intertwines through school system, [sector support system](#support-system-sss), [central creativity](#central-creativity-cc), and even [alliance](#alliance-level-4d-democracy-al5d) and [cluster](#cluster-level-4d-democracy-cl5d) level 4D democracy, to which it serves as an academic base and verification source.
+Based on direct human interaction. It consists of a network of meeting rooms and video conference booths, both of which feature recording devices for optional recording of conversations, so they can be referenced during training, education, or future academic discussions. This system includes a networking, logistics, and scheduling system to keep everything running smoothly, accompanied by robust information verification protocols to ensure integrity while flagging speculation. It functions to facilitate the sharing of expertise and knowledge among academics, professionals, and students, so valuable knowledge can be shared within and among fields and practices, provided to younger generations, and built upon from generation to generation, acting as a persistant, intelligent cultural memory. Intertwines through school system, [sector support system](<#support-system-sss>), [central creativity](<#central-creativity-cc>), and even [alliance](<#alliance-level-4d-democracy-al5d>) and [cluster](<#cluster-level-4d-democracy-cl5d>) level 4D democracy, to which it serves as an academic base and verification source.
 </details>
 <details><summary><strong>Domestic Development System</strong></summary>
 
