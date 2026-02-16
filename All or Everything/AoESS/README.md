@@ -57,9 +57,9 @@ Community Clusters within the alliance have different operational models, resour
 Organization designed to put in place societal alliance network changes and additions in accordance with those proposed and verified within the Deliberative Decentralized Digital Direct Democracy.</details>
 <details><summary><strong>Function</strong></summary>
 
-Impliments procedural and structural additions, eliminations, and modifications according to the results approved by AL5D directly.
+Implements procedural and structural additions, eliminations, and modifications according to the results approved by AL5D directly.
 
-Operates with complete and uninhibited transparency (aside from dress code) within a glass-paned, wired & surveilled building with complete government serveillance (serveillance of the government, by the people) integrated. Crew are appointed by public vote with potential bad actors filtered out by personal history and social tests of reliability. Crew members observed acting out of alignment with the input of 4D Democracy are removed from the position and a replacement is appointed.
+Operates with complete and uninhibited transparency (aside from dress code) within a glass-paned, wired & surveilled building with complete government surveillance (surveillance of the government, by the people) integrated. Crew are appointed by public vote with potential bad actors filtered out by personal history and social tests of reliability. Crew members observed acting out of alignment with the input of 4D Democracy are removed from the position and a replacement is appointed.
 
 
 </details>
@@ -74,7 +74,7 @@ Without this, [AL5D](#alliance-level-4d-democracy-al5d) would be functionally un
 
 <details><summary><strong>Limitations</strong></summary>
 
-Must be transparent to ensure changes carried out accurately match what is prescribed by [AL5D](<#alliance-level-4d-democracy-al5d>), within tight margins. Further improvements to this institution are also open for modification by [AL5D](<#alliance-level-4d-democracy-al5d>), for circumstances in which the system's design features, or lack thereof, hinder effective implimentation. Dual nested sections are dedicated to carrying out these institutional changes, on the surrounding institution structure and then on each other, as prescribed by [AL5D](<#alliance-level-4d-democracy-al5d>).</details>
+Must be transparent to ensure changes carried out accurately match what is prescribed by [AL5D](<#alliance-level-4d-democracy-al5d>), within tight margins. Further improvements to this institution are also open for modification by [AL5D](<#alliance-level-4d-democracy-al5d>), for circumstances in which the system's design features, or lack thereof, hinder effective implementation. Dual nested sections are dedicated to carrying out these institutional changes, on the surrounding institution structure and then on each other, as prescribed by [AL5D](<#alliance-level-4d-democracy-al5d>).</details>
 </details>
 
 
@@ -90,7 +90,7 @@ A shared coordination structure held in common by all community clusters. Subjec
 
 <details><summary><strong>Function</strong></summary>
 
-Prevents its own dissolution through checks in place between community clusters and acts as a mechanism locking all interests together and keeping them together. Strengthens the collective power of the community clustersShs without weakening their ability to adapt to local events and conditions. Serves as a strong integrated inter-cluster contract structured for collective benefit, mutual reinforcement, collective protection, and sequential cluster-by-cluster expansion.
+Prevents its own dissolution through checks in place between community clusters and acts as a mechanism locking all interests together and keeping them together. Strengthens the collective power of the community clusters without weakening their ability to adapt to local events and conditions. Serves as a strong integrated inter-cluster contract structured for collective benefit, mutual reinforcement, collective protection, and sequential cluster-by-cluster expansion.
 
 </details>
 
