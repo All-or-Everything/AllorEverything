@@ -620,6 +620,12 @@ Promotes collaboration with Sector Support Systems of other sectors to create le
 
 <details><summary><strong>Description</strong></summary>
 
+A full rearchitecting of public schooling, overriding outdated assumptions and placing the students first, ultimately setting them up for success in some of the most direct ways possible.
+
+</details>
+
+<details><summary><strong>Function</strong></summary>
+
 Gains of cultural and cognitive function are facilitated through minimal, rigorously proven and justified means. All difficulty, complexity, and latency imposed in learning materials and tasks must be justified by improvement in gain of function uptake. Focuses on knowledge which has use and significance given sufficient reality checks.
 
 Separate topics, sciences, and other interrelated artifacts of academic stratification are unified into one reality, known as simply teaching or learning depending on position. Lessons are anchored firmly to the matters of reality they correspond and are applied to. The whole is then mapped out as a logical progression from the earliest prerequisites to more powerful intellectual skills, with cultural and cognitive functions from different domains complimenting each other’s intake.
@@ -633,11 +639,9 @@ The mechanisms of campus governance mirror community cluster governance, prepari
 Children are acclimated to holding important roles early on, especially if found to excel at administrative roles, increasing confidence, familiarity, autonomy, and overall competence and reliability in company, institutional, or governmental positions of leadership.
 
 </details>
-
-<details><summary><strong>Function</strong></summary>
-
-</details>
 <details><summary><strong>Purpose</strong></summary>
+
+
 
 </details>
 <details><summary><strong>Justification</strong></summary>
