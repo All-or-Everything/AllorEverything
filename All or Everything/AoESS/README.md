@@ -624,48 +624,13 @@ Gains of cultural and cognitive function are facilitated through minimal, rigoro
 
 Separate topics, sciences, and other interrelated artifacts of academic stratification are unified into one reality, known as simply teaching or learning depending on position. Lessons are anchored firmly to the matters of reality they correspond and are applied to. The whole is then mapped out as a logical progression from the earliest prerequisites to more powerful intellectual skills, with cultural and cognitive functions from different domains complimenting each other’s intake.
 
+Children are taught their rights, the purpose they serve, how to detect cultural and institutional drift from the interests of the people, mechanisms to correct this, and the consequences of inaction if these things are observed.
 
+Integrated mechanisms enable and encourage students to actively engage in school administration, and if proven sufficient merit can play roles and hold formal positions in campus governance, lead projects, and even ascend to outside organizations and institutions.
 
+The mechanisms of campus governance mirror community cluster governance, preparing children for democratic engagement in their adult lives. School largely mirrors the world students are being prepared for, conditioning habits, sharpening skills, and introducing experiences early on for direct application later in life.
 
-
-
-
-
-
-
-
-This saves time and effort which can then be used to advance in other topics. Knowledge which has no use or significance in reality is not relevant for anything which pertains to reality. Such interconnected and integrated lessons would provide a more complete picture of reality, enabling within students the ability to apply their knowledge to a much greater extent, and to a much larger range of areas. All subjects taught provide more relevant, actionable knowledge, and emphasize the uses, significance, and implications of the knowledge provided.
-
-As almost all subjects are somewhat interrelated and rely on or can complement functions provided within each other, an overall more cohesive framework could be utilized, primarily based on the order of functions and not on the separation of topics.
-
-If a function from one topic can reduce the time and effort required to gain a function in another, this increases the efficiency of learning. Not only that, but it increases the richness and cohesiveness of the knowledge, and thus ability, which is gained.
-
-This would result in more connections and relations built up, providing references, analogies, and overall helping students understand and learn things better.
-
-
-
-
-
-
-How should we continue an order, once it is established? That is, after a generation manages to establish a better order, how should they bring forth the subsequent generations? There are things which are advisable to ensure that the current order does not degenerate into an order which is just as bad as the one before.
-
-In education, children should be taught their rights, the reasons for them, how to be sure that they are present and not being diminished, and what the consequences could be if they were to allow them to be taken away from them.
-
-There should be mechanisms in place that allow and encourage students to actively determine how the school is run. There should also be roles they can play and positions they can hold, where they are actively engaged in running different aspects of the school, various projects, or even external organizations and institutions if they show sufficient skill.
-
-It is necessary to teach children their rights, rights which enable their freedom and disable the threat of tyranny. By doing so, it strengthens the power that freedom holds over those who wish to take it away, as these children, when they become adults, will then easily detect when their rights are being whittled away so they can act in time to restore them, willing to go to great lengths to safeguard them, and conscious of what constitutes an infringement on the rights of others, thus able to avoid inflicting one.
-
-It is necessary to prepare children so they are used to having mechanisms which give them the power to, of their own free will, determine how the system they reside within is run, for this mindset is necessary so that they can understand and sustain the order as adults, and it doesn't hurt for them to be accustomed to engaging actively in the political system, as it tends to be the case that higher civic engagement improves government outcomes across the board.
-
-The mechanisms within the school should be designed to resemble, and prepare students for, the same mechanisms which would be in place for all citizens for the purpose of keeping government actions bound to the interests of the people. School should largely mirror the world that students are being prepared for, so that they pick up on habits, skills, and experiences early on that can be directly applied later in life, making things far easier for everyone.
-
-Children should be trained to have the ability, and be given the mechanisms, to make decisions for their own future. This would ensure that the next generation remains dedicated to the unfinished work of restraining and guiding their government, the work which they who came before them have thus far so nobly advanced. The work which ensures that government of the people, by the people, for the people, shall not perish from the earth.
-
-As such, it is necessary to prepare children so they are used to taking on important roles inside the system they reside within, for several reasons. To begin with, it would provide them with confidence and familiarity with such roles. This confidence and familiarity, in turn, increases the autonomy with which they can operate, which increases their performance. The self-reliance and independence gained from this increases their overall freedom and ability to take appropriate action in the case of government overreach.
-
-They would become more competent and reliable in company, institutional, or governmental positions of leadership. Importantly, a societal introduction of this nature would provide critical real-life experience, and, in doing so, accelerate the development of confidence and skill necessary for the performing of vital societal roles, rather than operating on infantilization as current schooling does.
-
-
+Children are acclimated to holding important roles early on, especially if found to excel at administrative roles, increasing confidence, familiarity, autonomy, and overall competence and reliability in company, institutional, or governmental positions of leadership.
 
 </details>
 
@@ -676,6 +641,18 @@ They would become more competent and reliable in company, institutional, or gove
 
 </details>
 <details><summary><strong>Justification</strong></summary>
+
+This saves time and effort which can then be used to advance in other topics.
+
+Knowledge which has no use or significance in reality is not relevant for anything which pertains to reality.
+
+Such interconnected and integrated lessons would provide a more complete picture of reality, enabling within students the ability to apply their knowledge to a much greater extent, and to a much larger range of areas.
+
+All subjects taught provide more relevant, actionable knowledge, and emphasize the uses, significance, and implications of the knowledge provided.
+
+All subjects are somewhat interrelated and rely on or can complement functions provided within each other, enabling a more cohesive framework.
+
+This would result in more connections and relations built up, providing references, analogies, and overall helping students understand and learn things better.
 
 </details>
 <details><summary><strong>Limitations</strong></summary>
