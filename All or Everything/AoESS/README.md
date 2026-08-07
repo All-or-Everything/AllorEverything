@@ -429,57 +429,23 @@ WIP
 
 <details><summary><strong>Description</strong></summary>
 
-A standardized structure designed to host early-stage ventures to lower the barrier to entry. Helps manage, organize, and operate early-stage ventures to lower the barrier to entry and support initiative.
-It provides robust infrastructure, ongoing maintenance, and an intuitive interface that supports startups from their initial formation through to eventual independent operation. By combining transparent regulatory reporting, expert oversight, and community feedback networks, SHS creates a supportive and regulated environment where promising business ideas can be transformed into viable companies.
+Like website hosting services but with startups instead of websites.
 </details>
 <details><summary><strong>Function</strong></summary>
 
-**Startup Farms:**  
-Entrepreneurs submit their business ideas into designated “startup farms,” where each proposal is evaluated by experienced experts for viability and alignment with predefined criteria.
-
-**Expert Review & Allocation:**  
-Approved ideas are allocated a dedicated section within the startup farm. Founders then use an easy-to-use interface to customize and manage their operations, receiving ongoing support and feedback.
-
-**Integrated Systems:**  
-The platform incorporates automated regulatory reporting, best-practice sharing, and community-driven proposals for continuous innovation. This network ensures that all startups adhere to standardized operational and compliance guidelines while also benefitting from collective industry insights.
-
-**Transition to Independence:**  
-As startups mature, they gradually transition from the highly structured and supportive environment of the startup farm into independent operations, while still remaining connected to a broader network that promotes transparency, accountability, and continuous improvement.
+Houses, manages, and organizes startups under a standardized framework, supplying founders with an intuitive interface designed to work with it. A plan, an idea, or whatever else underlies the basis one has for starting a company would be submitted to the network. These would be reviewed by experienced experts, who would then report back to the pending founder and provide their analysis. Questions would be asked about areas which lack sufficient consideration or explanation. Recommendations would be given to address deficiencies and/or mention further improvements which are possible. If the basis for starting a company is deemed sufficient, and the owner hasn’t delayed to make optional further improvements recommended, then a section of the startup farm is allocated to the new company, and the company starts its operation.
 </details>
 <details><summary><strong>Purpose</strong></summary>
 
-SHS is designed to accelerate economic innovation by lowering the barriers to entrepreneurship. It transforms raw ideas into sustainable businesses by:
- - Providing structured, expert-backed support during the critical early stages.
- - Streamlining the startup formation process and reducing costly trial-and-error.
- - Enabling a diverse range of individuals to participate in economic growth, thereby fostering a dynamic and inclusive entrepreneurial ecosystem.
+Provides the necessary infrastructure and maintenance for small businesses.
 </details>
 <details><summary><strong>Justification</strong></summary>
 
-**Bridging the Support Gap:**  
-Traditional systems often offer only basic business registration, leaving promising ideas unsupported. SHS fills this gap with comprehensive, hands-on support.
-  
-**Enhancing Survival Rates:**  
-By combining expert evaluations, structured oversight, and standardized management practices, the system increases the likelihood that early-stage ventures will succeed and scale.
-
-**Promoting Economic Inclusivity:**  
-The platform democratizes entrepreneurship by providing equal access to high-quality infrastructure and guidance, irrespective of an individual’s prior resources or expertise.
-
-**Driving Continuous Innovation:**  
-Integrated regulatory reporting and community feedback foster an environment of transparency and collaborative improvement, ensuring that startups remain adaptive and competitive in a rapidly evolving economic landscape.
+Makes the process of company organization and management simple and flexible, enabling founders easy arrangement and customization of their businesses. Many people have remarkable business ideas, but simply don’t know how to either start or run a business themselves. The ability to do so is vital if one wants to turn these ideas into a reality, something which is important for economic development, diversity, and innovation in general. This is a place where providing assistance would be in the best interests of the economy in general, which includes everyone within it.
 </details>
 <details><summary><strong>Limitations</strong></summary>
 
-**Resource Intensity:**  
-Implementing SHS requires significant investment in expert personnel, robust technological infrastructure, and continuous funding to maintain and update the system.
-
-**Standardization vs. Flexibility:**  
-While a standardized framework promotes consistency and regulatory compliance, it may constrain unconventional or highly innovative business models. Moreover, reliance on expert assessments could introduce subjective biases.
-
-**Transition Complexity:**  
-Moving from a highly supportive startup farm environment to full operational independence is challenging. Startups must adapt to less structured regulatory frameworks while maintaining the operational rigor instilled during the hosting phase.
-
-**Bureaucratic Overhead:**  
-Mandatory transparency and public reporting, although beneficial for accountability, can introduce bureaucratic complexities that may slow decision-making or burden startups with additional compliance requirements.
+Once a startup grows too big for the startup farm, it must then develop its own specialized facilities and move out.
 </details>
 </details>
 
