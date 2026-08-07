@@ -647,11 +647,11 @@ Networks labor in the economy for effective talent allocation.
 
 <details><summary><h3>Social Community Composite (SCC)</h3></summary>
 
-Organized system of societal-scale social management, regulation, facilitation, development, and improvement. Groups families into regional multi-family social alliances, Social Integration Communities (SICs), based on their geographic proximity to each other. SIOs serve as the dual purpose of both a social alliance and a node for local system integrations.
+Organized system of societal-scale social management, regulation, facilitation, development, and improvement. Groups families into regional multi-family social alliances, Social Integration Communities (SICs), based on their geographic proximity to each other. SICs serve as the dual purpose of both a social alliance and a node for local system integrations.
 
 <details><summary><strong>Community Support Network</strong></summary>
 
-Parents in the organization are bound to holding each other accountable to basic criteria in the treatment of their children and share a level of custody with each other. Corrects improper parenting behavior, preventing child mistreatment by increasing the diversity in parental oversight.
+Parents in the organization are bound to holding each other accountable to basic criteria in the treatment of their children and share a level of accountability to - and with - each other. Corrects improper parenting behavior, preventing child mistreatment by increasing the diversity in parental oversight and balancing the near-absolute power of parents over their children, particularly when it inflicts abuse or gross negligence. Provides familiar, low-disruption relocation sanctuaries for children under cases of confirmed mistreatment or in cases where child safety & wellbeing must be further assessed, with permanence of relocation due to probable parental misconduct depending on circumstances, possible parenting education conditions, and trust of the child & willingness to return.
 </details>
 <details><summary><strong>Local System Integrations</strong></summary>
 WIP
