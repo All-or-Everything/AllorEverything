@@ -640,7 +640,7 @@ This would result in more connections and relations built up, providing referenc
 Networks labor in the economy for effective talent allocation.
 
 </details>
-
+</details>
 
 
 
